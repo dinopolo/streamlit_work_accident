@@ -1,0 +1,1078 @@
+ano,mes,motivo_situacao,qte_acidentes,situacao,data
+1997,1,Típico-Com Cat,27116,Com Cat Registrada,1997-01-01
+1997,2,Típico-Com Cat,24612,Com Cat Registrada,1997-02-01
+1997,3,Típico-Com Cat,28273,Com Cat Registrada,1997-03-01
+1997,4,Típico-Com Cat,28374,Com Cat Registrada,1997-04-01
+1997,5,Típico-Com Cat,28997,Com Cat Registrada,1997-05-01
+1997,6,Típico-Com Cat,29573,Com Cat Registrada,1997-06-01
+1997,7,Típico-Com Cat,31815,Com Cat Registrada,1997-07-01
+1997,8,Típico-Com Cat,30428,Com Cat Registrada,1997-08-01
+1997,9,Típico-Com Cat,32769,Com Cat Registrada,1997-09-01
+1997,10,Típico-Com Cat,34336,Com Cat Registrada,1997-10-01
+1997,11,Típico-Com Cat,29610,Com Cat Registrada,1997-11-01
+1997,12,Típico-Com Cat,21579,Com Cat Registrada,1997-12-01
+1997,1,Trajeto-Com Cat,3013,Com Cat Registrada,1997-01-01
+1997,2,Trajeto-Com Cat,2567,Com Cat Registrada,1997-02-01
+1997,3,Trajeto-Com Cat,2882,Com Cat Registrada,1997-03-01
+1997,4,Trajeto-Com Cat,2921,Com Cat Registrada,1997-04-01
+1997,5,Trajeto-Com Cat,3105,Com Cat Registrada,1997-05-01
+1997,6,Trajeto-Com Cat,3460,Com Cat Registrada,1997-06-01
+1997,7,Trajeto-Com Cat,3363,Com Cat Registrada,1997-07-01
+1997,8,Trajeto-Com Cat,3246,Com Cat Registrada,1997-08-01
+1997,9,Trajeto-Com Cat,3432,Com Cat Registrada,1997-09-01
+1997,10,Trajeto-Com Cat,3603,Com Cat Registrada,1997-10-01
+1997,11,Trajeto-Com Cat,3129,Com Cat Registrada,1997-11-01
+1997,12,Trajeto-Com Cat,2492,Com Cat Registrada,1997-12-01
+1997,1,Doença do Trabalho-Com Cat,3257,Com Cat Registrada,1997-01-01
+1997,2,Doença do Trabalho-Com Cat,2916,Com Cat Registrada,1997-02-01
+1997,3,Doença do Trabalho-Com Cat,3537,Com Cat Registrada,1997-03-01
+1997,4,Doença do Trabalho-Com Cat,3691,Com Cat Registrada,1997-04-01
+1997,5,Doença do Trabalho-Com Cat,2930,Com Cat Registrada,1997-05-01
+1997,6,Doença do Trabalho-Com Cat,3162,Com Cat Registrada,1997-06-01
+1997,7,Doença do Trabalho-Com Cat,3073,Com Cat Registrada,1997-07-01
+1997,8,Doença do Trabalho-Com Cat,3068,Com Cat Registrada,1997-08-01
+1997,9,Doença do Trabalho-Com Cat,3448,Com Cat Registrada,1997-09-01
+1997,10,Doença do Trabalho-Com Cat,3049,Com Cat Registrada,1997-10-01
+1997,11,Doença do Trabalho-Com Cat,2614,Com Cat Registrada,1997-11-01
+1997,12,Doença do Trabalho-Com Cat,1903,Com Cat Registrada,1997-12-01
+1998,1,Típico-Com Cat,26381,Com Cat Registrada,1998-01-01
+1998,1,Trajeto-Com Cat,2718,Com Cat Registrada,1998-01-01
+1998,1,Doença do Trabalho-Com Cat,2553,Com Cat Registrada,1998-01-01
+1998,2,Típico-Com Cat,25908,Com Cat Registrada,1998-02-01
+1998,2,Trajeto-Com Cat,2591,Com Cat Registrada,1998-02-01
+1998,2,Doença do Trabalho-Com Cat,2484,Com Cat Registrada,1998-02-01
+1998,3,Típico-Com Cat,31538,Com Cat Registrada,1998-03-01
+1998,3,Trajeto-Com Cat,3080,Com Cat Registrada,1998-03-01
+1998,3,Doença do Trabalho-Com Cat,3125,Com Cat Registrada,1998-03-01
+1998,4,Típico-Com Cat,26495,Com Cat Registrada,1998-04-01
+1998,4,Trajeto-Com Cat,2748,Com Cat Registrada,1998-04-01
+1998,4,Doença do Trabalho-Com Cat,2636,Com Cat Registrada,1998-04-01
+1998,5,Típico-Com Cat,30261,Com Cat Registrada,1998-05-01
+1998,5,Trajeto-Com Cat,3123,Com Cat Registrada,1998-05-01
+1998,5,Doença do Trabalho-Com Cat,2649,Com Cat Registrada,1998-05-01
+1998,6,Típico-Com Cat,29034,Com Cat Registrada,1998-06-01
+1998,6,Trajeto-Com Cat,3099,Com Cat Registrada,1998-06-01
+1998,6,Doença do Trabalho-Com Cat,2490,Com Cat Registrada,1998-06-01
+1998,7,Típico-Com Cat,30716,Com Cat Registrada,1998-07-01
+1998,7,Trajeto-Com Cat,3233,Com Cat Registrada,1998-07-01
+1998,7,Doença do Trabalho-Com Cat,2475,Com Cat Registrada,1998-07-01
+1998,8,Típico-Com Cat,32069,Com Cat Registrada,1998-08-01
+1998,8,Trajeto-Com Cat,3268,Com Cat Registrada,1998-08-01
+1998,8,Doença do Trabalho-Com Cat,2770,Com Cat Registrada,1998-08-01
+1998,9,Típico-Com Cat,30818,Com Cat Registrada,1998-09-01
+1998,9,Trajeto-Com Cat,3211,Com Cat Registrada,1998-09-01
+1998,9,Doença do Trabalho-Com Cat,2645,Com Cat Registrada,1998-09-01
+1998,10,Típico-Com Cat,30470,Com Cat Registrada,1998-10-01
+1998,10,Trajeto-Com Cat,3072,Com Cat Registrada,1998-10-01
+1998,10,Doença do Trabalho-Com Cat,2501,Com Cat Registrada,1998-10-01
+1998,11,Típico-Com Cat,29700,Com Cat Registrada,1998-11-01
+1998,11,Trajeto-Com Cat,3178,Com Cat Registrada,1998-11-01
+1998,11,Doença do Trabalho-Com Cat,2368,Com Cat Registrada,1998-11-01
+1998,12,Típico-Com Cat,24348,Com Cat Registrada,1998-12-01
+1998,12,Trajeto-Com Cat,2793,Com Cat Registrada,1998-12-01
+1998,12,Doença do Trabalho-Com Cat,1793,Com Cat Registrada,1998-12-01
+1999,1,Típico-Com Cat,25094,Com Cat Registrada,1999-01-01
+1999,1,Trajeto-Com Cat,2908,Com Cat Registrada,1999-01-01
+1999,1,Doença do Trabalho-Com Cat,2007,Com Cat Registrada,1999-01-01
+1999,2,Típico-Com Cat,22203,Com Cat Registrada,1999-02-01
+1999,2,Trajeto-Com Cat,2629,Com Cat Registrada,1999-02-01
+1999,2,Doença do Trabalho-Com Cat,1847,Com Cat Registrada,1999-02-01
+1999,3,Típico-Com Cat,27738,Com Cat Registrada,1999-03-01
+1999,3,Trajeto-Com Cat,3161,Com Cat Registrada,1999-03-01
+1999,3,Doença do Trabalho-Com Cat,2514,Com Cat Registrada,1999-03-01
+1999,4,Típico-Com Cat,25698,Com Cat Registrada,1999-04-01
+1999,4,Trajeto-Com Cat,2994,Com Cat Registrada,1999-04-01
+1999,4,Doença do Trabalho-Com Cat,1899,Com Cat Registrada,1999-04-01
+1999,5,Típico-Com Cat,29192,Com Cat Registrada,1999-05-01
+1999,5,Trajeto-Com Cat,3398,Com Cat Registrada,1999-05-01
+1999,5,Doença do Trabalho-Com Cat,2134,Com Cat Registrada,1999-05-01
+1999,6,Típico-Com Cat,28398,Com Cat Registrada,1999-06-01
+1999,6,Trajeto-Com Cat,3394,Com Cat Registrada,1999-06-01
+1999,6,Doença do Trabalho-Com Cat,2143,Com Cat Registrada,1999-06-01
+1999,7,Típico-Com Cat,29451,Com Cat Registrada,1999-07-01
+1999,7,Trajeto-Com Cat,3259,Com Cat Registrada,1999-07-01
+1999,7,Doença do Trabalho-Com Cat,2142,Com Cat Registrada,1999-07-01
+1999,8,Típico-Com Cat,30741,Com Cat Registrada,1999-08-01
+1999,8,Trajeto-Com Cat,3368,Com Cat Registrada,1999-08-01
+1999,8,Doença do Trabalho-Com Cat,2293,Com Cat Registrada,1999-08-01
+1999,9,Típico-Com Cat,28957,Com Cat Registrada,1999-09-01
+1999,9,Trajeto-Com Cat,3248,Com Cat Registrada,1999-09-01
+1999,9,Doença do Trabalho-Com Cat,1847,Com Cat Registrada,1999-09-01
+1999,10,Típico-Com Cat,27704,Com Cat Registrada,1999-10-01
+1999,10,Trajeto-Com Cat,3019,Com Cat Registrada,1999-10-01
+1999,10,Doença do Trabalho-Com Cat,1826,Com Cat Registrada,1999-10-01
+1999,11,Típico-Com Cat,27013,Com Cat Registrada,1999-11-01
+1999,11,Trajeto-Com Cat,3095,Com Cat Registrada,1999-11-01
+1999,11,Doença do Trabalho-Com Cat,1777,Com Cat Registrada,1999-11-01
+1999,12,Típico-Com Cat,24215,Com Cat Registrada,1999-12-01
+1999,12,Trajeto-Com Cat,3040,Com Cat Registrada,1999-12-01
+1999,12,Doença do Trabalho-Com Cat,1474,Com Cat Registrada,1999-12-01
+2000,1,Típico-Com Cat,25939,Com Cat Registrada,2000-01-01
+2000,1,Trajeto-Com Cat,3091,Com Cat Registrada,2000-01-01
+2000,1,Doença do Trabalho-Com Cat,1707,Com Cat Registrada,2000-01-01
+2000,2,Típico-Com Cat,27180,Com Cat Registrada,2000-02-01
+2000,2,Trajeto-Com Cat,3597,Com Cat Registrada,2000-02-01
+2000,2,Doença do Trabalho-Com Cat,1793,Com Cat Registrada,2000-02-01
+2000,3,Típico-Com Cat,29283,Com Cat Registrada,2000-03-01
+2000,3,Trajeto-Com Cat,3827,Com Cat Registrada,2000-03-01
+2000,3,Doença do Trabalho-Com Cat,2004,Com Cat Registrada,2000-03-01
+2000,4,Típico-Com Cat,26841,Com Cat Registrada,2000-04-01
+2000,4,Trajeto-Com Cat,3600,Com Cat Registrada,2000-04-01
+2000,4,Doença do Trabalho-Com Cat,1790,Com Cat Registrada,2000-04-01
+2000,5,Típico-Com Cat,26627,Com Cat Registrada,2000-05-01
+2000,5,Trajeto-Com Cat,3536,Com Cat Registrada,2000-05-01
+2000,5,Doença do Trabalho-Com Cat,1668,Com Cat Registrada,2000-05-01
+2000,6,Típico-Com Cat,21750,Com Cat Registrada,2000-06-01
+2000,6,Trajeto-Com Cat,2940,Com Cat Registrada,2000-06-01
+2000,6,Doença do Trabalho-Com Cat,1412,Com Cat Registrada,2000-06-01
+2000,7,Típico-Com Cat,23305,Com Cat Registrada,2000-07-01
+2000,7,Trajeto-Com Cat,2974,Com Cat Registrada,2000-07-01
+2000,7,Doença do Trabalho-Com Cat,1479,Com Cat Registrada,2000-07-01
+2000,8,Típico-Com Cat,26908,Com Cat Registrada,2000-08-01
+2000,8,Trajeto-Com Cat,3374,Com Cat Registrada,2000-08-01
+2000,8,Doença do Trabalho-Com Cat,1928,Com Cat Registrada,2000-08-01
+2000,9,Típico-Com Cat,24268,Com Cat Registrada,2000-09-01
+2000,9,Trajeto-Com Cat,2966,Com Cat Registrada,2000-09-01
+2000,9,Doença do Trabalho-Com Cat,1596,Com Cat Registrada,2000-09-01
+2000,10,Típico-Com Cat,26725,Com Cat Registrada,2000-10-01
+2000,10,Trajeto-Com Cat,3215,Com Cat Registrada,2000-10-01
+2000,10,Doença do Trabalho-Com Cat,1561,Com Cat Registrada,2000-10-01
+2000,11,Típico-Com Cat,24298,Com Cat Registrada,2000-11-01
+2000,11,Trajeto-Com Cat,3091,Com Cat Registrada,2000-11-01
+2000,11,Doença do Trabalho-Com Cat,1427,Com Cat Registrada,2000-11-01
+2000,12,Típico-Com Cat,21839,Com Cat Registrada,2000-12-01
+2000,12,Trajeto-Com Cat,3089,Com Cat Registrada,2000-12-01
+2000,12,Doença do Trabalho-Com Cat,1240,Com Cat Registrada,2000-12-01
+2001,1,Típico-Com Cat,24277,Com Cat Registrada,2001-01-01
+2001,1,Trajeto-Com Cat,3088,Com Cat Registrada,2001-01-01
+2001,1,Doença do Trabalho-Com Cat,1565,Com Cat Registrada,2001-01-01
+2001,2,Típico-Com Cat,21657,Com Cat Registrada,2001-02-01
+2001,2,Trajeto-Com Cat,2832,Com Cat Registrada,2001-02-01
+2001,2,Doença do Trabalho-Com Cat,1353,Com Cat Registrada,2001-02-01
+2001,3,Típico-Com Cat,26584,Com Cat Registrada,2001-03-01
+2001,3,Trajeto-Com Cat,3526,Com Cat Registrada,2001-03-01
+2001,3,Doença do Trabalho-Com Cat,1792,Com Cat Registrada,2001-03-01
+2001,4,Típico-Com Cat,23444,Com Cat Registrada,2001-04-01
+2001,4,Trajeto-Com Cat,3326,Com Cat Registrada,2001-04-01
+2001,4,Doença do Trabalho-Com Cat,1584,Com Cat Registrada,2001-04-01
+2001,5,Típico-Com Cat,25963,Com Cat Registrada,2001-05-01
+2001,5,Trajeto-Com Cat,3538,Com Cat Registrada,2001-05-01
+2001,5,Doença do Trabalho-Com Cat,1851,Com Cat Registrada,2001-05-01
+2001,6,Típico-Com Cat,23739,Com Cat Registrada,2001-06-01
+2001,6,Trajeto-Com Cat,3254,Com Cat Registrada,2001-06-01
+2001,6,Doença do Trabalho-Com Cat,1589,Com Cat Registrada,2001-06-01
+2001,7,Típico-Com Cat,25577,Com Cat Registrada,2001-07-01
+2001,7,Trajeto-Com Cat,3429,Com Cat Registrada,2001-07-01
+2001,7,Doença do Trabalho-Com Cat,1552,Com Cat Registrada,2001-07-01
+2001,8,Típico-Com Cat,23995,Com Cat Registrada,2001-08-01
+2001,8,Trajeto-Com Cat,3311,Com Cat Registrada,2001-08-01
+2001,8,Doença do Trabalho-Com Cat,1699,Com Cat Registrada,2001-08-01
+2001,9,Típico-Com Cat,20317,Com Cat Registrada,2001-09-01
+2001,9,Trajeto-Com Cat,2780,Com Cat Registrada,2001-09-01
+2001,9,Doença do Trabalho-Com Cat,1304,Com Cat Registrada,2001-09-01
+2001,10,Típico-Com Cat,23141,Com Cat Registrada,2001-10-01
+2001,10,Trajeto-Com Cat,3189,Com Cat Registrada,2001-10-01
+2001,10,Doença do Trabalho-Com Cat,1520,Com Cat Registrada,2001-10-01
+2001,11,Típico-Com Cat,23005,Com Cat Registrada,2001-11-01
+2001,11,Trajeto-Com Cat,3241,Com Cat Registrada,2001-11-01
+2001,11,Doença do Trabalho-Com Cat,1369,Com Cat Registrada,2001-11-01
+2001,12,Típico-Com Cat,21266,Com Cat Registrada,2001-12-01
+2001,12,Trajeto-Com Cat,3285,Com Cat Registrada,2001-12-01
+2001,12,Doença do Trabalho-Com Cat,1309,Com Cat Registrada,2001-12-01
+2002,1,Típico-Com Cat,24624,Com Cat Registrada,2002-01-01
+2002,1,Trajeto-Com Cat,3382,Com Cat Registrada,2002-01-01
+2002,1,Doença do Trabalho-Com Cat,1702,Com Cat Registrada,2002-01-01
+2002,2,Típico-Com Cat,23235,Com Cat Registrada,2002-02-01
+2002,2,Trajeto-Com Cat,3357,Com Cat Registrada,2002-02-01
+2002,2,Doença do Trabalho-Com Cat,1666,Com Cat Registrada,2002-02-01
+2002,3,Típico-Com Cat,26796,Com Cat Registrada,2002-03-01
+2002,3,Trajeto-Com Cat,3904,Com Cat Registrada,2002-03-01
+2002,3,Doença do Trabalho-Com Cat,1845,Com Cat Registrada,2002-03-01
+2002,4,Típico-Com Cat,28863,Com Cat Registrada,2002-04-01
+2002,4,Trajeto-Com Cat,4107,Com Cat Registrada,2002-04-01
+2002,4,Doença do Trabalho-Com Cat,2230,Com Cat Registrada,2002-04-01
+2002,5,Típico-Com Cat,27722,Com Cat Registrada,2002-05-01
+2002,5,Trajeto-Com Cat,4037,Com Cat Registrada,2002-05-01
+2002,5,Doença do Trabalho-Com Cat,1920,Com Cat Registrada,2002-05-01
+2002,6,Típico-Com Cat,26751,Com Cat Registrada,2002-06-01
+2002,6,Trajeto-Com Cat,4063,Com Cat Registrada,2002-06-01
+2002,6,Doença do Trabalho-Com Cat,1784,Com Cat Registrada,2002-06-01
+2002,7,Típico-Com Cat,28555,Com Cat Registrada,2002-07-01
+2002,7,Trajeto-Com Cat,4097,Com Cat Registrada,2002-07-01
+2002,7,Doença do Trabalho-Com Cat,1971,Com Cat Registrada,2002-07-01
+2002,8,Típico-Com Cat,29747,Com Cat Registrada,2002-08-01
+2002,8,Trajeto-Com Cat,4178,Com Cat Registrada,2002-08-01
+2002,8,Doença do Trabalho-Com Cat,2091,Com Cat Registrada,2002-08-01
+2002,9,Típico-Com Cat,27773,Com Cat Registrada,2002-09-01
+2002,9,Trajeto-Com Cat,4004,Com Cat Registrada,2002-09-01
+2002,9,Doença do Trabalho-Com Cat,1946,Com Cat Registrada,2002-09-01
+2002,10,Típico-Com Cat,30234,Com Cat Registrada,2002-10-01
+2002,10,Trajeto-Com Cat,4393,Com Cat Registrada,2002-10-01
+2002,10,Doença do Trabalho-Com Cat,2063,Com Cat Registrada,2002-10-01
+2002,11,Típico-Com Cat,26765,Com Cat Registrada,2002-11-01
+2002,11,Trajeto-Com Cat,3793,Com Cat Registrada,2002-11-01
+2002,11,Doença do Trabalho-Com Cat,1672,Com Cat Registrada,2002-11-01
+2002,12,Típico-Com Cat,22814,Com Cat Registrada,2002-12-01
+2002,12,Trajeto-Com Cat,3566,Com Cat Registrada,2002-12-01
+2002,12,Doença do Trabalho-Com Cat,1421,Com Cat Registrada,2002-12-01
+2003,1,Típico-Com Cat,26281,Com Cat Registrada,2003-01-01
+2003,1,Trajeto-Com Cat,3855,Com Cat Registrada,2003-01-01
+2003,1,Doença do Trabalho-Com Cat,1995,Com Cat Registrada,2003-01-01
+2003,2,Típico-Com Cat,25892,Com Cat Registrada,2003-02-01
+2003,2,Trajeto-Com Cat,3848,Com Cat Registrada,2003-02-01
+2003,2,Doença do Trabalho-Com Cat,1991,Com Cat Registrada,2003-02-01
+2003,3,Típico-Com Cat,25941,Com Cat Registrada,2003-03-01
+2003,3,Trajeto-Com Cat,3835,Com Cat Registrada,2003-03-01
+2003,3,Doença do Trabalho-Com Cat,2042,Com Cat Registrada,2003-03-01
+2003,4,Típico-Com Cat,25235,Com Cat Registrada,2003-04-01
+2003,4,Trajeto-Com Cat,3933,Com Cat Registrada,2003-04-01
+2003,4,Doença do Trabalho-Com Cat,1927,Com Cat Registrada,2003-04-01
+2003,5,Típico-Com Cat,27739,Com Cat Registrada,2003-05-01
+2003,5,Trajeto-Com Cat,4248,Com Cat Registrada,2003-05-01
+2003,5,Doença do Trabalho-Com Cat,1955,Com Cat Registrada,2003-05-01
+2003,6,Típico-Com Cat,26873,Com Cat Registrada,2003-06-01
+2003,6,Trajeto-Com Cat,4069,Com Cat Registrada,2003-06-01
+2003,6,Doença do Trabalho-Com Cat,1884,Com Cat Registrada,2003-06-01
+2003,7,Típico-Com Cat,26757,Com Cat Registrada,2003-07-01
+2003,7,Trajeto-Com Cat,4109,Com Cat Registrada,2003-07-01
+2003,7,Doença do Trabalho-Com Cat,1834,Com Cat Registrada,2003-07-01
+2003,8,Típico-Com Cat,26999,Com Cat Registrada,2003-08-01
+2003,8,Trajeto-Com Cat,4172,Com Cat Registrada,2003-08-01
+2003,8,Doença do Trabalho-Com Cat,2030,Com Cat Registrada,2003-08-01
+2003,9,Típico-Com Cat,29876,Com Cat Registrada,2003-09-01
+2003,9,Trajeto-Com Cat,4381,Com Cat Registrada,2003-09-01
+2003,9,Doença do Trabalho-Com Cat,2287,Com Cat Registrada,2003-09-01
+2003,10,Típico-Com Cat,31432,Com Cat Registrada,2003-10-01
+2003,10,Trajeto-Com Cat,4728,Com Cat Registrada,2003-10-01
+2003,10,Doença do Trabalho-Com Cat,2264,Com Cat Registrada,2003-10-01
+2003,11,Típico-Com Cat,28274,Com Cat Registrada,2003-11-01
+2003,11,Trajeto-Com Cat,4418,Com Cat Registrada,2003-11-01
+2003,11,Doença do Trabalho-Com Cat,2073,Com Cat Registrada,2003-11-01
+2003,12,Típico-Com Cat,24278,Com Cat Registrada,2003-12-01
+2003,12,Trajeto-Com Cat,4046,Com Cat Registrada,2003-12-01
+2003,12,Doença do Trabalho-Com Cat,1576,Com Cat Registrada,2003-12-01
+2004,1,Típico-Com Cat,27473,Com Cat Registrada,2004-01-01
+2004,1,Trajeto-Com Cat,4401,Com Cat Registrada,2004-01-01
+2004,1,Doença do Trabalho-Com Cat,2128,Com Cat Registrada,2004-01-01
+2004,2,Típico-Com Cat,26510,Com Cat Registrada,2004-02-01
+2004,2,Trajeto-Com Cat,4012,Com Cat Registrada,2004-02-01
+2004,2,Doença do Trabalho-Com Cat,2043,Com Cat Registrada,2004-02-01
+2004,3,Típico-Com Cat,33058,Com Cat Registrada,2004-03-01
+2004,3,Trajeto-Com Cat,5211,Com Cat Registrada,2004-03-01
+2004,3,Doença do Trabalho-Com Cat,2826,Com Cat Registrada,2004-03-01
+2004,4,Típico-Com Cat,28259,Com Cat Registrada,2004-04-01
+2004,4,Trajeto-Com Cat,4709,Com Cat Registrada,2004-04-01
+2004,4,Doença do Trabalho-Com Cat,2414,Com Cat Registrada,2004-04-01
+2004,5,Típico-Com Cat,30765,Com Cat Registrada,2004-05-01
+2004,5,Trajeto-Com Cat,5147,Com Cat Registrada,2004-05-01
+2004,5,Doença do Trabalho-Com Cat,2316,Com Cat Registrada,2004-05-01
+2004,6,Típico-Com Cat,31588,Com Cat Registrada,2004-06-01
+2004,6,Trajeto-Com Cat,5220,Com Cat Registrada,2004-06-01
+2004,6,Doença do Trabalho-Com Cat,2599,Com Cat Registrada,2004-06-01
+2004,7,Típico-Com Cat,33775,Com Cat Registrada,2004-07-01
+2004,7,Trajeto-Com Cat,5396,Com Cat Registrada,2004-07-01
+2004,7,Doença do Trabalho-Com Cat,2687,Com Cat Registrada,2004-07-01
+2004,8,Típico-Com Cat,35730,Com Cat Registrada,2004-08-01
+2004,8,Trajeto-Com Cat,5714,Com Cat Registrada,2004-08-01
+2004,8,Doença do Trabalho-Com Cat,3025,Com Cat Registrada,2004-08-01
+2004,9,Típico-Com Cat,33979,Com Cat Registrada,2004-09-01
+2004,9,Trajeto-Com Cat,5312,Com Cat Registrada,2004-09-01
+2004,9,Doença do Trabalho-Com Cat,2826,Com Cat Registrada,2004-09-01
+2004,10,Típico-Com Cat,32296,Com Cat Registrada,2004-10-01
+2004,10,Trajeto-Com Cat,4966,Com Cat Registrada,2004-10-01
+2004,10,Doença do Trabalho-Com Cat,2515,Com Cat Registrada,2004-10-01
+2004,11,Típico-Com Cat,32375,Com Cat Registrada,2004-11-01
+2004,11,Trajeto-Com Cat,5242,Com Cat Registrada,2004-11-01
+2004,11,Doença do Trabalho-Com Cat,2564,Com Cat Registrada,2004-11-01
+2004,12,Típico-Com Cat,29363,Com Cat Registrada,2004-12-01
+2004,12,Trajeto-Com Cat,5005,Com Cat Registrada,2004-12-01
+2004,12,Doença do Trabalho-Com Cat,2251,Com Cat Registrada,2004-12-01
+2005,1,Típico-Com Cat,31720,Com Cat Registrada,2005-01-01
+2005,1,Doença do Trabalho-Com Cat,2800,Com Cat Registrada,2005-01-01
+2005,1,Trajeto-Com Cat,5079,Com Cat Registrada,2005-01-01
+2005,2,Típico-Com Cat,29435,Com Cat Registrada,2005-02-01
+2005,2,Doença do Trabalho-Com Cat,2929,Com Cat Registrada,2005-02-01
+2005,2,Trajeto-Com Cat,4947,Com Cat Registrada,2005-02-01
+2005,3,Típico-Com Cat,34785,Com Cat Registrada,2005-03-01
+2005,3,Doença do Trabalho-Com Cat,3462,Com Cat Registrada,2005-03-01
+2005,3,Trajeto-Com Cat,5916,Com Cat Registrada,2005-03-01
+2005,4,Típico-Com Cat,32785,Com Cat Registrada,2005-04-01
+2005,4,Doença do Trabalho-Com Cat,2852,Com Cat Registrada,2005-04-01
+2005,4,Trajeto-Com Cat,5554,Com Cat Registrada,2005-04-01
+2005,5,Típico-Com Cat,33674,Com Cat Registrada,2005-05-01
+2005,5,Doença do Trabalho-Com Cat,2811,Com Cat Registrada,2005-05-01
+2005,5,Trajeto-Com Cat,5722,Com Cat Registrada,2005-05-01
+2005,6,Típico-Com Cat,33498,Com Cat Registrada,2005-06-01
+2005,6,Doença do Trabalho-Com Cat,2592,Com Cat Registrada,2005-06-01
+2005,6,Trajeto-Com Cat,5922,Com Cat Registrada,2005-06-01
+2005,7,Típico-Com Cat,32552,Com Cat Registrada,2005-07-01
+2005,7,Doença do Trabalho-Com Cat,2471,Com Cat Registrada,2005-07-01
+2005,7,Trajeto-Com Cat,5655,Com Cat Registrada,2005-07-01
+2005,8,Típico-Com Cat,36719,Com Cat Registrada,2005-08-01
+2005,8,Doença do Trabalho-Com Cat,3006,Com Cat Registrada,2005-08-01
+2005,8,Trajeto-Com Cat,6380,Com Cat Registrada,2005-08-01
+2005,9,Típico-Com Cat,34071,Com Cat Registrada,2005-09-01
+2005,9,Doença do Trabalho-Com Cat,2696,Com Cat Registrada,2005-09-01
+2005,9,Trajeto-Com Cat,5715,Com Cat Registrada,2005-09-01
+2005,10,Típico-Com Cat,34615,Com Cat Registrada,2005-10-01
+2005,10,Doença do Trabalho-Com Cat,2621,Com Cat Registrada,2005-10-01
+2005,10,Trajeto-Com Cat,5762,Com Cat Registrada,2005-10-01
+2005,11,Típico-Com Cat,33767,Com Cat Registrada,2005-11-01
+2005,11,Doença do Trabalho-Com Cat,2487,Com Cat Registrada,2005-11-01
+2005,11,Trajeto-Com Cat,5565,Com Cat Registrada,2005-11-01
+2005,12,Típico-Com Cat,30992,Com Cat Registrada,2005-12-01
+2005,12,Doença do Trabalho-Com Cat,2369,Com Cat Registrada,2005-12-01
+2005,12,Trajeto-Com Cat,5754,Com Cat Registrada,2005-12-01
+2006,1,Típico-Com Cat,34155,Com Cat Registrada,2006-01-01
+2006,1,Doença do Trabalho-Com Cat,2734,Com Cat Registrada,2006-01-01
+2006,1,Trajeto-Com Cat,5675,Com Cat Registrada,2006-01-01
+2006,2,Típico-Com Cat,30769,Com Cat Registrada,2006-02-01
+2006,2,Doença do Trabalho-Com Cat,2572,Com Cat Registrada,2006-02-01
+2006,2,Trajeto-Com Cat,5284,Com Cat Registrada,2006-02-01
+2006,3,Típico-Com Cat,37081,Com Cat Registrada,2006-03-01
+2006,3,Doença do Trabalho-Com Cat,2983,Com Cat Registrada,2006-03-01
+2006,3,Trajeto-Com Cat,6633,Com Cat Registrada,2006-03-01
+2006,4,Típico-Com Cat,30038,Com Cat Registrada,2006-04-01
+2006,4,Doença do Trabalho-Com Cat,2429,Com Cat Registrada,2006-04-01
+2006,4,Trajeto-Com Cat,5763,Com Cat Registrada,2006-04-01
+2006,5,Típico-Com Cat,35070,Com Cat Registrada,2006-05-01
+2006,5,Doença do Trabalho-Com Cat,2866,Com Cat Registrada,2006-05-01
+2006,5,Trajeto-Com Cat,6665,Com Cat Registrada,2006-05-01
+2006,6,Típico-Com Cat,33303,Com Cat Registrada,2006-06-01
+2006,6,Doença do Trabalho-Com Cat,2389,Com Cat Registrada,2006-06-01
+2006,6,Trajeto-Com Cat,6509,Com Cat Registrada,2006-06-01
+2006,7,Típico-Com Cat,35332,Com Cat Registrada,2006-07-01
+2006,7,Doença do Trabalho-Com Cat,2621,Com Cat Registrada,2006-07-01
+2006,7,Trajeto-Com Cat,6424,Com Cat Registrada,2006-07-01
+2006,8,Típico-Com Cat,37588,Com Cat Registrada,2006-08-01
+2006,8,Doença do Trabalho-Com Cat,2786,Com Cat Registrada,2006-08-01
+2006,8,Trajeto-Com Cat,6932,Com Cat Registrada,2006-08-01
+2006,9,Típico-Com Cat,33382,Com Cat Registrada,2006-09-01
+2006,9,Doença do Trabalho-Com Cat,2361,Com Cat Registrada,2006-09-01
+2006,9,Trajeto-Com Cat,6217,Com Cat Registrada,2006-09-01
+2006,10,Típico-Com Cat,36075,Com Cat Registrada,2006-10-01
+2006,10,Doença do Trabalho-Com Cat,2441,Com Cat Registrada,2006-10-01
+2006,10,Trajeto-Com Cat,6433,Com Cat Registrada,2006-10-01
+2006,11,Típico-Com Cat,34265,Com Cat Registrada,2006-11-01
+2006,11,Doença do Trabalho-Com Cat,2188,Com Cat Registrada,2006-11-01
+2006,11,Trajeto-Com Cat,6164,Com Cat Registrada,2006-11-01
+2006,12,Típico-Com Cat,30368,Com Cat Registrada,2006-12-01
+2006,12,Doença do Trabalho-Com Cat,1800,Com Cat Registrada,2006-12-01
+2006,12,Trajeto-Com Cat,5937,Com Cat Registrada,2006-12-01
+2007,1,Típico-Com Cat,34194,Com Cat Registrada,2007-01-01
+2007,1,Doença do Trabalho-Com Cat,2156,Com Cat Registrada,2007-01-01
+2007,1,Trajeto-Com Cat,6140,Com Cat Registrada,2007-01-01
+2007,2,Típico-Com Cat,30960,Com Cat Registrada,2007-02-01
+2007,2,Doença do Trabalho-Com Cat,1856,Com Cat Registrada,2007-02-01
+2007,2,Trajeto-Com Cat,5878,Com Cat Registrada,2007-02-01
+2007,3,Típico-Com Cat,38094,Com Cat Registrada,2007-03-01
+2007,3,Doença do Trabalho-Com Cat,2287,Com Cat Registrada,2007-03-01
+2007,3,Trajeto-Com Cat,7302,Com Cat Registrada,2007-03-01
+2007,4,Típico-Com Cat,32742,Com Cat Registrada,2007-04-01
+2007,4,Doença do Trabalho-Com Cat,1977,Com Cat Registrada,2007-04-01
+2007,4,Trajeto-Com Cat,6437,Com Cat Registrada,2007-04-01
+2007,5,Típico-Com Cat,36617,Com Cat Registrada,2007-05-01
+2007,5,Doença do Trabalho-Com Cat,1985,Com Cat Registrada,2007-05-01
+2007,5,Trajeto-Com Cat,7012,Com Cat Registrada,2007-05-01
+2007,6,Típico-Com Cat,33231,Com Cat Registrada,2007-06-01
+2007,6,Doença do Trabalho-Com Cat,1821,Com Cat Registrada,2007-06-01
+2007,6,Trajeto-Com Cat,6484,Com Cat Registrada,2007-06-01
+2007,7,Típico-Com Cat,35501,Com Cat Registrada,2007-07-01
+2007,7,Doença do Trabalho-Com Cat,1834,Com Cat Registrada,2007-07-01
+2007,7,Trajeto-Com Cat,7010,Com Cat Registrada,2007-07-01
+2007,8,Típico-Com Cat,38196,Com Cat Registrada,2007-08-01
+2007,8,Doença do Trabalho-Com Cat,2129,Com Cat Registrada,2007-08-01
+2007,8,Trajeto-Com Cat,7170,Com Cat Registrada,2007-08-01
+2007,9,Típico-Com Cat,34588,Com Cat Registrada,2007-09-01
+2007,9,Doença do Trabalho-Com Cat,1695,Com Cat Registrada,2007-09-01
+2007,9,Trajeto-Com Cat,6619,Com Cat Registrada,2007-09-01
+2007,10,Típico-Com Cat,39126,Com Cat Registrada,2007-10-01
+2007,10,Doença do Trabalho-Com Cat,1817,Com Cat Registrada,2007-10-01
+2007,10,Trajeto-Com Cat,7010,Com Cat Registrada,2007-10-01
+2007,11,Típico-Com Cat,34156,Com Cat Registrada,2007-11-01
+2007,11,Doença do Trabalho-Com Cat,1486,Com Cat Registrada,2007-11-01
+2007,11,Trajeto-Com Cat,6236,Com Cat Registrada,2007-11-01
+2007,12,Típico-Com Cat,29631,Com Cat Registrada,2007-12-01
+2007,12,Doença do Trabalho-Com Cat,1331,Com Cat Registrada,2007-12-01
+2007,12,Trajeto-Com Cat,5707,Com Cat Registrada,2007-12-01
+2007,3,Sem Cat,13441,Sem Cat Registrada,2007-03-01
+2007,3,Sem Cat,312,Sem Cat Registrada,2007-03-01
+2007,3,Sem Cat,6,Sem Cat Registrada,2007-03-01
+2007,3,Sem Cat,19,Sem Cat Registrada,2007-03-01
+2007,4,Sem Cat,14334,Sem Cat Registrada,2007-04-01
+2007,4,Sem Cat,152,Sem Cat Registrada,2007-04-01
+2007,4,Sem Cat,1,Sem Cat Registrada,2007-04-01
+2007,4,Sem Cat,13,Sem Cat Registrada,2007-04-01
+2007,5,Sem Cat,15278,Sem Cat Registrada,2007-05-01
+2007,5,Sem Cat,163,Sem Cat Registrada,2007-05-01
+2007,5,Sem Cat,3,Sem Cat Registrada,2007-05-01
+2007,5,Sem Cat,16,Sem Cat Registrada,2007-05-01
+2007,6,Sem Cat,14254,Sem Cat Registrada,2007-06-01
+2007,6,Sem Cat,156,Sem Cat Registrada,2007-06-01
+2007,6,Sem Cat,7,Sem Cat Registrada,2007-06-01
+2007,7,Sem Cat,14652,Sem Cat Registrada,2007-07-01
+2007,7,Sem Cat,129,Sem Cat Registrada,2007-07-01
+2007,7,Sem Cat,1,Sem Cat Registrada,2007-07-01
+2007,7,Sem Cat,22,Sem Cat Registrada,2007-07-01
+2007,8,Sem Cat,15448,Sem Cat Registrada,2007-08-01
+2007,8,Sem Cat,157,Sem Cat Registrada,2007-08-01
+2007,8,Sem Cat,5,Sem Cat Registrada,2007-08-01
+2007,8,Sem Cat,11,Sem Cat Registrada,2007-08-01
+2007,9,Sem Cat,13798,Sem Cat Registrada,2007-09-01
+2007,9,Sem Cat,125,Sem Cat Registrada,2007-09-01
+2007,9,Sem Cat,3,Sem Cat Registrada,2007-09-01
+2007,9,Sem Cat,2,Sem Cat Registrada,2007-09-01
+2007,10,Sem Cat,14235,Sem Cat Registrada,2007-10-01
+2007,10,Sem Cat,135,Sem Cat Registrada,2007-10-01
+2007,10,Sem Cat,4,Sem Cat Registrada,2007-10-01
+2007,10,Sem Cat,16,Sem Cat Registrada,2007-10-01
+2007,11,Sem Cat,12937,Sem Cat Registrada,2007-11-01
+2007,11,Sem Cat,101,Sem Cat Registrada,2007-11-01
+2007,11,Sem Cat,4,Sem Cat Registrada,2007-11-01
+2007,11,Sem Cat,5,Sem Cat Registrada,2007-11-01
+2007,12,Sem Cat,11035,Sem Cat Registrada,2007-12-01
+2007,12,Sem Cat,119,Sem Cat Registrada,2007-12-01
+2007,12,Sem Cat,1,Sem Cat Registrada,2007-12-01
+2007,12,Sem Cat,8,Sem Cat Registrada,2007-12-01
+2008,1,Típico-Com Cat,34732,Com Cat Registrada,2008-01-01
+2008,1,Doença do Trabalho-Com Cat,1629,Com Cat Registrada,2008-01-01
+2008,1,Trajeto-Com Cat,6260,Com Cat Registrada,2008-01-01
+2008,2,Típico-Com Cat,34025,Com Cat Registrada,2008-02-01
+2008,2,Doença do Trabalho-Com Cat,1546,Com Cat Registrada,2008-02-01
+2008,2,Trajeto-Com Cat,6297,Com Cat Registrada,2008-02-01
+2008,3,Típico-Com Cat,36114,Com Cat Registrada,2008-03-01
+2008,3,Doença do Trabalho-Com Cat,1835,Com Cat Registrada,2008-03-01
+2008,3,Trajeto-Com Cat,7166,Com Cat Registrada,2008-03-01
+2008,4,Típico-Com Cat,36534,Com Cat Registrada,2008-04-01
+2008,4,Doença do Trabalho-Com Cat,1862,Com Cat Registrada,2008-04-01
+2008,4,Trajeto-Com Cat,7061,Com Cat Registrada,2008-04-01
+2008,5,Típico-Com Cat,34838,Com Cat Registrada,2008-05-01
+2008,5,Doença do Trabalho-Com Cat,1686,Com Cat Registrada,2008-05-01
+2008,5,Trajeto-Com Cat,7468,Com Cat Registrada,2008-05-01
+2008,6,Típico-Com Cat,36735,Com Cat Registrada,2008-06-01
+2008,6,Doença do Trabalho-Com Cat,1862,Com Cat Registrada,2008-06-01
+2008,6,Trajeto-Com Cat,7824,Com Cat Registrada,2008-06-01
+2008,7,Típico-Com Cat,39179,Com Cat Registrada,2008-07-01
+2008,7,Doença do Trabalho-Com Cat,1896,Com Cat Registrada,2008-07-01
+2008,7,Trajeto-Com Cat,8013,Com Cat Registrada,2008-07-01
+2008,8,Típico-Com Cat,39923,Com Cat Registrada,2008-08-01
+2008,8,Doença do Trabalho-Com Cat,1880,Com Cat Registrada,2008-08-01
+2008,8,Trajeto-Com Cat,8287,Com Cat Registrada,2008-08-01
+2008,9,Típico-Com Cat,40169,Com Cat Registrada,2008-09-01
+2008,9,Doença do Trabalho-Com Cat,1763,Com Cat Registrada,2008-09-01
+2008,9,Trajeto-Com Cat,8508,Com Cat Registrada,2008-09-01
+2008,10,Típico-Com Cat,42287,Com Cat Registrada,2008-10-01
+2008,10,Doença do Trabalho-Com Cat,1778,Com Cat Registrada,2008-10-01
+2008,10,Trajeto-Com Cat,8095,Com Cat Registrada,2008-10-01
+2008,11,Típico-Com Cat,36780,Com Cat Registrada,2008-11-01
+2008,11,Doença do Trabalho-Com Cat,1528,Com Cat Registrada,2008-11-01
+2008,11,Trajeto-Com Cat,7127,Com Cat Registrada,2008-11-01
+2008,12,Típico-Com Cat,30609,Com Cat Registrada,2008-12-01
+2008,12,Doença do Trabalho-Com Cat,1091,Com Cat Registrada,2008-12-01
+2008,12,Trajeto-Com Cat,6636,Com Cat Registrada,2008-12-01
+2008,1,Sem Cat,13588,Sem Cat Registrada,2008-01-01
+2008,1,Sem Cat,112,Sem Cat Registrada,2008-01-01
+2008,1,Sem Cat,5,Sem Cat Registrada,2008-01-01
+2008,1,Sem Cat,10,Sem Cat Registrada,2008-01-01
+2008,2,Sem Cat,13792,Sem Cat Registrada,2008-02-01
+2008,2,Sem Cat,123,Sem Cat Registrada,2008-02-01
+2008,2,Sem Cat,4,Sem Cat Registrada,2008-02-01
+2008,2,Sem Cat,10,Sem Cat Registrada,2008-02-01
+2008,3,Sem Cat,14548,Sem Cat Registrada,2008-03-01
+2008,3,Sem Cat,119,Sem Cat Registrada,2008-03-01
+2008,3,Sem Cat,7,Sem Cat Registrada,2008-03-01
+2008,3,Sem Cat,8,Sem Cat Registrada,2008-03-01
+2008,4,Sem Cat,14959,Sem Cat Registrada,2008-04-01
+2008,4,Sem Cat,122,Sem Cat Registrada,2008-04-01
+2008,4,Sem Cat,3,Sem Cat Registrada,2008-04-01
+2008,4,Sem Cat,5,Sem Cat Registrada,2008-04-01
+2008,5,Sem Cat,15059,Sem Cat Registrada,2008-05-01
+2008,5,Sem Cat,119,Sem Cat Registrada,2008-05-01
+2008,5,Sem Cat,2,Sem Cat Registrada,2008-05-01
+2008,5,Sem Cat,10,Sem Cat Registrada,2008-05-01
+2008,6,Sem Cat,14916,Sem Cat Registrada,2008-06-01
+2008,6,Sem Cat,118,Sem Cat Registrada,2008-06-01
+2008,6,Sem Cat,3,Sem Cat Registrada,2008-06-01
+2008,6,Sem Cat,9,Sem Cat Registrada,2008-06-01
+2008,7,Sem Cat,16635,Sem Cat Registrada,2008-07-01
+2008,7,Sem Cat,141,Sem Cat Registrada,2008-07-01
+2008,7,Sem Cat,1,Sem Cat Registrada,2008-07-01
+2008,7,Sem Cat,17,Sem Cat Registrada,2008-07-01
+2008,8,Sem Cat,20243,Sem Cat Registrada,2008-08-01
+2008,8,Sem Cat,119,Sem Cat Registrada,2008-08-01
+2008,8,Sem Cat,2,Sem Cat Registrada,2008-08-01
+2008,8,Sem Cat,13,Sem Cat Registrada,2008-08-01
+2008,9,Sem Cat,23548,Sem Cat Registrada,2008-09-01
+2008,9,Sem Cat,137,Sem Cat Registrada,2008-09-01
+2008,9,Sem Cat,4,Sem Cat Registrada,2008-09-01
+2008,9,Sem Cat,11,Sem Cat Registrada,2008-09-01
+2008,10,Sem Cat,22145,Sem Cat Registrada,2008-10-01
+2008,10,Sem Cat,122,Sem Cat Registrada,2008-10-01
+2008,10,Sem Cat,2,Sem Cat Registrada,2008-10-01
+2008,10,Sem Cat,6,Sem Cat Registrada,2008-10-01
+2008,11,Sem Cat,18550,Sem Cat Registrada,2008-11-01
+2008,11,Sem Cat,150,Sem Cat Registrada,2008-11-01
+2008,11,Sem Cat,3,Sem Cat Registrada,2008-11-01
+2008,11,Sem Cat,13,Sem Cat Registrada,2008-11-01
+2008,12,Sem Cat,15276,Sem Cat Registrada,2008-12-01
+2008,12,Sem Cat,158,Sem Cat Registrada,2008-12-01
+2008,12,Sem Cat,1,Sem Cat Registrada,2008-12-01
+2008,12,Sem Cat,9,Sem Cat Registrada,2008-12-01
+2009,1,Típico-Com Cat,33564,Com Cat Registrada,2009-01-01
+2009,1,Doença do Trabalho-Com Cat,1521,Com Cat Registrada,2009-01-01
+2009,1,Trajeto-Com Cat,6873,Com Cat Registrada,2009-01-01
+2009,2,Típico-Com Cat,31594,Com Cat Registrada,2009-02-01
+2009,2,Doença do Trabalho-Com Cat,1481,Com Cat Registrada,2009-02-01
+2009,2,Trajeto-Com Cat,6619,Com Cat Registrada,2009-02-01
+2009,3,Típico-Com Cat,38940,Com Cat Registrada,2009-03-01
+2009,3,Doença do Trabalho-Com Cat,2095,Com Cat Registrada,2009-03-01
+2009,3,Trajeto-Com Cat,7958,Com Cat Registrada,2009-03-01
+2009,4,Típico-Com Cat,33511,Com Cat Registrada,2009-04-01
+2009,4,Doença do Trabalho-Com Cat,1616,Com Cat Registrada,2009-04-01
+2009,4,Trajeto-Com Cat,7294,Com Cat Registrada,2009-04-01
+2009,5,Típico-Com Cat,35558,Com Cat Registrada,2009-05-01
+2009,5,Doença do Trabalho-Com Cat,1841,Com Cat Registrada,2009-05-01
+2009,5,Trajeto-Com Cat,7862,Com Cat Registrada,2009-05-01
+2009,6,Típico-Com Cat,34042,Com Cat Registrada,2009-06-01
+2009,6,Doença do Trabalho-Com Cat,1695,Com Cat Registrada,2009-06-01
+2009,6,Trajeto-Com Cat,7664,Com Cat Registrada,2009-06-01
+2009,7,Típico-Com Cat,37393,Com Cat Registrada,2009-07-01
+2009,7,Doença do Trabalho-Com Cat,1748,Com Cat Registrada,2009-07-01
+2009,7,Trajeto-Com Cat,7734,Com Cat Registrada,2009-07-01
+2009,8,Típico-Com Cat,37119,Com Cat Registrada,2009-08-01
+2009,8,Doença do Trabalho-Com Cat,1749,Com Cat Registrada,2009-08-01
+2009,8,Trajeto-Com Cat,8006,Com Cat Registrada,2009-08-01
+2009,9,Típico-Com Cat,37160,Com Cat Registrada,2009-09-01
+2009,9,Doença do Trabalho-Com Cat,1633,Com Cat Registrada,2009-09-01
+2009,9,Trajeto-Com Cat,7760,Com Cat Registrada,2009-09-01
+2009,10,Típico-Com Cat,37783,Com Cat Registrada,2009-10-01
+2009,10,Doença do Trabalho-Com Cat,1498,Com Cat Registrada,2009-10-01
+2009,10,Trajeto-Com Cat,7889,Com Cat Registrada,2009-10-01
+2009,11,Típico-Com Cat,36580,Com Cat Registrada,2009-11-01
+2009,11,Doença do Trabalho-Com Cat,1557,Com Cat Registrada,2009-11-01
+2009,11,Trajeto-Com Cat,7681,Com Cat Registrada,2009-11-01
+2009,12,Típico-Com Cat,31254,Com Cat Registrada,2009-12-01
+2009,12,Doença do Trabalho-Com Cat,1136,Com Cat Registrada,2009-12-01
+2009,12,Trajeto-Com Cat,6840,Com Cat Registrada,2009-12-01
+2009,1,Sem Cat,18030,Sem Cat Registrada,2009-01-01
+2009,1,Sem Cat,183,Sem Cat Registrada,2009-01-01
+2009,1,Sem Cat,3,Sem Cat Registrada,2009-01-01
+2009,1,Sem Cat,14,Sem Cat Registrada,2009-01-01
+2009,2,Sem Cat,16266,Sem Cat Registrada,2009-02-01
+2009,2,Sem Cat,141,Sem Cat Registrada,2009-02-01
+2009,2,Sem Cat,1,Sem Cat Registrada,2009-02-01
+2009,2,Sem Cat,8,Sem Cat Registrada,2009-02-01
+2009,3,Sem Cat,19847,Sem Cat Registrada,2009-03-01
+2009,3,Sem Cat,191,Sem Cat Registrada,2009-03-01
+2009,3,Sem Cat,9,Sem Cat Registrada,2009-03-01
+2009,4,Sem Cat,16983,Sem Cat Registrada,2009-04-01
+2009,4,Sem Cat,157,Sem Cat Registrada,2009-04-01
+2009,4,Sem Cat,4,Sem Cat Registrada,2009-04-01
+2009,4,Sem Cat,16,Sem Cat Registrada,2009-04-01
+2009,5,Sem Cat,17535,Sem Cat Registrada,2009-05-01
+2009,5,Sem Cat,167,Sem Cat Registrada,2009-05-01
+2009,5,Sem Cat,2,Sem Cat Registrada,2009-05-01
+2009,5,Sem Cat,17,Sem Cat Registrada,2009-05-01
+2009,6,Sem Cat,16254,Sem Cat Registrada,2009-06-01
+2009,6,Sem Cat,164,Sem Cat Registrada,2009-06-01
+2009,6,Sem Cat,2,Sem Cat Registrada,2009-06-01
+2009,6,Sem Cat,10,Sem Cat Registrada,2009-06-01
+2009,7,Sem Cat,17024,Sem Cat Registrada,2009-07-01
+2009,7,Sem Cat,163,Sem Cat Registrada,2009-07-01
+2009,7,Sem Cat,1,Sem Cat Registrada,2009-07-01
+2009,7,Sem Cat,14,Sem Cat Registrada,2009-07-01
+2009,8,Sem Cat,17466,Sem Cat Registrada,2009-08-01
+2009,8,Sem Cat,126,Sem Cat Registrada,2009-08-01
+2009,8,Sem Cat,4,Sem Cat Registrada,2009-08-01
+2009,8,Sem Cat,9,Sem Cat Registrada,2009-08-01
+2009,9,Sem Cat,16775,Sem Cat Registrada,2009-09-01
+2009,9,Sem Cat,121,Sem Cat Registrada,2009-09-01
+2009,9,Sem Cat,16,Sem Cat Registrada,2009-09-01
+2009,10,Sem Cat,15993,Sem Cat Registrada,2009-10-01
+2009,10,Sem Cat,105,Sem Cat Registrada,2009-10-01
+2009,10,Sem Cat,3,Sem Cat Registrada,2009-10-01
+2009,10,Sem Cat,11,Sem Cat Registrada,2009-10-01
+2009,11,Sem Cat,13427,Sem Cat Registrada,2009-11-01
+2009,11,Sem Cat,78,Sem Cat Registrada,2009-11-01
+2009,11,Sem Cat,2,Sem Cat Registrada,2009-11-01
+2009,11,Sem Cat,9,Sem Cat Registrada,2009-11-01
+2009,12,Sem Cat,11682,Sem Cat Registrada,2009-12-01
+2009,12,Sem Cat,75,Sem Cat Registrada,2009-12-01
+2009,12,Sem Cat,1,Sem Cat Registrada,2009-12-01
+2009,12,Sem Cat,8,Sem Cat Registrada,2009-12-01
+2010,1,Típico-Com Cat,32511,Com Cat Registrada,2010-01-01
+2010,1,Doença do Trabalho-Com Cat,1389,Com Cat Registrada,2010-01-01
+2010,1,Trajeto-Com Cat,6927,Com Cat Registrada,2010-01-01
+2010,2,Típico-Com Cat,31477,Com Cat Registrada,2010-02-01
+2010,2,Doença do Trabalho-Com Cat,1258,Com Cat Registrada,2010-02-01
+2010,2,Trajeto-Com Cat,6771,Com Cat Registrada,2010-02-01
+2010,3,Típico-Com Cat,38299,Com Cat Registrada,2010-03-01
+2010,3,Doença do Trabalho-Com Cat,1703,Com Cat Registrada,2010-03-01
+2010,3,Trajeto-Com Cat,8491,Com Cat Registrada,2010-03-01
+2010,4,Típico-Com Cat,33273,Com Cat Registrada,2010-04-01
+2010,4,Doença do Trabalho-Com Cat,1538,Com Cat Registrada,2010-04-01
+2010,4,Trajeto-Com Cat,7775,Com Cat Registrada,2010-04-01
+2010,5,Típico-Com Cat,35813,Com Cat Registrada,2010-05-01
+2010,5,Doença do Trabalho-Com Cat,1519,Com Cat Registrada,2010-05-01
+2010,5,Trajeto-Com Cat,8533,Com Cat Registrada,2010-05-01
+2010,6,Típico-Com Cat,33642,Com Cat Registrada,2010-06-01
+2010,6,Doença do Trabalho-Com Cat,1424,Com Cat Registrada,2010-06-01
+2010,6,Trajeto-Com Cat,8185,Com Cat Registrada,2010-06-01
+2010,7,Típico-Com Cat,35807,Com Cat Registrada,2010-07-01
+2010,7,Doença do Trabalho-Com Cat,1432,Com Cat Registrada,2010-07-01
+2010,7,Trajeto-Com Cat,8247,Com Cat Registrada,2010-07-01
+2010,8,Típico-Com Cat,38015,Com Cat Registrada,2010-08-01
+2010,8,Doença do Trabalho-Com Cat,1557,Com Cat Registrada,2010-08-01
+2010,8,Trajeto-Com Cat,8792,Com Cat Registrada,2010-08-01
+2010,9,Típico-Com Cat,35637,Com Cat Registrada,2010-09-01
+2010,9,Doença do Trabalho-Com Cat,1417,Com Cat Registrada,2010-09-01
+2010,9,Trajeto-Com Cat,8230,Com Cat Registrada,2010-09-01
+2010,10,Típico-Com Cat,35668,Com Cat Registrada,2010-10-01
+2010,10,Doença do Trabalho-Com Cat,1381,Com Cat Registrada,2010-10-01
+2010,10,Trajeto-Com Cat,7942,Com Cat Registrada,2010-10-01
+2010,11,Típico-Com Cat,34817,Com Cat Registrada,2010-11-01
+2010,11,Doença do Trabalho-Com Cat,1330,Com Cat Registrada,2010-11-01
+2010,11,Trajeto-Com Cat,7770,Com Cat Registrada,2010-11-01
+2010,12,Típico-Com Cat,32336,Com Cat Registrada,2010-12-01
+2010,12,Doença do Trabalho-Com Cat,1229,Com Cat Registrada,2010-12-01
+2010,12,Trajeto-Com Cat,7658,Com Cat Registrada,2010-12-01
+2010,1,Sem Cat,13642,Sem Cat Registrada,2010-01-01
+2010,1,Sem Cat,106,Sem Cat Registrada,2010-01-01
+2010,1,Sem Cat,3,Sem Cat Registrada,2010-01-01
+2010,1,Sem Cat,13,Sem Cat Registrada,2010-01-01
+2010,2,Sem Cat,13351,Sem Cat Registrada,2010-02-01
+2010,2,Sem Cat,91,Sem Cat Registrada,2010-02-01
+2010,2,Sem Cat,1,Sem Cat Registrada,2010-02-01
+2010,2,Sem Cat,7,Sem Cat Registrada,2010-02-01
+2010,3,Sem Cat,16483,Sem Cat Registrada,2010-03-01
+2010,3,Sem Cat,122,Sem Cat Registrada,2010-03-01
+2010,3,Sem Cat,6,Sem Cat Registrada,2010-03-01
+2010,4,Sem Cat,14327,Sem Cat Registrada,2010-04-01
+2010,4,Sem Cat,107,Sem Cat Registrada,2010-04-01
+2010,4,Sem Cat,3,Sem Cat Registrada,2010-04-01
+2010,4,Sem Cat,14,Sem Cat Registrada,2010-04-01
+2010,5,Sem Cat,15132,Sem Cat Registrada,2010-05-01
+2010,5,Sem Cat,116,Sem Cat Registrada,2010-05-01
+2010,5,Sem Cat,6,Sem Cat Registrada,2010-05-01
+2010,6,Sem Cat,14686,Sem Cat Registrada,2010-06-01
+2010,6,Sem Cat,121,Sem Cat Registrada,2010-06-01
+2010,6,Sem Cat,2,Sem Cat Registrada,2010-06-01
+2010,6,Sem Cat,8,Sem Cat Registrada,2010-06-01
+2010,7,Sem Cat,15521,Sem Cat Registrada,2010-07-01
+2010,7,Sem Cat,81,Sem Cat Registrada,2010-07-01
+2010,7,Sem Cat,8,Sem Cat Registrada,2010-07-01
+2010,8,Sem Cat,16319,Sem Cat Registrada,2010-08-01
+2010,8,Sem Cat,96,Sem Cat Registrada,2010-08-01
+2010,8,Sem Cat,8,Sem Cat Registrada,2010-08-01
+2010,9,Sem Cat,15765,Sem Cat Registrada,2010-09-01
+2010,9,Sem Cat,72,Sem Cat Registrada,2010-09-01
+2010,9,Sem Cat,1,Sem Cat Registrada,2010-09-01
+2010,9,Sem Cat,7,Sem Cat Registrada,2010-09-01
+2010,10,Sem Cat,15396,Sem Cat Registrada,2010-10-01
+2010,10,Sem Cat,68,Sem Cat Registrada,2010-10-01
+2010,10,Sem Cat,1,Sem Cat Registrada,2010-10-01
+2010,10,Sem Cat,9,Sem Cat Registrada,2010-10-01
+2010,11,Sem Cat,14331,Sem Cat Registrada,2010-11-01
+2010,11,Sem Cat,81,Sem Cat Registrada,2010-11-01
+2010,11,Sem Cat,2,Sem Cat Registrada,2010-11-01
+2010,11,Sem Cat,9,Sem Cat Registrada,2010-11-01
+2010,12,Sem Cat,13472,Sem Cat Registrada,2010-12-01
+2010,12,Sem Cat,83,Sem Cat Registrada,2010-12-01
+2010,12,Sem Cat,1,Sem Cat Registrada,2010-12-01
+2010,12,Sem Cat,3,Sem Cat Registrada,2010-12-01
+2011,1,Típico-Com Cat,34112,Com Cat Registrada,2011-01-01
+2011,1,Doença do Trabalho-Com Cat,1306,Com Cat Registrada,2011-01-01
+2011,1,Trajeto-Com Cat,7807,Com Cat Registrada,2011-01-01
+2011,2,Típico-Com Cat,34540,Com Cat Registrada,2011-02-01
+2011,2,Doença do Trabalho-Com Cat,1390,Com Cat Registrada,2011-02-01
+2011,2,Trajeto-Com Cat,7891,Com Cat Registrada,2011-02-01
+2011,3,Típico-Com Cat,36380,Com Cat Registrada,2011-03-01
+2011,3,Doença do Trabalho-Com Cat,1523,Com Cat Registrada,2011-03-01
+2011,3,Trajeto-Com Cat,8348,Com Cat Registrada,2011-03-01
+2011,4,Típico-Com Cat,33283,Com Cat Registrada,2011-04-01
+2011,4,Doença do Trabalho-Com Cat,1320,Com Cat Registrada,2011-04-01
+2011,4,Trajeto-Com Cat,7974,Com Cat Registrada,2011-04-01
+2011,5,Típico-Com Cat,38576,Com Cat Registrada,2011-05-01
+2011,5,Doença do Trabalho-Com Cat,1613,Com Cat Registrada,2011-05-01
+2011,5,Trajeto-Com Cat,9482,Com Cat Registrada,2011-05-01
+2011,6,Típico-Com Cat,35356,Com Cat Registrada,2011-06-01
+2011,6,Doença do Trabalho-Com Cat,1445,Com Cat Registrada,2011-06-01
+2011,6,Trajeto-Com Cat,9125,Com Cat Registrada,2011-06-01
+2011,7,Típico-Com Cat,36374,Com Cat Registrada,2011-07-01
+2011,7,Doença do Trabalho-Com Cat,1418,Com Cat Registrada,2011-07-01
+2011,7,Trajeto-Com Cat,8876,Com Cat Registrada,2011-07-01
+2011,8,Típico-Com Cat,40168,Com Cat Registrada,2011-08-01
+2011,8,Doença do Trabalho-Com Cat,1629,Com Cat Registrada,2011-08-01
+2011,8,Trajeto-Com Cat,9643,Com Cat Registrada,2011-08-01
+2011,9,Típico-Com Cat,36480,Com Cat Registrada,2011-09-01
+2011,9,Doença do Trabalho-Com Cat,1414,Com Cat Registrada,2011-09-01
+2011,9,Trajeto-Com Cat,8695,Com Cat Registrada,2011-09-01
+2011,10,Típico-Com Cat,35207,Com Cat Registrada,2011-10-01
+2011,10,Doença do Trabalho-Com Cat,1451,Com Cat Registrada,2011-10-01
+2011,10,Trajeto-Com Cat,8117,Com Cat Registrada,2011-10-01
+2011,11,Típico-Com Cat,34215,Com Cat Registrada,2011-11-01
+2011,11,Doença do Trabalho-Com Cat,1267,Com Cat Registrada,2011-11-01
+2011,11,Trajeto-Com Cat,7630,Com Cat Registrada,2011-11-01
+2011,12,Típico-Com Cat,31462,Com Cat Registrada,2011-12-01
+2011,12,Doença do Trabalho-Com Cat,1063,Com Cat Registrada,2011-12-01
+2011,12,Trajeto-Com Cat,7309,Com Cat Registrada,2011-12-01
+2011,1,Sem Cat,15122,Sem Cat Registrada,2011-01-01
+2011,1,Sem Cat,94,Sem Cat Registrada,2011-01-01
+2011,1,Sem Cat,1,Sem Cat Registrada,2011-01-01
+2011,1,Sem Cat,6,Sem Cat Registrada,2011-01-01
+2011,2,Sem Cat,15381,Sem Cat Registrada,2011-02-01
+2011,2,Sem Cat,83,Sem Cat Registrada,2011-02-01
+2011,2,Sem Cat,2,Sem Cat Registrada,2011-02-01
+2011,2,Sem Cat,6,Sem Cat Registrada,2011-02-01
+2011,3,Sem Cat,15641,Sem Cat Registrada,2011-03-01
+2011,3,Sem Cat,100,Sem Cat Registrada,2011-03-01
+2011,3,Sem Cat,3,Sem Cat Registrada,2011-03-01
+2011,3,Sem Cat,8,Sem Cat Registrada,2011-03-01
+2011,4,Sem Cat,13977,Sem Cat Registrada,2011-04-01
+2011,4,Sem Cat,105,Sem Cat Registrada,2011-04-01
+2011,4,Sem Cat,5,Sem Cat Registrada,2011-04-01
+2011,4,Sem Cat,8,Sem Cat Registrada,2011-04-01
+2011,5,Sem Cat,15357,Sem Cat Registrada,2011-05-01
+2011,5,Sem Cat,103,Sem Cat Registrada,2011-05-01
+2011,5,Sem Cat,3,Sem Cat Registrada,2011-05-01
+2011,5,Sem Cat,4,Sem Cat Registrada,2011-05-01
+2011,6,Sem Cat,14026,Sem Cat Registrada,2011-06-01
+2011,6,Sem Cat,84,Sem Cat Registrada,2011-06-01
+2011,6,Sem Cat,2,Sem Cat Registrada,2011-06-01
+2011,6,Sem Cat,6,Sem Cat Registrada,2011-06-01
+2011,7,Sem Cat,14665,Sem Cat Registrada,2011-07-01
+2011,7,Sem Cat,82,Sem Cat Registrada,2011-07-01
+2011,7,Sem Cat,6,Sem Cat Registrada,2011-07-01
+2011,8,Sem Cat,16279,Sem Cat Registrada,2011-08-01
+2011,8,Sem Cat,97,Sem Cat Registrada,2011-08-01
+2011,8,Sem Cat,2,Sem Cat Registrada,2011-08-01
+2011,8,Sem Cat,7,Sem Cat Registrada,2011-08-01
+2011,9,Sem Cat,14785,Sem Cat Registrada,2011-09-01
+2011,9,Sem Cat,69,Sem Cat Registrada,2011-09-01
+2011,9,Sem Cat,2,Sem Cat Registrada,2011-09-01
+2011,9,Sem Cat,1,Sem Cat Registrada,2011-09-01
+2011,10,Sem Cat,14315,Sem Cat Registrada,2011-10-01
+2011,10,Sem Cat,46,Sem Cat Registrada,2011-10-01
+2011,10,Sem Cat,1,Sem Cat Registrada,2011-10-01
+2011,10,Sem Cat,3,Sem Cat Registrada,2011-10-01
+2011,11,Sem Cat,13778,Sem Cat Registrada,2011-11-01
+2011,11,Sem Cat,52,Sem Cat Registrada,2011-11-01
+2011,11,Sem Cat,1,Sem Cat Registrada,2011-11-01
+2011,11,Sem Cat,1,Sem Cat Registrada,2011-11-01
+2011,12,Sem Cat,12386,Sem Cat Registrada,2011-12-01
+2011,12,Sem Cat,31,Sem Cat Registrada,2011-12-01
+2011,12,Sem Cat,1,Sem Cat Registrada,2011-12-01
+2011,12,Sem Cat,3,Sem Cat Registrada,2011-12-01
+2012,1,Típico-Com Cat,34255,Com Cat Registrada,2012-01-01
+2012,1,Doença do Trabalho-Com Cat,1340,Com Cat Registrada,2012-01-01
+2012,1,Trajeto-Com Cat,7363,Com Cat Registrada,2012-01-01
+2012,2,Típico-Com Cat,33563,Com Cat Registrada,2012-02-01
+2012,2,Doença do Trabalho-Com Cat,1288,Com Cat Registrada,2012-02-01
+2012,2,Trajeto-Com Cat,7611,Com Cat Registrada,2012-02-01
+2012,3,Típico-Com Cat,38591,Com Cat Registrada,2012-03-01
+2012,3,Doença do Trabalho-Com Cat,1609,Com Cat Registrada,2012-03-01
+2012,3,Trajeto-Com Cat,9250,Com Cat Registrada,2012-03-01
+2012,4,Típico-Com Cat,32731,Com Cat Registrada,2012-04-01
+2012,4,Doença do Trabalho-Com Cat,1391,Com Cat Registrada,2012-04-01
+2012,4,Trajeto-Com Cat,7991,Com Cat Registrada,2012-04-01
+2012,5,Típico-Com Cat,37542,Com Cat Registrada,2012-05-01
+2012,5,Doença do Trabalho-Com Cat,1589,Com Cat Registrada,2012-05-01
+2012,5,Trajeto-Com Cat,9779,Com Cat Registrada,2012-05-01
+2012,6,Típico-Com Cat,34257,Com Cat Registrada,2012-06-01
+2012,6,Doença do Trabalho-Com Cat,1436,Com Cat Registrada,2012-06-01
+2012,6,Trajeto-Com Cat,8857,Com Cat Registrada,2012-06-01
+2012,7,Típico-Com Cat,36762,Com Cat Registrada,2012-07-01
+2012,7,Doença do Trabalho-Com Cat,1496,Com Cat Registrada,2012-07-01
+2012,7,Trajeto-Com Cat,8904,Com Cat Registrada,2012-07-01
+2012,8,Típico-Com Cat,40097,Com Cat Registrada,2012-08-01
+2012,8,Doença do Trabalho-Com Cat,1615,Com Cat Registrada,2012-08-01
+2012,8,Trajeto-Com Cat,9951,Com Cat Registrada,2012-08-01
+2012,9,Típico-Com Cat,35210,Com Cat Registrada,2012-09-01
+2012,9,Doença do Trabalho-Com Cat,1279,Com Cat Registrada,2012-09-01
+2012,9,Trajeto-Com Cat,8676,Com Cat Registrada,2012-09-01
+2012,10,Típico-Com Cat,39051,Com Cat Registrada,2012-10-01
+2012,10,Doença do Trabalho-Com Cat,1492,Com Cat Registrada,2012-10-01
+2012,10,Trajeto-Com Cat,9209,Com Cat Registrada,2012-10-01
+2012,11,Típico-Com Cat,34255,Com Cat Registrada,2012-11-01
+2012,11,Doença do Trabalho-Com Cat,1213,Com Cat Registrada,2012-11-01
+2012,11,Trajeto-Com Cat,8038,Com Cat Registrada,2012-11-01
+2012,12,Típico-Com Cat,29970,Com Cat Registrada,2012-12-01
+2012,12,Doença do Trabalho-Com Cat,1150,Com Cat Registrada,2012-12-01
+2012,12,Trajeto-Com Cat,7411,Com Cat Registrada,2012-12-01
+2012,1,Sem Cat,13853,Sem Cat Registrada,2012-01-01
+2012,1,Sem Cat,108,Sem Cat Registrada,2012-01-01
+2012,1,Sem Cat,2,Sem Cat Registrada,2012-01-01
+2012,1,Sem Cat,4,Sem Cat Registrada,2012-01-01
+2012,2,Sem Cat,13459,Sem Cat Registrada,2012-02-01
+2012,2,Sem Cat,118,Sem Cat Registrada,2012-02-01
+2012,2,Sem Cat,3,Sem Cat Registrada,2012-02-01
+2012,3,Sem Cat,15670,Sem Cat Registrada,2012-03-01
+2012,3,Sem Cat,74,Sem Cat Registrada,2012-03-01
+2012,3,Sem Cat,1,Sem Cat Registrada,2012-03-01
+2012,3,Sem Cat,4,Sem Cat Registrada,2012-03-01
+2012,4,Sem Cat,13463,Sem Cat Registrada,2012-04-01
+2012,4,Sem Cat,85,Sem Cat Registrada,2012-04-01
+2012,4,Sem Cat,1,Sem Cat Registrada,2012-04-01
+2012,4,Sem Cat,4,Sem Cat Registrada,2012-04-01
+2012,5,Sem Cat,14819,Sem Cat Registrada,2012-05-01
+2012,5,Sem Cat,83,Sem Cat Registrada,2012-05-01
+2012,5,Sem Cat,1,Sem Cat Registrada,2012-05-01
+2012,5,Sem Cat,2,Sem Cat Registrada,2012-05-01
+2012,6,Sem Cat,13369,Sem Cat Registrada,2012-06-01
+2012,6,Sem Cat,62,Sem Cat Registrada,2012-06-01
+2012,6,Sem Cat,1,Sem Cat Registrada,2012-06-01
+2012,6,Sem Cat,2,Sem Cat Registrada,2012-06-01
+2012,7,Sem Cat,14277,Sem Cat Registrada,2012-07-01
+2012,7,Sem Cat,70,Sem Cat Registrada,2012-07-01
+2012,7,Sem Cat,4,Sem Cat Registrada,2012-07-01
+2012,7,Sem Cat,1,Sem Cat Registrada,2012-07-01
+2012,8,Sem Cat,15940,Sem Cat Registrada,2012-08-01
+2012,8,Sem Cat,91,Sem Cat Registrada,2012-08-01
+2012,8,Sem Cat,12,Sem Cat Registrada,2012-08-01
+2012,8,Sem Cat,3,Sem Cat Registrada,2012-08-01
+2012,9,Sem Cat,13900,Sem Cat Registrada,2012-09-01
+2012,9,Sem Cat,49,Sem Cat Registrada,2012-09-01
+2012,9,Sem Cat,4,Sem Cat Registrada,2012-09-01
+2012,9,Sem Cat,5,Sem Cat Registrada,2012-09-01
+2012,10,Sem Cat,14361,Sem Cat Registrada,2012-10-01
+2012,10,Sem Cat,60,Sem Cat Registrada,2012-10-01
+2012,10,Sem Cat,5,Sem Cat Registrada,2012-10-01
+2012,10,Sem Cat,1,Sem Cat Registrada,2012-10-01
+2012,11,Sem Cat,12572,Sem Cat Registrada,2012-11-01
+2012,11,Sem Cat,55,Sem Cat Registrada,2012-11-01
+2012,11,Sem Cat,2,Sem Cat Registrada,2012-11-01
+2012,11,Sem Cat,1,Sem Cat Registrada,2012-11-01
+2012,12,Sem Cat,11123,Sem Cat Registrada,2012-12-01
+2012,12,Sem Cat,35,Sem Cat Registrada,2012-12-01
+2012,12,Sem Cat,3,Sem Cat Registrada,2012-12-01
+2013,1,Típico-Com Cat,34810,Com Cat Registrada,2013-01-01
+2013,1,Doença do Trabalho-Com Cat,1417,Com Cat Registrada,2013-01-01
+2013,1,Trajeto-Com Cat,8281,Com Cat Registrada,2013-01-01
+2013,2,Típico-Com Cat,32772,Com Cat Registrada,2013-02-01
+2013,2,Doença do Trabalho-Com Cat,1337,Com Cat Registrada,2013-02-01
+2013,2,Trajeto-Com Cat,7894,Com Cat Registrada,2013-02-01
+2013,3,Típico-Com Cat,35702,Com Cat Registrada,2013-03-01
+2013,3,Doença do Trabalho-Com Cat,1564,Com Cat Registrada,2013-03-01
+2013,3,Trajeto-Com Cat,9012,Com Cat Registrada,2013-03-01
+2013,4,Típico-Com Cat,38042,Com Cat Registrada,2013-04-01
+2013,4,Doença do Trabalho-Com Cat,1547,Com Cat Registrada,2013-04-01
+2013,4,Trajeto-Com Cat,9628,Com Cat Registrada,2013-04-01
+2013,5,Típico-Com Cat,36732,Com Cat Registrada,2013-05-01
+2013,5,Doença do Trabalho-Com Cat,1485,Com Cat Registrada,2013-05-01
+2013,5,Trajeto-Com Cat,9573,Com Cat Registrada,2013-05-01
+2013,6,Típico-Com Cat,35137,Com Cat Registrada,2013-06-01
+2013,6,Doença do Trabalho-Com Cat,1425,Com Cat Registrada,2013-06-01
+2013,6,Trajeto-Com Cat,9639,Com Cat Registrada,2013-06-01
+2013,7,Típico-Com Cat,38230,Com Cat Registrada,2013-07-01
+2013,7,Doença do Trabalho-Com Cat,1514,Com Cat Registrada,2013-07-01
+2013,7,Trajeto-Com Cat,10014,Com Cat Registrada,2013-07-01
+2013,8,Típico-Com Cat,38705,Com Cat Registrada,2013-08-01
+2013,8,Doença do Trabalho-Com Cat,1523,Com Cat Registrada,2013-08-01
+2013,8,Trajeto-Com Cat,10703,Com Cat Registrada,2013-08-01
+2013,9,Típico-Com Cat,37752,Com Cat Registrada,2013-09-01
+2013,9,Doença do Trabalho-Com Cat,1553,Com Cat Registrada,2013-09-01
+2013,9,Trajeto-Com Cat,9829,Com Cat Registrada,2013-09-01
+2013,10,Típico-Com Cat,40512,Com Cat Registrada,2013-10-01
+2013,10,Doença do Trabalho-Com Cat,1517,Com Cat Registrada,2013-10-01
+2013,10,Trajeto-Com Cat,10225,Com Cat Registrada,2013-10-01
+2013,11,Típico-Com Cat,35455,Com Cat Registrada,2013-11-01
+2013,11,Doença do Trabalho-Com Cat,1184,Com Cat Registrada,2013-11-01
+2013,11,Trajeto-Com Cat,9291,Com Cat Registrada,2013-11-01
+2013,12,Típico-Com Cat,30490,Com Cat Registrada,2013-12-01
+2013,12,Doença do Trabalho-Com Cat,1116,Com Cat Registrada,2013-12-01
+2013,12,Trajeto-Com Cat,8094,Com Cat Registrada,2013-12-01
+2013,1,Sem Cat,13622,Sem Cat Registrada,2013-01-01
+2013,1,Sem Cat,75,Sem Cat Registrada,2013-01-01
+2013,1,Sem Cat,1,Sem Cat Registrada,2013-01-01
+2013,1,Sem Cat,6,Sem Cat Registrada,2013-01-01
+2013,2,Sem Cat,12565,Sem Cat Registrada,2013-02-01
+2013,2,Sem Cat,78,Sem Cat Registrada,2013-02-01
+2013,2,Sem Cat,3,Sem Cat Registrada,2013-02-01
+2013,3,Sem Cat,14007,Sem Cat Registrada,2013-03-01
+2013,3,Sem Cat,87,Sem Cat Registrada,2013-03-01
+2013,3,Sem Cat,3,Sem Cat Registrada,2013-03-01
+2013,4,Sem Cat,14377,Sem Cat Registrada,2013-04-01
+2013,4,Sem Cat,74,Sem Cat Registrada,2013-04-01
+2013,4,Sem Cat,4,Sem Cat Registrada,2013-04-01
+2013,4,Sem Cat,3,Sem Cat Registrada,2013-04-01
+2013,5,Sem Cat,13609,Sem Cat Registrada,2013-05-01
+2013,5,Sem Cat,88,Sem Cat Registrada,2013-05-01
+2013,5,Sem Cat,1,Sem Cat Registrada,2013-05-01
+2013,5,Sem Cat,4,Sem Cat Registrada,2013-05-01
+2013,6,Sem Cat,13222,Sem Cat Registrada,2013-06-01
+2013,6,Sem Cat,56,Sem Cat Registrada,2013-06-01
+2013,6,Sem Cat,5,Sem Cat Registrada,2013-06-01
+2013,7,Sem Cat,14053,Sem Cat Registrada,2013-07-01
+2013,7,Sem Cat,84,Sem Cat Registrada,2013-07-01
+2013,7,Sem Cat,2,Sem Cat Registrada,2013-07-01
+2013,7,Sem Cat,3,Sem Cat Registrada,2013-07-01
+2013,8,Sem Cat,14750,Sem Cat Registrada,2013-08-01
+2013,8,Sem Cat,80,Sem Cat Registrada,2013-08-01
+2013,8,Sem Cat,2,Sem Cat Registrada,2013-08-01
+2013,8,Sem Cat,5,Sem Cat Registrada,2013-08-01
+2013,9,Sem Cat,13781,Sem Cat Registrada,2013-09-01
+2013,9,Sem Cat,62,Sem Cat Registrada,2013-09-01
+2013,9,Sem Cat,1,Sem Cat Registrada,2013-09-01
+2013,9,Sem Cat,1,Sem Cat Registrada,2013-09-01
+2013,10,Sem Cat,14266,Sem Cat Registrada,2013-10-01
+2013,10,Sem Cat,69,Sem Cat Registrada,2013-10-01
+2013,10,Sem Cat,5,Sem Cat Registrada,2013-10-01
+2013,10,Sem Cat,2,Sem Cat Registrada,2013-10-01
+2013,11,Sem Cat,12457,Sem Cat Registrada,2013-11-01
+2013,11,Sem Cat,53,Sem Cat Registrada,2013-11-01
+2013,11,Sem Cat,4,Sem Cat Registrada,2013-11-01
+2013,11,Sem Cat,3,Sem Cat Registrada,2013-11-01
+2013,12,Sem Cat,10342,Sem Cat Registrada,2013-12-01
+2013,12,Sem Cat,36,Sem Cat Registrada,2013-12-01
+2013,12,Sem Cat,7,Sem Cat Registrada,2013-12-01
+2013,12,Sem Cat,2,Sem Cat Registrada,2013-12-01
+2014,1,Típico-Com Cat,35926,Com Cat Registrada,2014-01-01
+2014,1,Doença do Trabalho-Com Cat,1399,Com Cat Registrada,2014-01-01
+2014,1,Trajeto-Com Cat,9068,Com Cat Registrada,2014-01-01
+2014,2,Típico-Com Cat,35179,Com Cat Registrada,2014-02-01
+2014,2,Doença do Trabalho-Com Cat,1401,Com Cat Registrada,2014-02-01
+2014,2,Trajeto-Com Cat,9263,Com Cat Registrada,2014-02-01
+2014,3,Típico-Com Cat,36006,Com Cat Registrada,2014-03-01
+2014,3,Doença do Trabalho-Com Cat,1607,Com Cat Registrada,2014-03-01
+2014,3,Trajeto-Com Cat,9560,Com Cat Registrada,2014-03-01
+2014,4,Típico-Com Cat,34694,Com Cat Registrada,2014-04-01
+2014,4,Doença do Trabalho-Com Cat,1471,Com Cat Registrada,2014-04-01
+2014,4,Trajeto-Com Cat,9468,Com Cat Registrada,2014-04-01
+2014,5,Típico-Com Cat,36785,Com Cat Registrada,2014-05-01
+2014,5,Doença do Trabalho-Com Cat,1566,Com Cat Registrada,2014-05-01
+2014,5,Trajeto-Com Cat,10278,Com Cat Registrada,2014-05-01
+2014,6,Típico-Com Cat,32625,Com Cat Registrada,2014-06-01
+2014,6,Doença do Trabalho-Com Cat,1313,Com Cat Registrada,2014-06-01
+2014,6,Trajeto-Com Cat,9379,Com Cat Registrada,2014-06-01
+2014,7,Típico-Com Cat,37579,Com Cat Registrada,2014-07-01
+2014,7,Doença do Trabalho-Com Cat,1553,Com Cat Registrada,2014-07-01
+2014,7,Trajeto-Com Cat,10152,Com Cat Registrada,2014-07-01
+2014,8,Típico-Com Cat,37261,Com Cat Registrada,2014-08-01
+2014,8,Doença do Trabalho-Com Cat,1635,Com Cat Registrada,2014-08-01
+2014,8,Trajeto-Com Cat,10211,Com Cat Registrada,2014-08-01
+2014,9,Típico-Com Cat,38973,Com Cat Registrada,2014-09-01
+2014,9,Doença do Trabalho-Com Cat,1596,Com Cat Registrada,2014-09-01
+2014,9,Trajeto-Com Cat,10696,Com Cat Registrada,2014-09-01
+2014,10,Típico-Com Cat,39848,Com Cat Registrada,2014-10-01
+2014,10,Doença do Trabalho-Com Cat,1671,Com Cat Registrada,2014-10-01
+2014,10,Trajeto-Com Cat,10762,Com Cat Registrada,2014-10-01
+2014,11,Típico-Com Cat,35098,Com Cat Registrada,2014-11-01
+2014,11,Doença do Trabalho-Com Cat,1326,Com Cat Registrada,2014-11-01
+2014,11,Trajeto-Com Cat,9196,Com Cat Registrada,2014-11-01
+2014,12,Típico-Com Cat,30480,Com Cat Registrada,2014-12-01
+2014,12,Doença do Trabalho-Com Cat,1061,Com Cat Registrada,2014-12-01
+2014,12,Trajeto-Com Cat,8197,Com Cat Registrada,2014-12-01
+2014,1,Sem Cat,12883,Sem Cat Registrada,2014-01-01
+2014,1,Sem Cat,95,Sem Cat Registrada,2014-01-01
+2014,1,Sem Cat,10,Sem Cat Registrada,2014-01-01
+2014,1,Sem Cat,5,Sem Cat Registrada,2014-01-01
+2014,2,Sem Cat,12798,Sem Cat Registrada,2014-02-01
+2014,2,Sem Cat,76,Sem Cat Registrada,2014-02-01
+2014,2,Sem Cat,4,Sem Cat Registrada,2014-02-01
+2014,2,Sem Cat,2,Sem Cat Registrada,2014-02-01
+2014,3,Sem Cat,12231,Sem Cat Registrada,2014-03-01
+2014,3,Sem Cat,98,Sem Cat Registrada,2014-03-01
+2014,3,Sem Cat,2,Sem Cat Registrada,2014-03-01
+2014,4,Sem Cat,12422,Sem Cat Registrada,2014-04-01
+2014,4,Sem Cat,74,Sem Cat Registrada,2014-04-01
+2014,4,Sem Cat,3,Sem Cat Registrada,2014-04-01
+2014,4,Sem Cat,3,Sem Cat Registrada,2014-04-01
+2014,5,Sem Cat,13261,Sem Cat Registrada,2014-05-01
+2014,5,Sem Cat,82,Sem Cat Registrada,2014-05-01
+2014,5,Sem Cat,1,Sem Cat Registrada,2014-05-01
+2014,5,Sem Cat,2,Sem Cat Registrada,2014-05-01
+2014,6,Sem Cat,11311,Sem Cat Registrada,2014-06-01
+2014,6,Sem Cat,63,Sem Cat Registrada,2014-06-01
+2014,6,Sem Cat,1,Sem Cat Registrada,2014-06-01
+2014,7,Sem Cat,13133,Sem Cat Registrada,2014-07-01
+2014,7,Sem Cat,63,Sem Cat Registrada,2014-07-01
+2014,7,Sem Cat,2,Sem Cat Registrada,2014-07-01
+2014,8,Sem Cat,13224,Sem Cat Registrada,2014-08-01
+2014,8,Sem Cat,54,Sem Cat Registrada,2014-08-01
+2014,8,Sem Cat,4,Sem Cat Registrada,2014-08-01
+2014,9,Sem Cat,12919,Sem Cat Registrada,2014-09-01
+2014,9,Sem Cat,59,Sem Cat Registrada,2014-09-01
+2014,9,Sem Cat,1,Sem Cat Registrada,2014-09-01
+2014,10,Sem Cat,13076,Sem Cat Registrada,2014-10-01
+2014,10,Sem Cat,45,Sem Cat Registrada,2014-10-01
+2014,10,Sem Cat,1,Sem Cat Registrada,2014-10-01
+2014,10,Sem Cat,1,Sem Cat Registrada,2014-10-01
+2014,11,Sem Cat,10803,Sem Cat Registrada,2014-11-01
+2014,11,Sem Cat,43,Sem Cat Registrada,2014-11-01
+2014,11,Sem Cat,1,Sem Cat Registrada,2014-11-01
+2014,11,Sem Cat,3,Sem Cat Registrada,2014-11-01
+2014,12,Sem Cat,9125,Sem Cat Registrada,2014-12-01
+2014,12,Sem Cat,32,Sem Cat Registrada,2014-12-01
+2014,12,Sem Cat,2,Sem Cat Registrada,2014-12-01
+2014,12,Sem Cat,1,Sem Cat Registrada,2014-12-01
+2015,1,Típico-Com Cat,32777,Com Cat Registrada,2015-01-01
+2015,1,Doença do Trabalho-Com Cat,1123,Com Cat Registrada,2015-01-01
+2015,1,Trajeto-Com Cat,8319,Com Cat Registrada,2015-01-01
+2015,2,Típico-Com Cat,30905,Com Cat Registrada,2015-02-01
+2015,2,Doença do Trabalho-Com Cat,1098,Com Cat Registrada,2015-02-01
+2015,2,Trajeto-Com Cat,8209,Com Cat Registrada,2015-02-01
+2015,3,Típico-Com Cat,36055,Com Cat Registrada,2015-03-01
+2015,3,Doença do Trabalho-Com Cat,1315,Com Cat Registrada,2015-03-01
+2015,3,Trajeto-Com Cat,9505,Com Cat Registrada,2015-03-01
+2015,4,Típico-Com Cat,31104,Com Cat Registrada,2015-04-01
+2015,4,Doença do Trabalho-Com Cat,1180,Com Cat Registrada,2015-04-01
+2015,4,Trajeto-Com Cat,8578,Com Cat Registrada,2015-04-01
+2015,5,Típico-Com Cat,31978,Com Cat Registrada,2015-05-01
+2015,5,Doença do Trabalho-Com Cat,1177,Com Cat Registrada,2015-05-01
+2015,5,Trajeto-Com Cat,9066,Com Cat Registrada,2015-05-01
+2015,6,Típico-Com Cat,31403,Com Cat Registrada,2015-06-01
+2015,6,Doença do Trabalho-Com Cat,1158,Com Cat Registrada,2015-06-01
+2015,6,Trajeto-Com Cat,9139,Com Cat Registrada,2015-06-01
+2015,7,Típico-Com Cat,33559,Com Cat Registrada,2015-07-01
+2015,7,Doença do Trabalho-Com Cat,1315,Com Cat Registrada,2015-07-01
+2015,7,Trajeto-Com Cat,9480,Com Cat Registrada,2015-07-01
+2015,8,Típico-Com Cat,33539,Com Cat Registrada,2015-08-01
+2015,8,Doença do Trabalho-Com Cat,1204,Com Cat Registrada,2015-08-01
+2015,8,Trajeto-Com Cat,9580,Com Cat Registrada,2015-08-01
+2015,9,Típico-Com Cat,32568,Com Cat Registrada,2015-09-01
+2015,9,Doença do Trabalho-Com Cat,1075,Com Cat Registrada,2015-09-01
+2015,9,Trajeto-Com Cat,9184,Com Cat Registrada,2015-09-01
+2015,10,Típico-Com Cat,32369,Com Cat Registrada,2015-10-01
+2015,10,Doença do Trabalho-Com Cat,948,Com Cat Registrada,2015-10-01
+2015,10,Trajeto-Com Cat,8959,Com Cat Registrada,2015-10-01
+2015,11,Típico-Com Cat,30531,Com Cat Registrada,2015-11-01
+2015,11,Doença do Trabalho-Com Cat,926,Com Cat Registrada,2015-11-01
+2015,11,Trajeto-Com Cat,8310,Com Cat Registrada,2015-11-01
+2015,12,Típico-Com Cat,26875,Com Cat Registrada,2015-12-01
+2015,12,Doença do Trabalho-Com Cat,721,Com Cat Registrada,2015-12-01
+2015,12,Trajeto-Com Cat,7710,Com Cat Registrada,2015-12-01
+2015,1,Sem Cat,10475,Sem Cat Registrada,2015-01-01
+2015,1,Sem Cat,31,Sem Cat Registrada,2015-01-01
+2015,1,Sem Cat,1,Sem Cat Registrada,2015-01-01
+2015,2,Sem Cat,9594,Sem Cat Registrada,2015-02-01
+2015,2,Sem Cat,22,Sem Cat Registrada,2015-02-01
+2015,2,Sem Cat,2,Sem Cat Registrada,2015-02-01
+2015,3,Sem Cat,9819,Sem Cat Registrada,2015-03-01
+2015,3,Sem Cat,24,Sem Cat Registrada,2015-03-01
+2015,3,Sem Cat,2,Sem Cat Registrada,2015-03-01
+2015,4,Sem Cat,8834,Sem Cat Registrada,2015-04-01
+2015,4,Sem Cat,21,Sem Cat Registrada,2015-04-01
+2015,5,Sem Cat,9166,Sem Cat Registrada,2015-05-01
+2015,5,Sem Cat,17,Sem Cat Registrada,2015-05-01
+2015,5,Sem Cat,1,Sem Cat Registrada,2015-05-01
+2015,6,Sem Cat,9309,Sem Cat Registrada,2015-06-01
+2015,6,Sem Cat,18,Sem Cat Registrada,2015-06-01
+2015,7,Sem Cat,10505,Sem Cat Registrada,2015-07-01
+2015,7,Sem Cat,31,Sem Cat Registrada,2015-07-01
+2015,7,Sem Cat,1,Sem Cat Registrada,2015-07-01
+2015,8,Sem Cat,10215,Sem Cat Registrada,2015-08-01
+2015,8,Sem Cat,16,Sem Cat Registrada,2015-08-01
+2015,9,Sem Cat,8995,Sem Cat Registrada,2015-09-01
+2015,9,Sem Cat,17,Sem Cat Registrada,2015-09-01
+2015,9,Sem Cat,2,Sem Cat Registrada,2015-09-01
+2015,9,Sem Cat,1,Sem Cat Registrada,2015-09-01
+2015,10,Sem Cat,8897,Sem Cat Registrada,2015-10-01
+2015,10,Sem Cat,9,Sem Cat Registrada,2015-10-01
+2015,10,Sem Cat,1,Sem Cat Registrada,2015-10-01
+2015,11,Sem Cat,7467,Sem Cat Registrada,2015-11-01
+2015,11,Sem Cat,7,Sem Cat Registrada,2015-11-01
+2015,11,Sem Cat,1,Sem Cat Registrada,2015-11-01
+2015,12,Sem Cat,6177,Sem Cat Registrada,2015-12-01
+2015,12,Sem Cat,9,Sem Cat Registrada,2015-12-01
+2015,12,Sem Cat,2,Sem Cat Registrada,2015-12-01
+2015,12,Sem Cat,1,Sem Cat Registrada,2015-12-01
