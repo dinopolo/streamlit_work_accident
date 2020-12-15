@@ -1,0 +1,1903 @@
+ano,parte_atingida,motivo_situacao,qte_acidentes,situacao
+2002-01-01,Crânio (Inclusive Encéfalo),Típico-Com Cat,735,Com Cat Registrada
+2002-01-01,Crânio (Inclusive Encéfalo),Trajeto-Com Cat,358,Com Cat Registrada
+2002-01-01,Crânio (Inclusive Encéfalo),Doença do Trabalho-Com Cat,7,Com Cat Registrada
+2002-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Típico-Com Cat,1947,Com Cat Registrada
+2002-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Trajeto-Com Cat,36,Com Cat Registrada
+2002-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Doença do Trabalho-Com Cat,3883,Com Cat Registrada
+2002-01-01,Olho (Inclusive Nervo Ótico e Visão),Típico-Com Cat,13139,Com Cat Registrada
+2002-01-01,Olho (Inclusive Nervo Ótico e Visão),Trajeto-Com Cat,299,Com Cat Registrada
+2002-01-01,Olho (Inclusive Nervo Ótico e Visão),Doença do Trabalho-Com Cat,52,Com Cat Registrada
+2002-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Típico-Com Cat,1044,Com Cat Registrada
+2002-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Trajeto-Com Cat,155,Com Cat Registrada
+2002-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Doença do Trabalho-Com Cat,33,Com Cat Registrada
+2002-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Típico-Com Cat,1128,Com Cat Registrada
+2002-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Trajeto-Com Cat,179,Com Cat Registrada
+2002-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Doença do Trabalho-Com Cat,91,Com Cat Registrada
+2002-01-01,Mandíbula (Inclusive Queixo),Típico-Com Cat,401,Com Cat Registrada
+2002-01-01,Mandíbula (Inclusive Queixo),Trajeto-Com Cat,119,Com Cat Registrada
+2002-01-01,Mandíbula (Inclusive Queixo),Doença do Trabalho-Com Cat,3,Com Cat Registrada
+2002-01-01,"Face, Partes Múltiplas",Típico-Com Cat,4505,Com Cat Registrada
+2002-01-01,"Face, Partes Múltiplas",Trajeto-Com Cat,927,Com Cat Registrada
+2002-01-01,"Face, Partes Múltiplas",Doença do Trabalho-Com Cat,54,Com Cat Registrada
+2002-01-01,"Cabeça, Partes Múltiplas",Típico-Com Cat,3602,Com Cat Registrada
+2002-01-01,"Cabeça, Partes Múltiplas",Trajeto-Com Cat,1524,Com Cat Registrada
+2002-01-01,"Cabeça, Partes Múltiplas",Doença do Trabalho-Com Cat,60,Com Cat Registrada
+2002-01-01,"Cabeça, não Informado",Típico-Com Cat,8214,Com Cat Registrada
+2002-01-01,"Cabeça, não Informado",Trajeto-Com Cat,1676,Com Cat Registrada
+2002-01-01,"Cabeça, não Informado",Doença do Trabalho-Com Cat,111,Com Cat Registrada
+2002-01-01,Braço (Entre o Punho e o Ombro),Típico-Com Cat,13269,Com Cat Registrada
+2002-01-01,Braço (Entre o Punho e o Ombro),Trajeto-Com Cat,2736,Com Cat Registrada
+2002-01-01,Braço (Entre o Punho e o Ombro),Doença do Trabalho-Com Cat,2592,Com Cat Registrada
+2002-01-01,Braço (Acima do Cotovelo),Típico-Com Cat,5321,Com Cat Registrada
+2002-01-01,Braço (Acima do Cotovelo),Trajeto-Com Cat,1107,Com Cat Registrada
+2002-01-01,Braço (Acima do Cotovelo),Doença do Trabalho-Com Cat,509,Com Cat Registrada
+2002-01-01,Pescoço,Típico-Com Cat,1261,Com Cat Registrada
+2002-01-01,Pescoço,Trajeto-Com Cat,293,Com Cat Registrada
+2002-01-01,Pescoço,Doença do Trabalho-Com Cat,61,Com Cat Registrada
+2002-01-01,Cotovelo,Típico-Com Cat,2400,Com Cat Registrada
+2002-01-01,Cotovelo,Trajeto-Com Cat,553,Com Cat Registrada
+2002-01-01,Cotovelo,Doença do Trabalho-Com Cat,416,Com Cat Registrada
+2002-01-01,Antebraço (Entre o Punho e o Cotovelo),Típico-Com Cat,11836,Com Cat Registrada
+2002-01-01,Antebraço (Entre o Punho e o Cotovelo),Trajeto-Com Cat,1912,Com Cat Registrada
+2002-01-01,Antebraço (Entre o Punho e o Cotovelo),Doença do Trabalho-Com Cat,1496,Com Cat Registrada
+2002-01-01,Punho,Típico-Com Cat,6483,Com Cat Registrada
+2002-01-01,Punho,Trajeto-Com Cat,862,Com Cat Registrada
+2002-01-01,Punho,Doença do Trabalho-Com Cat,1980,Com Cat Registrada
+2002-01-01,Mão (Exceto Punho ou Dedos),Típico-Com Cat,35753,Com Cat Registrada
+2002-01-01,Mão (Exceto Punho ou Dedos),Trajeto-Com Cat,1940,Com Cat Registrada
+2002-01-01,Mão (Exceto Punho ou Dedos),Doença do Trabalho-Com Cat,893,Com Cat Registrada
+2002-01-01,Dedo,Típico-Com Cat,86185,Com Cat Registrada
+2002-01-01,Dedo,Trajeto-Com Cat,1977,Com Cat Registrada
+2002-01-01,Dedo,Doença do Trabalho-Com Cat,299,Com Cat Registrada
+2002-01-01,"Membros Superiores, Partes Múltiplas",Típico-Com Cat,2852,Com Cat Registrada
+2002-01-01,"Membros Superiores, Partes Múltiplas",Trajeto-Com Cat,751,Com Cat Registrada
+2002-01-01,"Membros Superiores, Partes Múltiplas",Doença do Trabalho-Com Cat,1340,Com Cat Registrada
+2002-01-01,"Membros Superiores, não Informado",Típico-Com Cat,3125,Com Cat Registrada
+2002-01-01,"Membros Superiores, não Informado",Trajeto-Com Cat,495,Com Cat Registrada
+2002-01-01,"Membros Superiores, não Informado",Doença do Trabalho-Com Cat,2013,Com Cat Registrada
+2002-01-01,Ombro,Típico-Com Cat,7059,Com Cat Registrada
+2002-01-01,Ombro,Trajeto-Com Cat,2029,Com Cat Registrada
+2002-01-01,Ombro,Doença do Trabalho-Com Cat,2537,Com Cat Registrada
+2002-01-01,Tórax (Inclusive Órgãos Internos),Típico-Com Cat,3296,Com Cat Registrada
+2002-01-01,Tórax (Inclusive Órgãos Internos),Trajeto-Com Cat,742,Com Cat Registrada
+2002-01-01,Tórax (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,77,Com Cat Registrada
+2002-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Típico-Com Cat,17521,Com Cat Registrada
+2002-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Trajeto-Com Cat,1555,Com Cat Registrada
+2002-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Doença do Trabalho-Com Cat,1743,Com Cat Registrada
+2002-01-01,Abdome (Inclusive Órgãos Internos),Típico-Com Cat,2212,Com Cat Registrada
+2002-01-01,Abdome (Inclusive Órgãos Internos),Trajeto-Com Cat,540,Com Cat Registrada
+2002-01-01,Abdome (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,148,Com Cat Registrada
+2002-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Típico-Com Cat,1522,Com Cat Registrada
+2002-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Trajeto-Com Cat,327,Com Cat Registrada
+2002-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Doença do Trabalho-Com Cat,37,Com Cat Registrada
+2002-01-01,"Tronco, Parte Múltiplas",Típico-Com Cat,1760,Com Cat Registrada
+2002-01-01,"Tronco, Parte Múltiplas",Trajeto-Com Cat,518,Com Cat Registrada
+2002-01-01,"Tronco, Parte Múltiplas",Doença do Trabalho-Com Cat,78,Com Cat Registrada
+2002-01-01,"Tronco, não Informado",Típico-Com Cat,1124,Com Cat Registrada
+2002-01-01,"Tronco, não Informado",Trajeto-Com Cat,224,Com Cat Registrada
+2002-01-01,"Tronco, não Informado",Doença do Trabalho-Com Cat,38,Com Cat Registrada
+2002-01-01,Perna (Entre O Tornozelo e a Pélvis),Típico-Com Cat,7872,Com Cat Registrada
+2002-01-01,Perna (Entre O Tornozelo e a Pélvis),Trajeto-Com Cat,2323,Com Cat Registrada
+2002-01-01,Perna (Entre O Tornozelo e a Pélvis),Doença do Trabalho-Com Cat,61,Com Cat Registrada
+2002-01-01,Coxa,Típico-Com Cat,1777,Com Cat Registrada
+2002-01-01,Coxa,Trajeto-Com Cat,290,Com Cat Registrada
+2002-01-01,Coxa,Doença do Trabalho-Com Cat,10,Com Cat Registrada
+2002-01-01,Joelho,Típico-Com Cat,14396,Com Cat Registrada
+2002-01-01,Joelho,Trajeto-Com Cat,3681,Com Cat Registrada
+2002-01-01,Joelho,Doença do Trabalho-Com Cat,162,Com Cat Registrada
+2002-01-01,Perna (Entre o Tornozelo e o Joelho),Típico-Com Cat,14729,Com Cat Registrada
+2002-01-01,Perna (Entre o Tornozelo e o Joelho),Trajeto-Com Cat,4486,Com Cat Registrada
+2002-01-01,Perna (Entre o Tornozelo e o Joelho),Doença do Trabalho-Com Cat,82,Com Cat Registrada
+2002-01-01,Articulação do Tornozelo,Típico-Com Cat,5906,Com Cat Registrada
+2002-01-01,Articulação do Tornozelo,Trajeto-Com Cat,2019,Com Cat Registrada
+2002-01-01,Articulação do Tornozelo,Doença do Trabalho-Com Cat,43,Com Cat Registrada
+2002-01-01,Pé (Exceto Artelhos),Típico-Com Cat,27458,Com Cat Registrada
+2002-01-01,Pé (Exceto Artelhos),Trajeto-Com Cat,5030,Com Cat Registrada
+2002-01-01,Pé (Exceto Artelhos),Doença do Trabalho-Com Cat,107,Com Cat Registrada
+2002-01-01,Artelho,Típico-Com Cat,887,Com Cat Registrada
+2002-01-01,Artelho,Trajeto-Com Cat,76,Com Cat Registrada
+2002-01-01,Artelho,Doença do Trabalho-Com Cat,8,Com Cat Registrada
+2002-01-01,"Membros Inferiores, Partes Múltiplas",Típico-Com Cat,2105,Com Cat Registrada
+2002-01-01,"Membros Inferiores, Partes Múltiplas",Trajeto-Com Cat,820,Com Cat Registrada
+2002-01-01,"Membros Inferiores, Partes Múltiplas",Doença do Trabalho-Com Cat,81,Com Cat Registrada
+2002-01-01,"Membros Inferiores, não Informado",Típico-Com Cat,1927,Com Cat Registrada
+2002-01-01,"Membros Inferiores, não Informado",Trajeto-Com Cat,652,Com Cat Registrada
+2002-01-01,"Membros Inferiores, não Informado",Doença do Trabalho-Com Cat,65,Com Cat Registrada
+2002-01-01,Partes Múltiplas,Típico-Com Cat,4261,Com Cat Registrada
+2002-01-01,Partes Múltiplas,Trajeto-Com Cat,2841,Com Cat Registrada
+2002-01-01,Partes Múltiplas,Doença do Trabalho-Com Cat,276,Com Cat Registrada
+2002-01-01,Sistemas e Aparelhos,Típico-Com Cat,214,Com Cat Registrada
+2002-01-01,Sistemas e Aparelhos,Trajeto-Com Cat,66,Com Cat Registrada
+2002-01-01,Sistemas e Aparelhos,Doença do Trabalho-Com Cat,75,Com Cat Registrada
+2002-01-01,Aparelho Circulatório,Típico-Com Cat,71,Com Cat Registrada
+2002-01-01,Aparelho Circulatório,Trajeto-Com Cat,8,Com Cat Registrada
+2002-01-01,Aparelho Circulatório,Doença do Trabalho-Com Cat,100,Com Cat Registrada
+2002-01-01,Aparelho Respiratório,Típico-Com Cat,541,Com Cat Registrada
+2002-01-01,Aparelho Respiratório,Trajeto-Com Cat,20,Com Cat Registrada
+2002-01-01,Aparelho Respiratório,Doença do Trabalho-Com Cat,210,Com Cat Registrada
+2002-01-01,Sistema Nervoso,Típico-Com Cat,696,Com Cat Registrada
+2002-01-01,Sistema Nervoso,Trajeto-Com Cat,36,Com Cat Registrada
+2002-01-01,Sistema Nervoso,Doença do Trabalho-Com Cat,185,Com Cat Registrada
+2002-01-01,Aparelho Digestivo,Típico-Com Cat,136,Com Cat Registrada
+2002-01-01,Aparelho Digestivo,Trajeto-Com Cat,15,Com Cat Registrada
+2002-01-01,Aparelho Digestivo,Doença do Trabalho-Com Cat,23,Com Cat Registrada
+2002-01-01,Aparelho Gênito-Urinário,Típico-Com Cat,243,Com Cat Registrada
+2002-01-01,Aparelho Gênito-Urinário,Trajeto-Com Cat,65,Com Cat Registrada
+2002-01-01,Aparelho Gênito-Urinário,Doença do Trabalho-Com Cat,19,Com Cat Registrada
+2002-01-01,Sistema Músculo-Esquelético,Típico-Com Cat,307,Com Cat Registrada
+2002-01-01,Sistema Músculo-Esquelético,Trajeto-Com Cat,58,Com Cat Registrada
+2002-01-01,Sistema Músculo-Esquelético,Doença do Trabalho-Com Cat,45,Com Cat Registrada
+2002-01-01,"Sistemas e Aparelhos, não Informado",Típico-Com Cat,164,Com Cat Registrada
+2002-01-01,"Sistemas e Aparelhos, não Informado",Trajeto-Com Cat,19,Com Cat Registrada
+2002-01-01,"Sistemas e Aparelhos, não Informado",Doença do Trabalho-Com Cat,75,Com Cat Registrada
+2002-01-01,Parte do Corpo não Informada,Típico-Com Cat,2495,Com Cat Registrada
+2002-01-01,Parte do Corpo não Informada,Trajeto-Com Cat,542,Com Cat Registrada
+2002-01-01,Parte do Corpo não Informada,Doença do Trabalho-Com Cat,133,Com Cat Registrada
+2003-01-01,Crânio (Inclusive Encéfalo),Típico-Com Cat,804,Com Cat Registrada
+2003-01-01,Crânio (Inclusive Encéfalo),Trajeto-Com Cat,376,Com Cat Registrada
+2003-01-01,Crânio (Inclusive Encéfalo),Doença do Trabalho-Com Cat,10,Com Cat Registrada
+2003-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Típico-Com Cat,1675,Com Cat Registrada
+2003-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Trajeto-Com Cat,37,Com Cat Registrada
+2003-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Doença do Trabalho-Com Cat,3918,Com Cat Registrada
+2003-01-01,Olho (Inclusive Nervo Ótico e Visão),Típico-Com Cat,12850,Com Cat Registrada
+2003-01-01,Olho (Inclusive Nervo Ótico e Visão),Trajeto-Com Cat,301,Com Cat Registrada
+2003-01-01,Olho (Inclusive Nervo Ótico e Visão),Doença do Trabalho-Com Cat,52,Com Cat Registrada
+2003-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Típico-Com Cat,1086,Com Cat Registrada
+2003-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Trajeto-Com Cat,180,Com Cat Registrada
+2003-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Doença do Trabalho-Com Cat,23,Com Cat Registrada
+2003-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Típico-Com Cat,1287,Com Cat Registrada
+2003-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Trajeto-Com Cat,200,Com Cat Registrada
+2003-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Doença do Trabalho-Com Cat,173,Com Cat Registrada
+2003-01-01,Mandíbula (Inclusive Queixo),Típico-Com Cat,410,Com Cat Registrada
+2003-01-01,Mandíbula (Inclusive Queixo),Trajeto-Com Cat,129,Com Cat Registrada
+2003-01-01,Mandíbula (Inclusive Queixo),Doença do Trabalho-Com Cat,2,Com Cat Registrada
+2003-01-01,"Face, Partes Múltiplas",Típico-Com Cat,4506,Com Cat Registrada
+2003-01-01,"Face, Partes Múltiplas",Trajeto-Com Cat,910,Com Cat Registrada
+2003-01-01,"Face, Partes Múltiplas",Doença do Trabalho-Com Cat,35,Com Cat Registrada
+2003-01-01,"Cabeça, Partes Múltiplas",Típico-Com Cat,3736,Com Cat Registrada
+2003-01-01,"Cabeça, Partes Múltiplas",Trajeto-Com Cat,1666,Com Cat Registrada
+2003-01-01,"Cabeça, Partes Múltiplas",Doença do Trabalho-Com Cat,69,Com Cat Registrada
+2003-01-01,"Cabeça, não Informado",Típico-Com Cat,7703,Com Cat Registrada
+2003-01-01,"Cabeça, não Informado",Trajeto-Com Cat,1570,Com Cat Registrada
+2003-01-01,"Cabeça, não Informado",Doença do Trabalho-Com Cat,154,Com Cat Registrada
+2003-01-01,Braço (Entre o Punho e o Ombro),Típico-Com Cat,11893,Com Cat Registrada
+2003-01-01,Braço (Entre o Punho e o Ombro),Trajeto-Com Cat,2761,Com Cat Registrada
+2003-01-01,Braço (Entre o Punho e o Ombro),Doença do Trabalho-Com Cat,2973,Com Cat Registrada
+2003-01-01,Braço (Acima do Cotovelo),Típico-Com Cat,4893,Com Cat Registrada
+2003-01-01,Braço (Acima do Cotovelo),Trajeto-Com Cat,978,Com Cat Registrada
+2003-01-01,Braço (Acima do Cotovelo),Doença do Trabalho-Com Cat,463,Com Cat Registrada
+2003-01-01,Pescoço,Típico-Com Cat,1150,Com Cat Registrada
+2003-01-01,Pescoço,Trajeto-Com Cat,333,Com Cat Registrada
+2003-01-01,Pescoço,Doença do Trabalho-Com Cat,50,Com Cat Registrada
+2003-01-01,Cotovelo,Típico-Com Cat,2414,Com Cat Registrada
+2003-01-01,Cotovelo,Trajeto-Com Cat,583,Com Cat Registrada
+2003-01-01,Cotovelo,Doença do Trabalho-Com Cat,448,Com Cat Registrada
+2003-01-01,Antebraço (Entre o Punho e o Cotovelo),Típico-Com Cat,13182,Com Cat Registrada
+2003-01-01,Antebraço (Entre o Punho e o Cotovelo),Trajeto-Com Cat,2320,Com Cat Registrada
+2003-01-01,Antebraço (Entre o Punho e o Cotovelo),Doença do Trabalho-Com Cat,1591,Com Cat Registrada
+2003-01-01,Punho,Típico-Com Cat,6076,Com Cat Registrada
+2003-01-01,Punho,Trajeto-Com Cat,918,Com Cat Registrada
+2003-01-01,Punho,Doença do Trabalho-Com Cat,1835,Com Cat Registrada
+2003-01-01,Mão (Exceto Punho ou Dedos),Típico-Com Cat,35149,Com Cat Registrada
+2003-01-01,Mão (Exceto Punho ou Dedos),Trajeto-Com Cat,2081,Com Cat Registrada
+2003-01-01,Mão (Exceto Punho ou Dedos),Doença do Trabalho-Com Cat,871,Com Cat Registrada
+2003-01-01,Dedo,Típico-Com Cat,89428,Com Cat Registrada
+2003-01-01,Dedo,Trajeto-Com Cat,2243,Com Cat Registrada
+2003-01-01,Dedo,Doença do Trabalho-Com Cat,275,Com Cat Registrada
+2003-01-01,"Membros Superiores, Partes Múltiplas",Típico-Com Cat,2746,Com Cat Registrada
+2003-01-01,"Membros Superiores, Partes Múltiplas",Trajeto-Com Cat,798,Com Cat Registrada
+2003-01-01,"Membros Superiores, Partes Múltiplas",Doença do Trabalho-Com Cat,1542,Com Cat Registrada
+2003-01-01,"Membros Superiores, não Informado",Típico-Com Cat,2678,Com Cat Registrada
+2003-01-01,"Membros Superiores, não Informado",Trajeto-Com Cat,561,Com Cat Registrada
+2003-01-01,"Membros Superiores, não Informado",Doença do Trabalho-Com Cat,1851,Com Cat Registrada
+2003-01-01,Ombro,Típico-Com Cat,7241,Com Cat Registrada
+2003-01-01,Ombro,Trajeto-Com Cat,2321,Com Cat Registrada
+2003-01-01,Ombro,Doença do Trabalho-Com Cat,2927,Com Cat Registrada
+2003-01-01,Tórax (Inclusive Órgãos Internos),Típico-Com Cat,3523,Com Cat Registrada
+2003-01-01,Tórax (Inclusive Órgãos Internos),Trajeto-Com Cat,824,Com Cat Registrada
+2003-01-01,Tórax (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,68,Com Cat Registrada
+2003-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Típico-Com Cat,18280,Com Cat Registrada
+2003-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Trajeto-Com Cat,1729,Com Cat Registrada
+2003-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Doença do Trabalho-Com Cat,2309,Com Cat Registrada
+2003-01-01,Abdome (Inclusive Órgãos Internos),Típico-Com Cat,2422,Com Cat Registrada
+2003-01-01,Abdome (Inclusive Órgãos Internos),Trajeto-Com Cat,611,Com Cat Registrada
+2003-01-01,Abdome (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,172,Com Cat Registrada
+2003-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Típico-Com Cat,1475,Com Cat Registrada
+2003-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Trajeto-Com Cat,343,Com Cat Registrada
+2003-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Doença do Trabalho-Com Cat,32,Com Cat Registrada
+2003-01-01,"Tronco, Parte Múltiplas",Típico-Com Cat,1542,Com Cat Registrada
+2003-01-01,"Tronco, Parte Múltiplas",Trajeto-Com Cat,505,Com Cat Registrada
+2003-01-01,"Tronco, Parte Múltiplas",Doença do Trabalho-Com Cat,69,Com Cat Registrada
+2003-01-01,"Tronco, não Informado",Típico-Com Cat,1053,Com Cat Registrada
+2003-01-01,"Tronco, não Informado",Trajeto-Com Cat,208,Com Cat Registrada
+2003-01-01,"Tronco, não Informado",Doença do Trabalho-Com Cat,33,Com Cat Registrada
+2003-01-01,Perna (Entre O Tornozelo e a Pélvis),Típico-Com Cat,8094,Com Cat Registrada
+2003-01-01,Perna (Entre O Tornozelo e a Pélvis),Trajeto-Com Cat,2380,Com Cat Registrada
+2003-01-01,Perna (Entre O Tornozelo e a Pélvis),Doença do Trabalho-Com Cat,74,Com Cat Registrada
+2003-01-01,Coxa,Típico-Com Cat,1831,Com Cat Registrada
+2003-01-01,Coxa,Trajeto-Com Cat,312,Com Cat Registrada
+2003-01-01,Coxa,Doença do Trabalho-Com Cat,20,Com Cat Registrada
+2003-01-01,Joelho,Típico-Com Cat,14800,Com Cat Registrada
+2003-01-01,Joelho,Trajeto-Com Cat,3968,Com Cat Registrada
+2003-01-01,Joelho,Doença do Trabalho-Com Cat,190,Com Cat Registrada
+2003-01-01,Perna (Entre o Tornozelo e o Joelho),Típico-Com Cat,12492,Com Cat Registrada
+2003-01-01,Perna (Entre o Tornozelo e o Joelho),Trajeto-Com Cat,3869,Com Cat Registrada
+2003-01-01,Perna (Entre o Tornozelo e o Joelho),Doença do Trabalho-Com Cat,85,Com Cat Registrada
+2003-01-01,Articulação do Tornozelo,Típico-Com Cat,8565,Com Cat Registrada
+2003-01-01,Articulação do Tornozelo,Trajeto-Com Cat,3197,Com Cat Registrada
+2003-01-01,Articulação do Tornozelo,Doença do Trabalho-Com Cat,43,Com Cat Registrada
+2003-01-01,Pé (Exceto Artelhos),Típico-Com Cat,25687,Com Cat Registrada
+2003-01-01,Pé (Exceto Artelhos),Trajeto-Com Cat,4617,Com Cat Registrada
+2003-01-01,Pé (Exceto Artelhos),Doença do Trabalho-Com Cat,120,Com Cat Registrada
+2003-01-01,Artelho,Típico-Com Cat,1521,Com Cat Registrada
+2003-01-01,Artelho,Trajeto-Com Cat,128,Com Cat Registrada
+2003-01-01,Artelho,Doença do Trabalho-Com Cat,12,Com Cat Registrada
+2003-01-01,"Membros Inferiores, Partes Múltiplas",Típico-Com Cat,1992,Com Cat Registrada
+2003-01-01,"Membros Inferiores, Partes Múltiplas",Trajeto-Com Cat,810,Com Cat Registrada
+2003-01-01,"Membros Inferiores, Partes Múltiplas",Doença do Trabalho-Com Cat,83,Com Cat Registrada
+2003-01-01,"Membros Inferiores, não Informado",Típico-Com Cat,1772,Com Cat Registrada
+2003-01-01,"Membros Inferiores, não Informado",Trajeto-Com Cat,614,Com Cat Registrada
+2003-01-01,"Membros Inferiores, não Informado",Doença do Trabalho-Com Cat,65,Com Cat Registrada
+2003-01-01,Partes Múltiplas,Típico-Com Cat,5178,Com Cat Registrada
+2003-01-01,Partes Múltiplas,Trajeto-Com Cat,3729,Com Cat Registrada
+2003-01-01,Partes Múltiplas,Doença do Trabalho-Com Cat,353,Com Cat Registrada
+2003-01-01,Sistemas e Aparelhos,Típico-Com Cat,320,Com Cat Registrada
+2003-01-01,Sistemas e Aparelhos,Trajeto-Com Cat,87,Com Cat Registrada
+2003-01-01,Sistemas e Aparelhos,Doença do Trabalho-Com Cat,84,Com Cat Registrada
+2003-01-01,Aparelho Circulatório,Típico-Com Cat,80,Com Cat Registrada
+2003-01-01,Aparelho Circulatório,Trajeto-Com Cat,10,Com Cat Registrada
+2003-01-01,Aparelho Circulatório,Doença do Trabalho-Com Cat,80,Com Cat Registrada
+2003-01-01,Aparelho Respiratório,Típico-Com Cat,588,Com Cat Registrada
+2003-01-01,Aparelho Respiratório,Trajeto-Com Cat,30,Com Cat Registrada
+2003-01-01,Aparelho Respiratório,Doença do Trabalho-Com Cat,229,Com Cat Registrada
+2003-01-01,Sistema Nervoso,Típico-Com Cat,1515,Com Cat Registrada
+2003-01-01,Sistema Nervoso,Trajeto-Com Cat,67,Com Cat Registrada
+2003-01-01,Sistema Nervoso,Doença do Trabalho-Com Cat,236,Com Cat Registrada
+2003-01-01,Aparelho Digestivo,Típico-Com Cat,87,Com Cat Registrada
+2003-01-01,Aparelho Digestivo,Trajeto-Com Cat,15,Com Cat Registrada
+2003-01-01,Aparelho Digestivo,Doença do Trabalho-Com Cat,26,Com Cat Registrada
+2003-01-01,Aparelho Gênito-Urinário,Típico-Com Cat,228,Com Cat Registrada
+2003-01-01,Aparelho Gênito-Urinário,Trajeto-Com Cat,54,Com Cat Registrada
+2003-01-01,Aparelho Gênito-Urinário,Doença do Trabalho-Com Cat,20,Com Cat Registrada
+2003-01-01,Sistema Músculo-Esquelético,Típico-Com Cat,231,Com Cat Registrada
+2003-01-01,Sistema Músculo-Esquelético,Trajeto-Com Cat,34,Com Cat Registrada
+2003-01-01,Sistema Músculo-Esquelético,Doença do Trabalho-Com Cat,33,Com Cat Registrada
+2003-01-01,"Sistemas e Aparelhos, não Informado",Típico-Com Cat,251,Com Cat Registrada
+2003-01-01,"Sistemas e Aparelhos, não Informado",Trajeto-Com Cat,24,Com Cat Registrada
+2003-01-01,"Sistemas e Aparelhos, não Informado",Doença do Trabalho-Com Cat,91,Com Cat Registrada
+2003-01-01,Parte do Corpo não Informada,Típico-Com Cat,1141,Com Cat Registrada
+2003-01-01,Parte do Corpo não Informada,Trajeto-Com Cat,211,Com Cat Registrada
+2003-01-01,Parte do Corpo não Informada,Doença do Trabalho-Com Cat,69,Com Cat Registrada
+2003-01-01,Ignorada,Típico-Com Cat,2,Com Cat Registrada
+2003-01-01,Ignorada,Trajeto-Com Cat,0,Com Cat Registrada
+2003-01-01,Ignorada,Doença do Trabalho-Com Cat,0,Com Cat Registrada
+2004-01-01,Crânio (Inclusive Encéfalo),Típico-Com Cat,851,Com Cat Registrada
+2004-01-01,Crânio (Inclusive Encéfalo),Trajeto-Com Cat,490,Com Cat Registrada
+2004-01-01,Crânio (Inclusive Encéfalo),Doença do Trabalho-Com Cat,31,Com Cat Registrada
+2004-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Típico-Com Cat,1466,Com Cat Registrada
+2004-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Trajeto-Com Cat,49,Com Cat Registrada
+2004-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Doença do Trabalho-Com Cat,3437,Com Cat Registrada
+2004-01-01,Olho (Inclusive Nervo Ótico e Visão),Típico-Com Cat,15680,Com Cat Registrada
+2004-01-01,Olho (Inclusive Nervo Ótico e Visão),Trajeto-Com Cat,338,Com Cat Registrada
+2004-01-01,Olho (Inclusive Nervo Ótico e Visão),Doença do Trabalho-Com Cat,91,Com Cat Registrada
+2004-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Típico-Com Cat,1283,Com Cat Registrada
+2004-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Trajeto-Com Cat,235,Com Cat Registrada
+2004-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Doença do Trabalho-Com Cat,25,Com Cat Registrada
+2004-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Típico-Com Cat,1558,Com Cat Registrada
+2004-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Trajeto-Com Cat,253,Com Cat Registrada
+2004-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Doença do Trabalho-Com Cat,304,Com Cat Registrada
+2004-01-01,Mandíbula (Inclusive Queixo),Típico-Com Cat,524,Com Cat Registrada
+2004-01-01,Mandíbula (Inclusive Queixo),Trajeto-Com Cat,159,Com Cat Registrada
+2004-01-01,Mandíbula (Inclusive Queixo),Doença do Trabalho-Com Cat,2,Com Cat Registrada
+2004-01-01,"Face, Partes Múltiplas",Típico-Com Cat,5328,Com Cat Registrada
+2004-01-01,"Face, Partes Múltiplas",Trajeto-Com Cat,1150,Com Cat Registrada
+2004-01-01,"Face, Partes Múltiplas",Doença do Trabalho-Com Cat,50,Com Cat Registrada
+2004-01-01,"Cabeça, Partes Múltiplas",Típico-Com Cat,4297,Com Cat Registrada
+2004-01-01,"Cabeça, Partes Múltiplas",Trajeto-Com Cat,1960,Com Cat Registrada
+2004-01-01,"Cabeça, Partes Múltiplas",Doença do Trabalho-Com Cat,93,Com Cat Registrada
+2004-01-01,"Cabeça, não Informado",Típico-Com Cat,8932,Com Cat Registrada
+2004-01-01,"Cabeça, não Informado",Trajeto-Com Cat,1919,Com Cat Registrada
+2004-01-01,"Cabeça, não Informado",Doença do Trabalho-Com Cat,219,Com Cat Registrada
+2004-01-01,Braço (Entre o Punho e o Ombro),Típico-Com Cat,13079,Com Cat Registrada
+2004-01-01,Braço (Entre o Punho e o Ombro),Trajeto-Com Cat,3108,Com Cat Registrada
+2004-01-01,Braço (Entre o Punho e o Ombro),Doença do Trabalho-Com Cat,3505,Com Cat Registrada
+2004-01-01,Braço (Acima do Cotovelo),Típico-Com Cat,4766,Com Cat Registrada
+2004-01-01,Braço (Acima do Cotovelo),Trajeto-Com Cat,1160,Com Cat Registrada
+2004-01-01,Braço (Acima do Cotovelo),Doença do Trabalho-Com Cat,514,Com Cat Registrada
+2004-01-01,Pescoço,Típico-Com Cat,1310,Com Cat Registrada
+2004-01-01,Pescoço,Trajeto-Com Cat,351,Com Cat Registrada
+2004-01-01,Pescoço,Doença do Trabalho-Com Cat,74,Com Cat Registrada
+2004-01-01,Cotovelo,Típico-Com Cat,2854,Com Cat Registrada
+2004-01-01,Cotovelo,Trajeto-Com Cat,767,Com Cat Registrada
+2004-01-01,Cotovelo,Doença do Trabalho-Com Cat,620,Com Cat Registrada
+2004-01-01,Antebraço (Entre o Punho e o Cotovelo),Típico-Com Cat,15547,Com Cat Registrada
+2004-01-01,Antebraço (Entre o Punho e o Cotovelo),Trajeto-Com Cat,2788,Com Cat Registrada
+2004-01-01,Antebraço (Entre o Punho e o Cotovelo),Doença do Trabalho-Com Cat,1974,Com Cat Registrada
+2004-01-01,Punho,Típico-Com Cat,7501,Com Cat Registrada
+2004-01-01,Punho,Trajeto-Com Cat,1199,Com Cat Registrada
+2004-01-01,Punho,Doença do Trabalho-Com Cat,2692,Com Cat Registrada
+2004-01-01,Mão (Exceto Punho ou Dedos),Típico-Com Cat,37313,Com Cat Registrada
+2004-01-01,Mão (Exceto Punho ou Dedos),Trajeto-Com Cat,2465,Com Cat Registrada
+2004-01-01,Mão (Exceto Punho ou Dedos),Doença do Trabalho-Com Cat,1013,Com Cat Registrada
+2004-01-01,Dedo,Típico-Com Cat,107301,Com Cat Registrada
+2004-01-01,Dedo,Trajeto-Com Cat,2969,Com Cat Registrada
+2004-01-01,Dedo,Doença do Trabalho-Com Cat,403,Com Cat Registrada
+2004-01-01,"Membros Superiores, Partes Múltiplas",Típico-Com Cat,2843,Com Cat Registrada
+2004-01-01,"Membros Superiores, Partes Múltiplas",Trajeto-Com Cat,964,Com Cat Registrada
+2004-01-01,"Membros Superiores, Partes Múltiplas",Doença do Trabalho-Com Cat,1799,Com Cat Registrada
+2004-01-01,"Membros Superiores, não Informado",Típico-Com Cat,3145,Com Cat Registrada
+2004-01-01,"Membros Superiores, não Informado",Trajeto-Com Cat,697,Com Cat Registrada
+2004-01-01,"Membros Superiores, não Informado",Doença do Trabalho-Com Cat,2551,Com Cat Registrada
+2004-01-01,Ombro,Típico-Com Cat,8968,Com Cat Registrada
+2004-01-01,Ombro,Trajeto-Com Cat,2967,Com Cat Registrada
+2004-01-01,Ombro,Doença do Trabalho-Com Cat,4045,Com Cat Registrada
+2004-01-01,Tórax (Inclusive Órgãos Internos),Típico-Com Cat,3593,Com Cat Registrada
+2004-01-01,Tórax (Inclusive Órgãos Internos),Trajeto-Com Cat,915,Com Cat Registrada
+2004-01-01,Tórax (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,97,Com Cat Registrada
+2004-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Típico-Com Cat,21363,Com Cat Registrada
+2004-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Trajeto-Com Cat,2043,Com Cat Registrada
+2004-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Doença do Trabalho-Com Cat,3567,Com Cat Registrada
+2004-01-01,Abdome (Inclusive Órgãos Internos),Típico-Com Cat,3169,Com Cat Registrada
+2004-01-01,Abdome (Inclusive Órgãos Internos),Trajeto-Com Cat,735,Com Cat Registrada
+2004-01-01,Abdome (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,229,Com Cat Registrada
+2004-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Típico-Com Cat,1724,Com Cat Registrada
+2004-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Trajeto-Com Cat,463,Com Cat Registrada
+2004-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Doença do Trabalho-Com Cat,42,Com Cat Registrada
+2004-01-01,"Tronco, Parte Múltiplas",Típico-Com Cat,1595,Com Cat Registrada
+2004-01-01,"Tronco, Parte Múltiplas",Trajeto-Com Cat,514,Com Cat Registrada
+2004-01-01,"Tronco, Parte Múltiplas",Doença do Trabalho-Com Cat,108,Com Cat Registrada
+2004-01-01,"Tronco, não Informado",Típico-Com Cat,1382,Com Cat Registrada
+2004-01-01,"Tronco, não Informado",Trajeto-Com Cat,244,Com Cat Registrada
+2004-01-01,"Tronco, não Informado",Doença do Trabalho-Com Cat,71,Com Cat Registrada
+2004-01-01,Perna (Entre O Tornozelo e a Pélvis),Típico-Com Cat,10135,Com Cat Registrada
+2004-01-01,Perna (Entre O Tornozelo e a Pélvis),Trajeto-Com Cat,3207,Com Cat Registrada
+2004-01-01,Perna (Entre O Tornozelo e a Pélvis),Doença do Trabalho-Com Cat,97,Com Cat Registrada
+2004-01-01,Coxa,Típico-Com Cat,2238,Com Cat Registrada
+2004-01-01,Coxa,Trajeto-Com Cat,415,Com Cat Registrada
+2004-01-01,Coxa,Doença do Trabalho-Com Cat,21,Com Cat Registrada
+2004-01-01,Joelho,Típico-Com Cat,17190,Com Cat Registrada
+2004-01-01,Joelho,Trajeto-Com Cat,5020,Com Cat Registrada
+2004-01-01,Joelho,Doença do Trabalho-Com Cat,278,Com Cat Registrada
+2004-01-01,Perna (Entre o Tornozelo e o Joelho),Típico-Com Cat,12273,Com Cat Registrada
+2004-01-01,Perna (Entre o Tornozelo e o Joelho),Trajeto-Com Cat,3930,Com Cat Registrada
+2004-01-01,Perna (Entre o Tornozelo e o Joelho),Doença do Trabalho-Com Cat,100,Com Cat Registrada
+2004-01-01,Articulação do Tornozelo,Típico-Com Cat,10333,Com Cat Registrada
+2004-01-01,Articulação do Tornozelo,Trajeto-Com Cat,3872,Com Cat Registrada
+2004-01-01,Articulação do Tornozelo,Doença do Trabalho-Com Cat,66,Com Cat Registrada
+2004-01-01,Pé (Exceto Artelhos),Típico-Com Cat,28244,Com Cat Registrada
+2004-01-01,Pé (Exceto Artelhos),Trajeto-Com Cat,5170,Com Cat Registrada
+2004-01-01,Pé (Exceto Artelhos),Doença do Trabalho-Com Cat,145,Com Cat Registrada
+2004-01-01,Artelho,Típico-Com Cat,1987,Com Cat Registrada
+2004-01-01,Artelho,Trajeto-Com Cat,166,Com Cat Registrada
+2004-01-01,Artelho,Doença do Trabalho-Com Cat,17,Com Cat Registrada
+2004-01-01,"Membros Inferiores, Partes Múltiplas",Típico-Com Cat,1802,Com Cat Registrada
+2004-01-01,"Membros Inferiores, Partes Múltiplas",Trajeto-Com Cat,1039,Com Cat Registrada
+2004-01-01,"Membros Inferiores, Partes Múltiplas",Doença do Trabalho-Com Cat,103,Com Cat Registrada
+2004-01-01,"Membros Inferiores, não Informado",Típico-Com Cat,2374,Com Cat Registrada
+2004-01-01,"Membros Inferiores, não Informado",Trajeto-Com Cat,837,Com Cat Registrada
+2004-01-01,"Membros Inferiores, não Informado",Doença do Trabalho-Com Cat,106,Com Cat Registrada
+2004-01-01,Partes Múltiplas,Típico-Com Cat,6731,Com Cat Registrada
+2004-01-01,Partes Múltiplas,Trajeto-Com Cat,5348,Com Cat Registrada
+2004-01-01,Partes Múltiplas,Doença do Trabalho-Com Cat,496,Com Cat Registrada
+2004-01-01,Sistemas e Aparelhos,Típico-Com Cat,495,Com Cat Registrada
+2004-01-01,Sistemas e Aparelhos,Trajeto-Com Cat,107,Com Cat Registrada
+2004-01-01,Sistemas e Aparelhos,Doença do Trabalho-Com Cat,139,Com Cat Registrada
+2004-01-01,Aparelho Circulatório,Típico-Com Cat,94,Com Cat Registrada
+2004-01-01,Aparelho Circulatório,Trajeto-Com Cat,19,Com Cat Registrada
+2004-01-01,Aparelho Circulatório,Doença do Trabalho-Com Cat,105,Com Cat Registrada
+2004-01-01,Aparelho Respiratório,Típico-Com Cat,734,Com Cat Registrada
+2004-01-01,Aparelho Respiratório,Trajeto-Com Cat,68,Com Cat Registrada
+2004-01-01,Aparelho Respiratório,Doença do Trabalho-Com Cat,287,Com Cat Registrada
+2004-01-01,Sistema Nervoso,Típico-Com Cat,2245,Com Cat Registrada
+2004-01-01,Sistema Nervoso,Trajeto-Com Cat,70,Com Cat Registrada
+2004-01-01,Sistema Nervoso,Doença do Trabalho-Com Cat,382,Com Cat Registrada
+2004-01-01,Aparelho Digestivo,Típico-Com Cat,169,Com Cat Registrada
+2004-01-01,Aparelho Digestivo,Trajeto-Com Cat,18,Com Cat Registrada
+2004-01-01,Aparelho Digestivo,Doença do Trabalho-Com Cat,45,Com Cat Registrada
+2004-01-01,Aparelho Gênito-Urinário,Típico-Com Cat,285,Com Cat Registrada
+2004-01-01,Aparelho Gênito-Urinário,Trajeto-Com Cat,63,Com Cat Registrada
+2004-01-01,Aparelho Gênito-Urinário,Doença do Trabalho-Com Cat,47,Com Cat Registrada
+2004-01-01,Sistema Músculo-Esquelético,Típico-Com Cat,230,Com Cat Registrada
+2004-01-01,Sistema Músculo-Esquelético,Trajeto-Com Cat,57,Com Cat Registrada
+2004-01-01,Sistema Músculo-Esquelético,Doença do Trabalho-Com Cat,70,Com Cat Registrada
+2004-01-01,"Sistemas e Aparelhos, não Informado",Típico-Com Cat,240,Com Cat Registrada
+2004-01-01,"Sistemas e Aparelhos, não Informado",Trajeto-Com Cat,27,Com Cat Registrada
+2004-01-01,"Sistemas e Aparelhos, não Informado",Doença do Trabalho-Com Cat,134,Com Cat Registrada
+2004-01-01,Parte do Corpo não Informada,Típico-Com Cat,0,Com Cat Registrada
+2004-01-01,Parte do Corpo não Informada,Trajeto-Com Cat,0,Com Cat Registrada
+2004-01-01,Parte do Corpo não Informada,Doença do Trabalho-Com Cat,0,Com Cat Registrada
+2004-01-01,Ignorada,Típico-Com Cat,0,Com Cat Registrada
+2004-01-01,Ignorada,Trajeto-Com Cat,0,Com Cat Registrada
+2004-01-01,Ignorada,Doença do Trabalho-Com Cat,0,Com Cat Registrada
+2005-01-01,Ignorada,Típico-Com Cat,3,Com Cat Registrada
+2005-01-01,Crânio (Inclusive Encéfalo),Típico-Com Cat,925,Com Cat Registrada
+2005-01-01,Crânio (Inclusive Encéfalo),Doença do Trabalho-Com Cat,31,Com Cat Registrada
+2005-01-01,Crânio (Inclusive Encéfalo),Trajeto-Com Cat,553,Com Cat Registrada
+2005-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Típico-Com Cat,1510,Com Cat Registrada
+2005-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Doença do Trabalho-Com Cat,3937,Com Cat Registrada
+2005-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Trajeto-Com Cat,38,Com Cat Registrada
+2005-01-01,Olho (Inclusive Nervo Ótico e Visão),Típico-Com Cat,16878,Com Cat Registrada
+2005-01-01,Olho (Inclusive Nervo Ótico e Visão),Doença do Trabalho-Com Cat,114,Com Cat Registrada
+2005-01-01,Olho (Inclusive Nervo Ótico e Visão),Trajeto-Com Cat,400,Com Cat Registrada
+2005-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Típico-Com Cat,1409,Com Cat Registrada
+2005-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Doença do Trabalho-Com Cat,22,Com Cat Registrada
+2005-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Trajeto-Com Cat,255,Com Cat Registrada
+2005-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Típico-Com Cat,1695,Com Cat Registrada
+2005-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Doença do Trabalho-Com Cat,308,Com Cat Registrada
+2005-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Trajeto-Com Cat,276,Com Cat Registrada
+2005-01-01,Mandíbula (Inclusive Queixo),Típico-Com Cat,578,Com Cat Registrada
+2005-01-01,Mandíbula (Inclusive Queixo),Doença do Trabalho-Com Cat,6,Com Cat Registrada
+2005-01-01,Mandíbula (Inclusive Queixo),Trajeto-Com Cat,175,Com Cat Registrada
+2005-01-01,"Face, Partes Múltiplas",Típico-Com Cat,5995,Com Cat Registrada
+2005-01-01,"Face, Partes Múltiplas",Doença do Trabalho-Com Cat,60,Com Cat Registrada
+2005-01-01,"Face, Partes Múltiplas",Trajeto-Com Cat,1191,Com Cat Registrada
+2005-01-01,"Cabeça, Partes Múltiplas",Típico-Com Cat,4515,Com Cat Registrada
+2005-01-01,"Cabeça, Partes Múltiplas",Doença do Trabalho-Com Cat,110,Com Cat Registrada
+2005-01-01,"Cabeça, Partes Múltiplas",Trajeto-Com Cat,1987,Com Cat Registrada
+2005-01-01,"Cabeça, não Informado",Típico-Com Cat,10048,Com Cat Registrada
+2005-01-01,"Cabeça, não Informado",Doença do Trabalho-Com Cat,319,Com Cat Registrada
+2005-01-01,"Cabeça, não Informado",Trajeto-Com Cat,1960,Com Cat Registrada
+2005-01-01,Braço (Entre o Punho e o Ombro),Típico-Com Cat,13522,Com Cat Registrada
+2005-01-01,Braço (Entre o Punho e o Ombro),Doença do Trabalho-Com Cat,3477,Com Cat Registrada
+2005-01-01,Braço (Entre o Punho e o Ombro),Trajeto-Com Cat,3391,Com Cat Registrada
+2005-01-01,Braço (Acima do Cotovelo),Típico-Com Cat,4569,Com Cat Registrada
+2005-01-01,Braço (Acima do Cotovelo),Doença do Trabalho-Com Cat,550,Com Cat Registrada
+2005-01-01,Braço (Acima do Cotovelo),Trajeto-Com Cat,1131,Com Cat Registrada
+2005-01-01,Pescoço,Típico-Com Cat,1465,Com Cat Registrada
+2005-01-01,Pescoço,Doença do Trabalho-Com Cat,76,Com Cat Registrada
+2005-01-01,Pescoço,Trajeto-Com Cat,407,Com Cat Registrada
+2005-01-01,Cotovelo,Típico-Com Cat,3130,Com Cat Registrada
+2005-01-01,Cotovelo,Doença do Trabalho-Com Cat,684,Com Cat Registrada
+2005-01-01,Cotovelo,Trajeto-Com Cat,909,Com Cat Registrada
+2005-01-01,Antebraço (Entre o Punho e o Cotovelo),Típico-Com Cat,16002,Com Cat Registrada
+2005-01-01,Antebraço (Entre o Punho e o Cotovelo),Doença do Trabalho-Com Cat,1837,Com Cat Registrada
+2005-01-01,Antebraço (Entre o Punho e o Cotovelo),Trajeto-Com Cat,2995,Com Cat Registrada
+2005-01-01,Punho,Típico-Com Cat,8034,Com Cat Registrada
+2005-01-01,Punho,Doença do Trabalho-Com Cat,2474,Com Cat Registrada
+2005-01-01,Punho,Trajeto-Com Cat,1459,Com Cat Registrada
+2005-01-01,Mão (Exceto Punho ou Dedos),Típico-Com Cat,37973,Com Cat Registrada
+2005-01-01,Mão (Exceto Punho ou Dedos),Doença do Trabalho-Com Cat,949,Com Cat Registrada
+2005-01-01,Mão (Exceto Punho ou Dedos),Trajeto-Com Cat,2594,Com Cat Registrada
+2005-01-01,Dedo,Típico-Com Cat,116431,Com Cat Registrada
+2005-01-01,Dedo,Doença do Trabalho-Com Cat,486,Com Cat Registrada
+2005-01-01,Dedo,Trajeto-Com Cat,3443,Com Cat Registrada
+2005-01-01,"Membros Superiores, Partes Múltiplas",Típico-Com Cat,2785,Com Cat Registrada
+2005-01-01,"Membros Superiores, Partes Múltiplas",Doença do Trabalho-Com Cat,1626,Com Cat Registrada
+2005-01-01,"Membros Superiores, Partes Múltiplas",Trajeto-Com Cat,1024,Com Cat Registrada
+2005-01-01,"Membros Superiores, não Informado",Típico-Com Cat,3465,Com Cat Registrada
+2005-01-01,"Membros Superiores, não Informado",Doença do Trabalho-Com Cat,3031,Com Cat Registrada
+2005-01-01,"Membros Superiores, não Informado",Trajeto-Com Cat,834,Com Cat Registrada
+2005-01-01,Ombro,Típico-Com Cat,9319,Com Cat Registrada
+2005-01-01,Ombro,Doença do Trabalho-Com Cat,4774,Com Cat Registrada
+2005-01-01,Ombro,Trajeto-Com Cat,3415,Com Cat Registrada
+2005-01-01,Tórax (Inclusive Órgãos Internos),Típico-Com Cat,3704,Com Cat Registrada
+2005-01-01,Tórax (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,99,Com Cat Registrada
+2005-01-01,Tórax (Inclusive Órgãos Internos),Trajeto-Com Cat,1004,Com Cat Registrada
+2005-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Típico-Com Cat,21866,Com Cat Registrada
+2005-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Doença do Trabalho-Com Cat,4177,Com Cat Registrada
+2005-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Trajeto-Com Cat,2309,Com Cat Registrada
+2005-01-01,Abdome (Inclusive Órgãos Internos),Típico-Com Cat,3298,Com Cat Registrada
+2005-01-01,Abdome (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,295,Com Cat Registrada
+2005-01-01,Abdome (Inclusive Órgãos Internos),Trajeto-Com Cat,838,Com Cat Registrada
+2005-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Típico-Com Cat,2063,Com Cat Registrada
+2005-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Doença do Trabalho-Com Cat,88,Com Cat Registrada
+2005-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Trajeto-Com Cat,568,Com Cat Registrada
+2005-01-01,"Tronco, Parte Múltiplas",Típico-Com Cat,1801,Com Cat Registrada
+2005-01-01,"Tronco, Parte Múltiplas",Doença do Trabalho-Com Cat,116,Com Cat Registrada
+2005-01-01,"Tronco, Parte Múltiplas",Trajeto-Com Cat,593,Com Cat Registrada
+2005-01-01,"Tronco, não Informado",Típico-Com Cat,1680,Com Cat Registrada
+2005-01-01,"Tronco, não Informado",Doença do Trabalho-Com Cat,87,Com Cat Registrada
+2005-01-01,"Tronco, não Informado",Trajeto-Com Cat,274,Com Cat Registrada
+2005-01-01,Perna (Entre O Tornozelo e a Pélvis),Típico-Com Cat,11165,Com Cat Registrada
+2005-01-01,Perna (Entre O Tornozelo e a Pélvis),Doença do Trabalho-Com Cat,140,Com Cat Registrada
+2005-01-01,Perna (Entre O Tornozelo e a Pélvis),Trajeto-Com Cat,3800,Com Cat Registrada
+2005-01-01,Coxa,Típico-Com Cat,2435,Com Cat Registrada
+2005-01-01,Coxa,Doença do Trabalho-Com Cat,30,Com Cat Registrada
+2005-01-01,Coxa,Trajeto-Com Cat,472,Com Cat Registrada
+2005-01-01,Joelho,Típico-Com Cat,18214,Com Cat Registrada
+2005-01-01,Joelho,Doença do Trabalho-Com Cat,330,Com Cat Registrada
+2005-01-01,Joelho,Trajeto-Com Cat,5598,Com Cat Registrada
+2005-01-01,Perna (Entre o Tornozelo e o Joelho),Típico-Com Cat,12116,Com Cat Registrada
+2005-01-01,Perna (Entre o Tornozelo e o Joelho),Doença do Trabalho-Com Cat,113,Com Cat Registrada
+2005-01-01,Perna (Entre o Tornozelo e o Joelho),Trajeto-Com Cat,4293,Com Cat Registrada
+2005-01-01,Articulação do Tornozelo,Típico-Com Cat,10830,Com Cat Registrada
+2005-01-01,Articulação do Tornozelo,Doença do Trabalho-Com Cat,90,Com Cat Registrada
+2005-01-01,Articulação do Tornozelo,Trajeto-Com Cat,4236,Com Cat Registrada
+2005-01-01,Pé (Exceto Artelhos),Típico-Com Cat,28969,Com Cat Registrada
+2005-01-01,Pé (Exceto Artelhos),Doença do Trabalho-Com Cat,172,Com Cat Registrada
+2005-01-01,Pé (Exceto Artelhos),Trajeto-Com Cat,5856,Com Cat Registrada
+2005-01-01,Artelho,Típico-Com Cat,1796,Com Cat Registrada
+2005-01-01,Artelho,Doença do Trabalho-Com Cat,11,Com Cat Registrada
+2005-01-01,Artelho,Trajeto-Com Cat,196,Com Cat Registrada
+2005-01-01,"Membros Inferiores, Partes Múltiplas",Típico-Com Cat,1681,Com Cat Registrada
+2005-01-01,"Membros Inferiores, Partes Múltiplas",Doença do Trabalho-Com Cat,93,Com Cat Registrada
+2005-01-01,"Membros Inferiores, Partes Múltiplas",Trajeto-Com Cat,1091,Com Cat Registrada
+2005-01-01,"Membros Inferiores, não Informado",Típico-Com Cat,2833,Com Cat Registrada
+2005-01-01,"Membros Inferiores, não Informado",Doença do Trabalho-Com Cat,135,Com Cat Registrada
+2005-01-01,"Membros Inferiores, não Informado",Trajeto-Com Cat,1025,Com Cat Registrada
+2005-01-01,Partes Múltiplas,Típico-Com Cat,8103,Com Cat Registrada
+2005-01-01,Partes Múltiplas,Doença do Trabalho-Com Cat,556,Com Cat Registrada
+2005-01-01,Partes Múltiplas,Trajeto-Com Cat,6808,Com Cat Registrada
+2005-01-01,Sistemas e Aparelhos,Típico-Com Cat,692,Com Cat Registrada
+2005-01-01,Sistemas e Aparelhos,Doença do Trabalho-Com Cat,233,Com Cat Registrada
+2005-01-01,Sistemas e Aparelhos,Trajeto-Com Cat,118,Com Cat Registrada
+2005-01-01,Aparelho Circulatório,Típico-Com Cat,86,Com Cat Registrada
+2005-01-01,Aparelho Circulatório,Doença do Trabalho-Com Cat,101,Com Cat Registrada
+2005-01-01,Aparelho Circulatório,Trajeto-Com Cat,26,Com Cat Registrada
+2005-01-01,Aparelho Respiratório,Típico-Com Cat,803,Com Cat Registrada
+2005-01-01,Aparelho Respiratório,Doença do Trabalho-Com Cat,337,Com Cat Registrada
+2005-01-01,Aparelho Respiratório,Trajeto-Com Cat,59,Com Cat Registrada
+2005-01-01,Sistema Nervoso,Típico-Com Cat,3005,Com Cat Registrada
+2005-01-01,Sistema Nervoso,Doença do Trabalho-Com Cat,699,Com Cat Registrada
+2005-01-01,Sistema Nervoso,Trajeto-Com Cat,155,Com Cat Registrada
+2005-01-01,Aparelho Digestivo,Típico-Com Cat,357,Com Cat Registrada
+2005-01-01,Aparelho Digestivo,Doença do Trabalho-Com Cat,69,Com Cat Registrada
+2005-01-01,Aparelho Digestivo,Trajeto-Com Cat,13,Com Cat Registrada
+2005-01-01,Aparelho Gênito-Urinário,Típico-Com Cat,315,Com Cat Registrada
+2005-01-01,Aparelho Gênito-Urinário,Doença do Trabalho-Com Cat,47,Com Cat Registrada
+2005-01-01,Aparelho Gênito-Urinário,Trajeto-Com Cat,74,Com Cat Registrada
+2005-01-01,Sistema Músculo-Esquelético,Típico-Com Cat,326,Com Cat Registrada
+2005-01-01,Sistema Músculo-Esquelético,Doença do Trabalho-Com Cat,91,Com Cat Registrada
+2005-01-01,Sistema Músculo-Esquelético,Trajeto-Com Cat,80,Com Cat Registrada
+2005-01-01,"Sistemas e Aparelhos, não Informado",Típico-Com Cat,224,Com Cat Registrada
+2005-01-01,"Sistemas e Aparelhos, não Informado",Doença do Trabalho-Com Cat,116,Com Cat Registrada
+2005-01-01,"Sistemas e Aparelhos, não Informado",Trajeto-Com Cat,48,Com Cat Registrada
+2006-01-01,Ignorada,Típico-Com Cat,3,Com Cat Registrada
+2006-01-01,Crânio (Inclusive Encéfalo),Típico-Com Cat,891,Com Cat Registrada
+2006-01-01,Crânio (Inclusive Encéfalo),Doença do Trabalho-Com Cat,47,Com Cat Registrada
+2006-01-01,Crânio (Inclusive Encéfalo),Trajeto-Com Cat,530,Com Cat Registrada
+2006-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Típico-Com Cat,1255,Com Cat Registrada
+2006-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Doença do Trabalho-Com Cat,3259,Com Cat Registrada
+2006-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Trajeto-Com Cat,39,Com Cat Registrada
+2006-01-01,Olho (Inclusive Nervo Ótico e Visão),Típico-Com Cat,17111,Com Cat Registrada
+2006-01-01,Olho (Inclusive Nervo Ótico e Visão),Doença do Trabalho-Com Cat,110,Com Cat Registrada
+2006-01-01,Olho (Inclusive Nervo Ótico e Visão),Trajeto-Com Cat,389,Com Cat Registrada
+2006-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Típico-Com Cat,1519,Com Cat Registrada
+2006-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Doença do Trabalho-Com Cat,21,Com Cat Registrada
+2006-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Trajeto-Com Cat,306,Com Cat Registrada
+2006-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Típico-Com Cat,1849,Com Cat Registrada
+2006-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Doença do Trabalho-Com Cat,205,Com Cat Registrada
+2006-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Trajeto-Com Cat,336,Com Cat Registrada
+2006-01-01,Mandíbula (Inclusive Queixo),Típico-Com Cat,580,Com Cat Registrada
+2006-01-01,Mandíbula (Inclusive Queixo),Doença do Trabalho-Com Cat,3,Com Cat Registrada
+2006-01-01,Mandíbula (Inclusive Queixo),Trajeto-Com Cat,209,Com Cat Registrada
+2006-01-01,"Face, Partes Múltiplas",Típico-Com Cat,6095,Com Cat Registrada
+2006-01-01,"Face, Partes Múltiplas",Doença do Trabalho-Com Cat,49,Com Cat Registrada
+2006-01-01,"Face, Partes Múltiplas",Trajeto-Com Cat,1270,Com Cat Registrada
+2006-01-01,"Cabeça, Partes Múltiplas",Típico-Com Cat,4697,Com Cat Registrada
+2006-01-01,"Cabeça, Partes Múltiplas",Doença do Trabalho-Com Cat,131,Com Cat Registrada
+2006-01-01,"Cabeça, Partes Múltiplas",Trajeto-Com Cat,2051,Com Cat Registrada
+2006-01-01,"Cabeça, não Informado",Típico-Com Cat,10179,Com Cat Registrada
+2006-01-01,"Cabeça, não Informado",Doença do Trabalho-Com Cat,333,Com Cat Registrada
+2006-01-01,"Cabeça, não Informado",Trajeto-Com Cat,2146,Com Cat Registrada
+2006-01-01,Braço (Entre o Punho e o Ombro),Típico-Com Cat,13765,Com Cat Registrada
+2006-01-01,Braço (Entre o Punho e o Ombro),Doença do Trabalho-Com Cat,2706,Com Cat Registrada
+2006-01-01,Braço (Entre o Punho e o Ombro),Trajeto-Com Cat,3671,Com Cat Registrada
+2006-01-01,Braço (Acima do Cotovelo),Típico-Com Cat,4594,Com Cat Registrada
+2006-01-01,Braço (Acima do Cotovelo),Doença do Trabalho-Com Cat,424,Com Cat Registrada
+2006-01-01,Braço (Acima do Cotovelo),Trajeto-Com Cat,1278,Com Cat Registrada
+2006-01-01,Pescoço,Típico-Com Cat,1455,Com Cat Registrada
+2006-01-01,Pescoço,Doença do Trabalho-Com Cat,59,Com Cat Registrada
+2006-01-01,Pescoço,Trajeto-Com Cat,439,Com Cat Registrada
+2006-01-01,Cotovelo,Típico-Com Cat,3485,Com Cat Registrada
+2006-01-01,Cotovelo,Doença do Trabalho-Com Cat,659,Com Cat Registrada
+2006-01-01,Cotovelo,Trajeto-Com Cat,1032,Com Cat Registrada
+2006-01-01,Antebraço (Entre o Punho e o Cotovelo),Típico-Com Cat,15750,Com Cat Registrada
+2006-01-01,Antebraço (Entre o Punho e o Cotovelo),Doença do Trabalho-Com Cat,1523,Com Cat Registrada
+2006-01-01,Antebraço (Entre o Punho e o Cotovelo),Trajeto-Com Cat,3155,Com Cat Registrada
+2006-01-01,Punho,Típico-Com Cat,8604,Com Cat Registrada
+2006-01-01,Punho,Doença do Trabalho-Com Cat,2225,Com Cat Registrada
+2006-01-01,Punho,Trajeto-Com Cat,1602,Com Cat Registrada
+2006-01-01,Mão (Exceto Punho ou Dedos),Típico-Com Cat,37208,Com Cat Registrada
+2006-01-01,Mão (Exceto Punho ou Dedos),Doença do Trabalho-Com Cat,771,Com Cat Registrada
+2006-01-01,Mão (Exceto Punho ou Dedos),Trajeto-Com Cat,2793,Com Cat Registrada
+2006-01-01,Dedo,Típico-Com Cat,118997,Com Cat Registrada
+2006-01-01,Dedo,Doença do Trabalho-Com Cat,453,Com Cat Registrada
+2006-01-01,Dedo,Trajeto-Com Cat,3677,Com Cat Registrada
+2006-01-01,"Membros Superiores, Partes Múltiplas",Típico-Com Cat,2980,Com Cat Registrada
+2006-01-01,"Membros Superiores, Partes Múltiplas",Doença do Trabalho-Com Cat,1355,Com Cat Registrada
+2006-01-01,"Membros Superiores, Partes Múltiplas",Trajeto-Com Cat,1225,Com Cat Registrada
+2006-01-01,"Membros Superiores, não Informado",Típico-Com Cat,3800,Com Cat Registrada
+2006-01-01,"Membros Superiores, não Informado",Doença do Trabalho-Com Cat,2884,Com Cat Registrada
+2006-01-01,"Membros Superiores, não Informado",Trajeto-Com Cat,959,Com Cat Registrada
+2006-01-01,Ombro,Típico-Com Cat,9840,Com Cat Registrada
+2006-01-01,Ombro,Doença do Trabalho-Com Cat,4868,Com Cat Registrada
+2006-01-01,Ombro,Trajeto-Com Cat,3773,Com Cat Registrada
+2006-01-01,Tórax (Inclusive Órgãos Internos),Típico-Com Cat,3638,Com Cat Registrada
+2006-01-01,Tórax (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,116,Com Cat Registrada
+2006-01-01,Tórax (Inclusive Órgãos Internos),Trajeto-Com Cat,998,Com Cat Registrada
+2006-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Típico-Com Cat,21115,Com Cat Registrada
+2006-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Doença do Trabalho-Com Cat,3947,Com Cat Registrada
+2006-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Trajeto-Com Cat,2284,Com Cat Registrada
+2006-01-01,Abdome (Inclusive Órgãos Internos),Típico-Com Cat,3072,Com Cat Registrada
+2006-01-01,Abdome (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,281,Com Cat Registrada
+2006-01-01,Abdome (Inclusive Órgãos Internos),Trajeto-Com Cat,885,Com Cat Registrada
+2006-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Típico-Com Cat,2441,Com Cat Registrada
+2006-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Doença do Trabalho-Com Cat,78,Com Cat Registrada
+2006-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Trajeto-Com Cat,659,Com Cat Registrada
+2006-01-01,"Tronco, Parte Múltiplas",Típico-Com Cat,1914,Com Cat Registrada
+2006-01-01,"Tronco, Parte Múltiplas",Doença do Trabalho-Com Cat,146,Com Cat Registrada
+2006-01-01,"Tronco, Parte Múltiplas",Trajeto-Com Cat,705,Com Cat Registrada
+2006-01-01,"Tronco, não Informado",Típico-Com Cat,1898,Com Cat Registrada
+2006-01-01,"Tronco, não Informado",Doença do Trabalho-Com Cat,112,Com Cat Registrada
+2006-01-01,"Tronco, não Informado",Trajeto-Com Cat,337,Com Cat Registrada
+2006-01-01,Perna (Entre O Tornozelo e a Pélvis),Típico-Com Cat,11852,Com Cat Registrada
+2006-01-01,Perna (Entre O Tornozelo e a Pélvis),Doença do Trabalho-Com Cat,113,Com Cat Registrada
+2006-01-01,Perna (Entre O Tornozelo e a Pélvis),Trajeto-Com Cat,4122,Com Cat Registrada
+2006-01-01,Coxa,Típico-Com Cat,2684,Com Cat Registrada
+2006-01-01,Coxa,Doença do Trabalho-Com Cat,35,Com Cat Registrada
+2006-01-01,Coxa,Trajeto-Com Cat,474,Com Cat Registrada
+2006-01-01,Joelho,Típico-Com Cat,19043,Com Cat Registrada
+2006-01-01,Joelho,Doença do Trabalho-Com Cat,339,Com Cat Registrada
+2006-01-01,Joelho,Trajeto-Com Cat,6255,Com Cat Registrada
+2006-01-01,Perna (Entre o Tornozelo e o Joelho),Típico-Com Cat,12524,Com Cat Registrada
+2006-01-01,Perna (Entre o Tornozelo e o Joelho),Doença do Trabalho-Com Cat,119,Com Cat Registrada
+2006-01-01,Perna (Entre o Tornozelo e o Joelho),Trajeto-Com Cat,4754,Com Cat Registrada
+2006-01-01,Articulação do Tornozelo,Típico-Com Cat,11426,Com Cat Registrada
+2006-01-01,Articulação do Tornozelo,Doença do Trabalho-Com Cat,87,Com Cat Registrada
+2006-01-01,Articulação do Tornozelo,Trajeto-Com Cat,4720,Com Cat Registrada
+2006-01-01,Pé (Exceto Artelhos),Típico-Com Cat,30048,Com Cat Registrada
+2006-01-01,Pé (Exceto Artelhos),Doença do Trabalho-Com Cat,170,Com Cat Registrada
+2006-01-01,Pé (Exceto Artelhos),Trajeto-Com Cat,6515,Com Cat Registrada
+2006-01-01,Artelho,Típico-Com Cat,1883,Com Cat Registrada
+2006-01-01,Artelho,Doença do Trabalho-Com Cat,18,Com Cat Registrada
+2006-01-01,Artelho,Trajeto-Com Cat,218,Com Cat Registrada
+2006-01-01,"Membros Inferiores, Partes Múltiplas",Típico-Com Cat,1845,Com Cat Registrada
+2006-01-01,"Membros Inferiores, Partes Múltiplas",Doença do Trabalho-Com Cat,94,Com Cat Registrada
+2006-01-01,"Membros Inferiores, Partes Múltiplas",Trajeto-Com Cat,1177,Com Cat Registrada
+2006-01-01,"Membros Inferiores, não Informado",Típico-Com Cat,3285,Com Cat Registrada
+2006-01-01,"Membros Inferiores, não Informado",Doença do Trabalho-Com Cat,90,Com Cat Registrada
+2006-01-01,"Membros Inferiores, não Informado",Trajeto-Com Cat,1245,Com Cat Registrada
+2006-01-01,Partes Múltiplas,Típico-Com Cat,8490,Com Cat Registrada
+2006-01-01,Partes Múltiplas,Doença do Trabalho-Com Cat,602,Com Cat Registrada
+2006-01-01,Partes Múltiplas,Trajeto-Com Cat,7797,Com Cat Registrada
+2006-01-01,Sistemas e Aparelhos,Típico-Com Cat,662,Com Cat Registrada
+2006-01-01,Sistemas e Aparelhos,Doença do Trabalho-Com Cat,332,Com Cat Registrada
+2006-01-01,Sistemas e Aparelhos,Trajeto-Com Cat,198,Com Cat Registrada
+2006-01-01,Aparelho Circulatório,Típico-Com Cat,85,Com Cat Registrada
+2006-01-01,Aparelho Circulatório,Doença do Trabalho-Com Cat,141,Com Cat Registrada
+2006-01-01,Aparelho Circulatório,Trajeto-Com Cat,17,Com Cat Registrada
+2006-01-01,Aparelho Respiratório,Típico-Com Cat,681,Com Cat Registrada
+2006-01-01,Aparelho Respiratório,Doença do Trabalho-Com Cat,330,Com Cat Registrada
+2006-01-01,Aparelho Respiratório,Trajeto-Com Cat,59,Com Cat Registrada
+2006-01-01,Sistema Nervoso,Típico-Com Cat,3005,Com Cat Registrada
+2006-01-01,Sistema Nervoso,Doença do Trabalho-Com Cat,518,Com Cat Registrada
+2006-01-01,Sistema Nervoso,Trajeto-Com Cat,128,Com Cat Registrada
+2006-01-01,Aparelho Digestivo,Típico-Com Cat,214,Com Cat Registrada
+2006-01-01,Aparelho Digestivo,Doença do Trabalho-Com Cat,151,Com Cat Registrada
+2006-01-01,Aparelho Digestivo,Trajeto-Com Cat,15,Com Cat Registrada
+2006-01-01,Aparelho Gênito-Urinário,Típico-Com Cat,292,Com Cat Registrada
+2006-01-01,Aparelho Gênito-Urinário,Doença do Trabalho-Com Cat,62,Com Cat Registrada
+2006-01-01,Aparelho Gênito-Urinário,Trajeto-Com Cat,67,Com Cat Registrada
+2006-01-01,Sistema Músculo-Esquelético,Típico-Com Cat,411,Com Cat Registrada
+2006-01-01,Sistema Músculo-Esquelético,Doença do Trabalho-Com Cat,94,Com Cat Registrada
+2006-01-01,Sistema Músculo-Esquelético,Trajeto-Com Cat,85,Com Cat Registrada
+2006-01-01,"Sistemas e Aparelhos, não Informado",Típico-Com Cat,261,Com Cat Registrada
+2006-01-01,"Sistemas e Aparelhos, não Informado",Doença do Trabalho-Com Cat,110,Com Cat Registrada
+2006-01-01,"Sistemas e Aparelhos, não Informado",Trajeto-Com Cat,42,Com Cat Registrada
+2007-01-01,Ignorada,Doença do Trabalho-Com Cat,1,Com Cat Registrada
+2007-01-01,Crânio (Inclusive Encéfalo),Típico-Com Cat,950,Com Cat Registrada
+2007-01-01,Crânio (Inclusive Encéfalo),Doença do Trabalho-Com Cat,30,Com Cat Registrada
+2007-01-01,Crânio (Inclusive Encéfalo),Trajeto-Com Cat,578,Com Cat Registrada
+2007-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Típico-Com Cat,1337,Com Cat Registrada
+2007-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Doença do Trabalho-Com Cat,2468,Com Cat Registrada
+2007-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Trajeto-Com Cat,44,Com Cat Registrada
+2007-01-01,Olho (Inclusive Nervo Ótico e Visão),Típico-Com Cat,18970,Com Cat Registrada
+2007-01-01,Olho (Inclusive Nervo Ótico e Visão),Doença do Trabalho-Com Cat,101,Com Cat Registrada
+2007-01-01,Olho (Inclusive Nervo Ótico e Visão),Trajeto-Com Cat,412,Com Cat Registrada
+2007-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Típico-Com Cat,1607,Com Cat Registrada
+2007-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Doença do Trabalho-Com Cat,17,Com Cat Registrada
+2007-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Trajeto-Com Cat,312,Com Cat Registrada
+2007-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Típico-Com Cat,2003,Com Cat Registrada
+2007-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Doença do Trabalho-Com Cat,142,Com Cat Registrada
+2007-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Trajeto-Com Cat,371,Com Cat Registrada
+2007-01-01,Mandíbula (Inclusive Queixo),Típico-Com Cat,645,Com Cat Registrada
+2007-01-01,Mandíbula (Inclusive Queixo),Doença do Trabalho-Com Cat,5,Com Cat Registrada
+2007-01-01,Mandíbula (Inclusive Queixo),Trajeto-Com Cat,221,Com Cat Registrada
+2007-01-01,"Face, Partes Múltiplas",Típico-Com Cat,6690,Com Cat Registrada
+2007-01-01,"Face, Partes Múltiplas",Doença do Trabalho-Com Cat,40,Com Cat Registrada
+2007-01-01,"Face, Partes Múltiplas",Trajeto-Com Cat,1346,Com Cat Registrada
+2007-01-01,"Cabeça, Partes Múltiplas",Típico-Com Cat,4558,Com Cat Registrada
+2007-01-01,"Cabeça, Partes Múltiplas",Doença do Trabalho-Com Cat,71,Com Cat Registrada
+2007-01-01,"Cabeça, Partes Múltiplas",Trajeto-Com Cat,2079,Com Cat Registrada
+2007-01-01,"Cabeça, não Informado",Típico-Com Cat,10908,Com Cat Registrada
+2007-01-01,"Cabeça, não Informado",Doença do Trabalho-Com Cat,305,Com Cat Registrada
+2007-01-01,"Cabeça, não Informado",Trajeto-Com Cat,2162,Com Cat Registrada
+2007-01-01,Braço (Entre o Punho e o Ombro),Típico-Com Cat,13247,Com Cat Registrada
+2007-01-01,Braço (Entre o Punho e o Ombro),Doença do Trabalho-Com Cat,1747,Com Cat Registrada
+2007-01-01,Braço (Entre o Punho e o Ombro),Trajeto-Com Cat,3871,Com Cat Registrada
+2007-01-01,Braço (Acima do Cotovelo),Típico-Com Cat,4267,Com Cat Registrada
+2007-01-01,Braço (Acima do Cotovelo),Doença do Trabalho-Com Cat,242,Com Cat Registrada
+2007-01-01,Braço (Acima do Cotovelo),Trajeto-Com Cat,1243,Com Cat Registrada
+2007-01-01,Pescoço,Típico-Com Cat,1596,Com Cat Registrada
+2007-01-01,Pescoço,Doença do Trabalho-Com Cat,62,Com Cat Registrada
+2007-01-01,Pescoço,Trajeto-Com Cat,466,Com Cat Registrada
+2007-01-01,Cotovelo,Típico-Com Cat,3549,Com Cat Registrada
+2007-01-01,Cotovelo,Doença do Trabalho-Com Cat,471,Com Cat Registrada
+2007-01-01,Cotovelo,Trajeto-Com Cat,1045,Com Cat Registrada
+2007-01-01,Antebraço (Entre o Punho e o Cotovelo),Típico-Com Cat,16009,Com Cat Registrada
+2007-01-01,Antebraço (Entre o Punho e o Cotovelo),Doença do Trabalho-Com Cat,977,Com Cat Registrada
+2007-01-01,Antebraço (Entre o Punho e o Cotovelo),Trajeto-Com Cat,3255,Com Cat Registrada
+2007-01-01,Punho,Típico-Com Cat,8717,Com Cat Registrada
+2007-01-01,Punho,Doença do Trabalho-Com Cat,1682,Com Cat Registrada
+2007-01-01,Punho,Trajeto-Com Cat,1768,Com Cat Registrada
+2007-01-01,Mão (Exceto Punho ou Dedos),Típico-Com Cat,37547,Com Cat Registrada
+2007-01-01,Mão (Exceto Punho ou Dedos),Doença do Trabalho-Com Cat,552,Com Cat Registrada
+2007-01-01,Mão (Exceto Punho ou Dedos),Trajeto-Com Cat,2785,Com Cat Registrada
+2007-01-01,Dedo,Típico-Com Cat,126524,Com Cat Registrada
+2007-01-01,Dedo,Doença do Trabalho-Com Cat,376,Com Cat Registrada
+2007-01-01,Dedo,Trajeto-Com Cat,4079,Com Cat Registrada
+2007-01-01,"Membros Superiores, Partes Múltiplas",Típico-Com Cat,2977,Com Cat Registrada
+2007-01-01,"Membros Superiores, Partes Múltiplas",Doença do Trabalho-Com Cat,967,Com Cat Registrada
+2007-01-01,"Membros Superiores, Partes Múltiplas",Trajeto-Com Cat,1313,Com Cat Registrada
+2007-01-01,"Membros Superiores, não Informado",Típico-Com Cat,3853,Com Cat Registrada
+2007-01-01,"Membros Superiores, não Informado",Doença do Trabalho-Com Cat,2188,Com Cat Registrada
+2007-01-01,"Membros Superiores, não Informado",Trajeto-Com Cat,1063,Com Cat Registrada
+2007-01-01,Ombro,Típico-Com Cat,9367,Com Cat Registrada
+2007-01-01,Ombro,Doença do Trabalho-Com Cat,3792,Com Cat Registrada
+2007-01-01,Ombro,Trajeto-Com Cat,4034,Com Cat Registrada
+2007-01-01,Tórax (Inclusive Órgãos Internos),Típico-Com Cat,3504,Com Cat Registrada
+2007-01-01,Tórax (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,82,Com Cat Registrada
+2007-01-01,Tórax (Inclusive Órgãos Internos),Trajeto-Com Cat,1067,Com Cat Registrada
+2007-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Típico-Com Cat,19250,Com Cat Registrada
+2007-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Doença do Trabalho-Com Cat,2932,Com Cat Registrada
+2007-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Trajeto-Com Cat,2347,Com Cat Registrada
+2007-01-01,Abdome (Inclusive Órgãos Internos),Típico-Com Cat,2715,Com Cat Registrada
+2007-01-01,Abdome (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,225,Com Cat Registrada
+2007-01-01,Abdome (Inclusive Órgãos Internos),Trajeto-Com Cat,857,Com Cat Registrada
+2007-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Típico-Com Cat,2447,Com Cat Registrada
+2007-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Doença do Trabalho-Com Cat,55,Com Cat Registrada
+2007-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Trajeto-Com Cat,696,Com Cat Registrada
+2007-01-01,"Tronco, Parte Múltiplas",Típico-Com Cat,2015,Com Cat Registrada
+2007-01-01,"Tronco, Parte Múltiplas",Doença do Trabalho-Com Cat,115,Com Cat Registrada
+2007-01-01,"Tronco, Parte Múltiplas",Trajeto-Com Cat,808,Com Cat Registrada
+2007-01-01,"Tronco, não Informado",Típico-Com Cat,1968,Com Cat Registrada
+2007-01-01,"Tronco, não Informado",Doença do Trabalho-Com Cat,96,Com Cat Registrada
+2007-01-01,"Tronco, não Informado",Trajeto-Com Cat,402,Com Cat Registrada
+2007-01-01,Perna (Entre O Tornozelo e a Pélvis),Típico-Com Cat,11858,Com Cat Registrada
+2007-01-01,Perna (Entre O Tornozelo e a Pélvis),Doença do Trabalho-Com Cat,80,Com Cat Registrada
+2007-01-01,Perna (Entre O Tornozelo e a Pélvis),Trajeto-Com Cat,4207,Com Cat Registrada
+2007-01-01,Coxa,Típico-Com Cat,2829,Com Cat Registrada
+2007-01-01,Coxa,Doença do Trabalho-Com Cat,18,Com Cat Registrada
+2007-01-01,Coxa,Trajeto-Com Cat,497,Com Cat Registrada
+2007-01-01,Joelho,Típico-Com Cat,19155,Com Cat Registrada
+2007-01-01,Joelho,Doença do Trabalho-Com Cat,324,Com Cat Registrada
+2007-01-01,Joelho,Trajeto-Com Cat,6637,Com Cat Registrada
+2007-01-01,Perna (Entre o Tornozelo e o Joelho),Típico-Com Cat,12088,Com Cat Registrada
+2007-01-01,Perna (Entre o Tornozelo e o Joelho),Doença do Trabalho-Com Cat,98,Com Cat Registrada
+2007-01-01,Perna (Entre o Tornozelo e o Joelho),Trajeto-Com Cat,4940,Com Cat Registrada
+2007-01-01,Articulação do Tornozelo,Típico-Com Cat,11929,Com Cat Registrada
+2007-01-01,Articulação do Tornozelo,Doença do Trabalho-Com Cat,61,Com Cat Registrada
+2007-01-01,Articulação do Tornozelo,Trajeto-Com Cat,4947,Com Cat Registrada
+2007-01-01,Pé (Exceto Artelhos),Típico-Com Cat,30163,Com Cat Registrada
+2007-01-01,Pé (Exceto Artelhos),Doença do Trabalho-Com Cat,156,Com Cat Registrada
+2007-01-01,Pé (Exceto Artelhos),Trajeto-Com Cat,6657,Com Cat Registrada
+2007-01-01,Artelho,Típico-Com Cat,1887,Com Cat Registrada
+2007-01-01,Artelho,Doença do Trabalho-Com Cat,12,Com Cat Registrada
+2007-01-01,Artelho,Trajeto-Com Cat,224,Com Cat Registrada
+2007-01-01,"Membros Inferiores, Partes Múltiplas",Típico-Com Cat,1790,Com Cat Registrada
+2007-01-01,"Membros Inferiores, Partes Múltiplas",Doença do Trabalho-Com Cat,74,Com Cat Registrada
+2007-01-01,"Membros Inferiores, Partes Múltiplas",Trajeto-Com Cat,1349,Com Cat Registrada
+2007-01-01,"Membros Inferiores, não Informado",Típico-Com Cat,3396,Com Cat Registrada
+2007-01-01,"Membros Inferiores, não Informado",Doença do Trabalho-Com Cat,82,Com Cat Registrada
+2007-01-01,"Membros Inferiores, não Informado",Trajeto-Com Cat,1451,Com Cat Registrada
+2007-01-01,Partes Múltiplas,Típico-Com Cat,9110,Com Cat Registrada
+2007-01-01,Partes Múltiplas,Doença do Trabalho-Com Cat,375,Com Cat Registrada
+2007-01-01,Partes Múltiplas,Trajeto-Com Cat,8853,Com Cat Registrada
+2007-01-01,Sistemas e Aparelhos,Típico-Com Cat,587,Com Cat Registrada
+2007-01-01,Sistemas e Aparelhos,Doença do Trabalho-Com Cat,218,Com Cat Registrada
+2007-01-01,Sistemas e Aparelhos,Trajeto-Com Cat,168,Com Cat Registrada
+2007-01-01,Aparelho Circulatório,Típico-Com Cat,80,Com Cat Registrada
+2007-01-01,Aparelho Circulatório,Doença do Trabalho-Com Cat,82,Com Cat Registrada
+2007-01-01,Aparelho Circulatório,Trajeto-Com Cat,17,Com Cat Registrada
+2007-01-01,Aparelho Respiratório,Típico-Com Cat,952,Com Cat Registrada
+2007-01-01,Aparelho Respiratório,Doença do Trabalho-Com Cat,254,Com Cat Registrada
+2007-01-01,Aparelho Respiratório,Trajeto-Com Cat,39,Com Cat Registrada
+2007-01-01,Sistema Nervoso,Típico-Com Cat,2860,Com Cat Registrada
+2007-01-01,Sistema Nervoso,Doença do Trabalho-Com Cat,503,Com Cat Registrada
+2007-01-01,Sistema Nervoso,Trajeto-Com Cat,165,Com Cat Registrada
+2007-01-01,Aparelho Digestivo,Típico-Com Cat,353,Com Cat Registrada
+2007-01-01,Aparelho Digestivo,Doença do Trabalho-Com Cat,74,Com Cat Registrada
+2007-01-01,Aparelho Digestivo,Trajeto-Com Cat,10,Com Cat Registrada
+2007-01-01,Aparelho Gênito-Urinário,Típico-Com Cat,290,Com Cat Registrada
+2007-01-01,Aparelho Gênito-Urinário,Doença do Trabalho-Com Cat,54,Com Cat Registrada
+2007-01-01,Aparelho Gênito-Urinário,Trajeto-Com Cat,82,Com Cat Registrada
+2007-01-01,Sistema Músculo-Esquelético,Típico-Com Cat,349,Com Cat Registrada
+2007-01-01,Sistema Músculo-Esquelético,Doença do Trabalho-Com Cat,79,Com Cat Registrada
+2007-01-01,Sistema Músculo-Esquelético,Trajeto-Com Cat,106,Com Cat Registrada
+2007-01-01,"Sistemas e Aparelhos, não Informado",Típico-Com Cat,140,Com Cat Registrada
+2007-01-01,"Sistemas e Aparelhos, não Informado",Doença do Trabalho-Com Cat,89,Com Cat Registrada
+2007-01-01,"Sistemas e Aparelhos, não Informado",Trajeto-Com Cat,32,Com Cat Registrada
+2007-01-01,Ignorada,Sem Cat,139412,Sem Cat Registrada
+2007-01-01,Ignorada,Sem Cat,1549,Sem Cat Registrada
+2007-01-01,Ignorada,Sem Cat,28,Sem Cat Registrada
+2007-01-01,Ignorada,Sem Cat,119,Sem Cat Registrada
+2008-01-01,Crânio (Inclusive Encéfalo),Típico-Com Cat,910,Com Cat Registrada
+2008-01-01,Crânio (Inclusive Encéfalo),Doença do Trabalho-Com Cat,34,Com Cat Registrada
+2008-01-01,Crânio (Inclusive Encéfalo),Trajeto-Com Cat,583,Com Cat Registrada
+2008-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Típico-Com Cat,977,Com Cat Registrada
+2008-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Doença do Trabalho-Com Cat,1762,Com Cat Registrada
+2008-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Trajeto-Com Cat,31,Com Cat Registrada
+2008-01-01,Olho (Inclusive Nervo Ótico e Visão),Típico-Com Cat,19729,Com Cat Registrada
+2008-01-01,Olho (Inclusive Nervo Ótico e Visão),Doença do Trabalho-Com Cat,99,Com Cat Registrada
+2008-01-01,Olho (Inclusive Nervo Ótico e Visão),Trajeto-Com Cat,399,Com Cat Registrada
+2008-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Típico-Com Cat,1794,Com Cat Registrada
+2008-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Doença do Trabalho-Com Cat,85,Com Cat Registrada
+2008-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Trajeto-Com Cat,317,Com Cat Registrada
+2008-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Típico-Com Cat,2250,Com Cat Registrada
+2008-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Doença do Trabalho-Com Cat,138,Com Cat Registrada
+2008-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Trajeto-Com Cat,344,Com Cat Registrada
+2008-01-01,Mandíbula (Inclusive Queixo),Típico-Com Cat,687,Com Cat Registrada
+2008-01-01,Mandíbula (Inclusive Queixo),Doença do Trabalho-Com Cat,3,Com Cat Registrada
+2008-01-01,Mandíbula (Inclusive Queixo),Trajeto-Com Cat,223,Com Cat Registrada
+2008-01-01,"Face, Partes Múltiplas",Típico-Com Cat,7383,Com Cat Registrada
+2008-01-01,"Face, Partes Múltiplas",Doença do Trabalho-Com Cat,42,Com Cat Registrada
+2008-01-01,"Face, Partes Múltiplas",Trajeto-Com Cat,1460,Com Cat Registrada
+2008-01-01,"Cabeça, Partes Múltiplas",Típico-Com Cat,4664,Com Cat Registrada
+2008-01-01,"Cabeça, Partes Múltiplas",Doença do Trabalho-Com Cat,81,Com Cat Registrada
+2008-01-01,"Cabeça, Partes Múltiplas",Trajeto-Com Cat,1967,Com Cat Registrada
+2008-01-01,"Cabeça, não Informado",Típico-Com Cat,12132,Com Cat Registrada
+2008-01-01,"Cabeça, não Informado",Doença do Trabalho-Com Cat,311,Com Cat Registrada
+2008-01-01,"Cabeça, não Informado",Trajeto-Com Cat,2235,Com Cat Registrada
+2008-01-01,Braço (Entre o Punho e o Ombro),Típico-Com Cat,13710,Com Cat Registrada
+2008-01-01,Braço (Entre o Punho e o Ombro),Doença do Trabalho-Com Cat,1410,Com Cat Registrada
+2008-01-01,Braço (Entre o Punho e o Ombro),Trajeto-Com Cat,4294,Com Cat Registrada
+2008-01-01,Braço (Acima do Cotovelo),Típico-Com Cat,4225,Com Cat Registrada
+2008-01-01,Braço (Acima do Cotovelo),Doença do Trabalho-Com Cat,191,Com Cat Registrada
+2008-01-01,Braço (Acima do Cotovelo),Trajeto-Com Cat,1325,Com Cat Registrada
+2008-01-01,Pescoço,Típico-Com Cat,1567,Com Cat Registrada
+2008-01-01,Pescoço,Doença do Trabalho-Com Cat,52,Com Cat Registrada
+2008-01-01,Pescoço,Trajeto-Com Cat,542,Com Cat Registrada
+2008-01-01,Cotovelo,Típico-Com Cat,3851,Com Cat Registrada
+2008-01-01,Cotovelo,Doença do Trabalho-Com Cat,490,Com Cat Registrada
+2008-01-01,Cotovelo,Trajeto-Com Cat,1331,Com Cat Registrada
+2008-01-01,Antebraço (Entre o Punho e o Cotovelo),Típico-Com Cat,17084,Com Cat Registrada
+2008-01-01,Antebraço (Entre o Punho e o Cotovelo),Doença do Trabalho-Com Cat,770,Com Cat Registrada
+2008-01-01,Antebraço (Entre o Punho e o Cotovelo),Trajeto-Com Cat,3528,Com Cat Registrada
+2008-01-01,Punho,Típico-Com Cat,9464,Com Cat Registrada
+2008-01-01,Punho,Doença do Trabalho-Com Cat,1530,Com Cat Registrada
+2008-01-01,Punho,Trajeto-Com Cat,2037,Com Cat Registrada
+2008-01-01,Mão (Exceto Punho ou Dedos),Típico-Com Cat,39073,Com Cat Registrada
+2008-01-01,Mão (Exceto Punho ou Dedos),Doença do Trabalho-Com Cat,530,Com Cat Registrada
+2008-01-01,Mão (Exceto Punho ou Dedos),Trajeto-Com Cat,3212,Com Cat Registrada
+2008-01-01,Dedo,Típico-Com Cat,135595,Com Cat Registrada
+2008-01-01,Dedo,Doença do Trabalho-Com Cat,472,Com Cat Registrada
+2008-01-01,Dedo,Trajeto-Com Cat,4472,Com Cat Registrada
+2008-01-01,"Membros Superiores, Partes Múltiplas",Típico-Com Cat,3053,Com Cat Registrada
+2008-01-01,"Membros Superiores, Partes Múltiplas",Doença do Trabalho-Com Cat,804,Com Cat Registrada
+2008-01-01,"Membros Superiores, Partes Múltiplas",Trajeto-Com Cat,1533,Com Cat Registrada
+2008-01-01,"Membros Superiores, não Informado",Típico-Com Cat,4251,Com Cat Registrada
+2008-01-01,"Membros Superiores, não Informado",Doença do Trabalho-Com Cat,1925,Com Cat Registrada
+2008-01-01,"Membros Superiores, não Informado",Trajeto-Com Cat,1364,Com Cat Registrada
+2008-01-01,Ombro,Típico-Com Cat,9841,Com Cat Registrada
+2008-01-01,Ombro,Doença do Trabalho-Com Cat,3935,Com Cat Registrada
+2008-01-01,Ombro,Trajeto-Com Cat,4513,Com Cat Registrada
+2008-01-01,Tórax (Inclusive Órgãos Internos),Típico-Com Cat,3621,Com Cat Registrada
+2008-01-01,Tórax (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,81,Com Cat Registrada
+2008-01-01,Tórax (Inclusive Órgãos Internos),Trajeto-Com Cat,1154,Com Cat Registrada
+2008-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Típico-Com Cat,18563,Com Cat Registrada
+2008-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Doença do Trabalho-Com Cat,2665,Com Cat Registrada
+2008-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Trajeto-Com Cat,2455,Com Cat Registrada
+2008-01-01,Abdome (Inclusive Órgãos Internos),Típico-Com Cat,2928,Com Cat Registrada
+2008-01-01,Abdome (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,251,Com Cat Registrada
+2008-01-01,Abdome (Inclusive Órgãos Internos),Trajeto-Com Cat,956,Com Cat Registrada
+2008-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Típico-Com Cat,2569,Com Cat Registrada
+2008-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Doença do Trabalho-Com Cat,77,Com Cat Registrada
+2008-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Trajeto-Com Cat,870,Com Cat Registrada
+2008-01-01,"Tronco, Parte Múltiplas",Típico-Com Cat,2118,Com Cat Registrada
+2008-01-01,"Tronco, Parte Múltiplas",Doença do Trabalho-Com Cat,91,Com Cat Registrada
+2008-01-01,"Tronco, Parte Múltiplas",Trajeto-Com Cat,877,Com Cat Registrada
+2008-01-01,"Tronco, não Informado",Típico-Com Cat,2242,Com Cat Registrada
+2008-01-01,"Tronco, não Informado",Doença do Trabalho-Com Cat,93,Com Cat Registrada
+2008-01-01,"Tronco, não Informado",Trajeto-Com Cat,447,Com Cat Registrada
+2008-01-01,Perna (Entre O Tornozelo e a Pélvis),Típico-Com Cat,12353,Com Cat Registrada
+2008-01-01,Perna (Entre O Tornozelo e a Pélvis),Doença do Trabalho-Com Cat,84,Com Cat Registrada
+2008-01-01,Perna (Entre O Tornozelo e a Pélvis),Trajeto-Com Cat,5118,Com Cat Registrada
+2008-01-01,Coxa,Típico-Com Cat,3014,Com Cat Registrada
+2008-01-01,Coxa,Doença do Trabalho-Com Cat,15,Com Cat Registrada
+2008-01-01,Coxa,Trajeto-Com Cat,599,Com Cat Registrada
+2008-01-01,Joelho,Típico-Com Cat,20404,Com Cat Registrada
+2008-01-01,Joelho,Doença do Trabalho-Com Cat,342,Com Cat Registrada
+2008-01-01,Joelho,Trajeto-Com Cat,7668,Com Cat Registrada
+2008-01-01,Perna (Entre o Tornozelo e o Joelho),Típico-Com Cat,12692,Com Cat Registrada
+2008-01-01,Perna (Entre o Tornozelo e o Joelho),Doença do Trabalho-Com Cat,93,Com Cat Registrada
+2008-01-01,Perna (Entre o Tornozelo e o Joelho),Trajeto-Com Cat,5436,Com Cat Registrada
+2008-01-01,Articulação do Tornozelo,Típico-Com Cat,13033,Com Cat Registrada
+2008-01-01,Articulação do Tornozelo,Doença do Trabalho-Com Cat,51,Com Cat Registrada
+2008-01-01,Articulação do Tornozelo,Trajeto-Com Cat,5686,Com Cat Registrada
+2008-01-01,Pé (Exceto Artelhos),Típico-Com Cat,32087,Com Cat Registrada
+2008-01-01,Pé (Exceto Artelhos),Doença do Trabalho-Com Cat,133,Com Cat Registrada
+2008-01-01,Pé (Exceto Artelhos),Trajeto-Com Cat,7486,Com Cat Registrada
+2008-01-01,Artelho,Típico-Com Cat,1986,Com Cat Registrada
+2008-01-01,Artelho,Doença do Trabalho-Com Cat,9,Com Cat Registrada
+2008-01-01,Artelho,Trajeto-Com Cat,284,Com Cat Registrada
+2008-01-01,"Membros Inferiores, Partes Múltiplas",Típico-Com Cat,1856,Com Cat Registrada
+2008-01-01,"Membros Inferiores, Partes Múltiplas",Doença do Trabalho-Com Cat,61,Com Cat Registrada
+2008-01-01,"Membros Inferiores, Partes Múltiplas",Trajeto-Com Cat,1581,Com Cat Registrada
+2008-01-01,"Membros Inferiores, não Informado",Típico-Com Cat,3925,Com Cat Registrada
+2008-01-01,"Membros Inferiores, não Informado",Doença do Trabalho-Com Cat,79,Com Cat Registrada
+2008-01-01,"Membros Inferiores, não Informado",Trajeto-Com Cat,1701,Com Cat Registrada
+2008-01-01,Partes Múltiplas,Típico-Com Cat,9347,Com Cat Registrada
+2008-01-01,Partes Múltiplas,Doença do Trabalho-Com Cat,344,Com Cat Registrada
+2008-01-01,Partes Múltiplas,Trajeto-Com Cat,10070,Com Cat Registrada
+2008-01-01,Sistemas e Aparelhos,Típico-Com Cat,719,Com Cat Registrada
+2008-01-01,Sistemas e Aparelhos,Doença do Trabalho-Com Cat,128,Com Cat Registrada
+2008-01-01,Sistemas e Aparelhos,Trajeto-Com Cat,149,Com Cat Registrada
+2008-01-01,Aparelho Circulatório,Típico-Com Cat,72,Com Cat Registrada
+2008-01-01,Aparelho Circulatório,Doença do Trabalho-Com Cat,73,Com Cat Registrada
+2008-01-01,Aparelho Circulatório,Trajeto-Com Cat,12,Com Cat Registrada
+2008-01-01,Aparelho Respiratório,Típico-Com Cat,934,Com Cat Registrada
+2008-01-01,Aparelho Respiratório,Doença do Trabalho-Com Cat,210,Com Cat Registrada
+2008-01-01,Aparelho Respiratório,Trajeto-Com Cat,77,Com Cat Registrada
+2008-01-01,Sistema Nervoso,Típico-Com Cat,3425,Com Cat Registrada
+2008-01-01,Sistema Nervoso,Doença do Trabalho-Com Cat,574,Com Cat Registrada
+2008-01-01,Sistema Nervoso,Trajeto-Com Cat,178,Com Cat Registrada
+2008-01-01,Aparelho Digestivo,Típico-Com Cat,975,Com Cat Registrada
+2008-01-01,Aparelho Digestivo,Doença do Trabalho-Com Cat,55,Com Cat Registrada
+2008-01-01,Aparelho Digestivo,Trajeto-Com Cat,21,Com Cat Registrada
+2008-01-01,Aparelho Gênito-Urinário,Típico-Com Cat,276,Com Cat Registrada
+2008-01-01,Aparelho Gênito-Urinário,Doença do Trabalho-Com Cat,47,Com Cat Registrada
+2008-01-01,Aparelho Gênito-Urinário,Trajeto-Com Cat,84,Com Cat Registrada
+2008-01-01,Sistema Músculo-Esquelético,Típico-Com Cat,390,Com Cat Registrada
+2008-01-01,Sistema Músculo-Esquelético,Doença do Trabalho-Com Cat,65,Com Cat Registrada
+2008-01-01,Sistema Músculo-Esquelético,Trajeto-Com Cat,88,Com Cat Registrada
+2008-01-01,"Sistemas e Aparelhos, não Informado",Típico-Com Cat,156,Com Cat Registrada
+2008-01-01,"Sistemas e Aparelhos, não Informado",Doença do Trabalho-Com Cat,71,Com Cat Registrada
+2008-01-01,"Sistemas e Aparelhos, não Informado",Trajeto-Com Cat,35,Com Cat Registrada
+2008-01-01,Ignorada,Sem Cat,203259,Sem Cat Registrada
+2008-01-01,Ignorada,Sem Cat,1540,Sem Cat Registrada
+2008-01-01,Ignorada,Sem Cat,37,Sem Cat Registrada
+2008-01-01,Ignorada,Sem Cat,121,Sem Cat Registrada
+2009-01-01,Crânio (Inclusive Encéfalo),Típico-Com Cat,871,Com Cat Registrada
+2009-01-01,Crânio (Inclusive Encéfalo),Doença do Trabalho-Com Cat,19,Com Cat Registrada
+2009-01-01,Crânio (Inclusive Encéfalo),Trajeto-Com Cat,516,Com Cat Registrada
+2009-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Típico-Com Cat,1004,Com Cat Registrada
+2009-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Doença do Trabalho-Com Cat,1987,Com Cat Registrada
+2009-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Trajeto-Com Cat,37,Com Cat Registrada
+2009-01-01,Olho (Inclusive Nervo Ótico e Visão),Típico-Com Cat,18025,Com Cat Registrada
+2009-01-01,Olho (Inclusive Nervo Ótico e Visão),Doença do Trabalho-Com Cat,92,Com Cat Registrada
+2009-01-01,Olho (Inclusive Nervo Ótico e Visão),Trajeto-Com Cat,388,Com Cat Registrada
+2009-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Típico-Com Cat,1687,Com Cat Registrada
+2009-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Doença do Trabalho-Com Cat,13,Com Cat Registrada
+2009-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Trajeto-Com Cat,320,Com Cat Registrada
+2009-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Típico-Com Cat,2207,Com Cat Registrada
+2009-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Doença do Trabalho-Com Cat,114,Com Cat Registrada
+2009-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Trajeto-Com Cat,400,Com Cat Registrada
+2009-01-01,Mandíbula (Inclusive Queixo),Típico-Com Cat,667,Com Cat Registrada
+2009-01-01,Mandíbula (Inclusive Queixo),Doença do Trabalho-Com Cat,2,Com Cat Registrada
+2009-01-01,Mandíbula (Inclusive Queixo),Trajeto-Com Cat,194,Com Cat Registrada
+2009-01-01,"Face, Partes Múltiplas",Típico-Com Cat,7228,Com Cat Registrada
+2009-01-01,"Face, Partes Múltiplas",Doença do Trabalho-Com Cat,36,Com Cat Registrada
+2009-01-01,"Face, Partes Múltiplas",Trajeto-Com Cat,1346,Com Cat Registrada
+2009-01-01,"Cabeça, Partes Múltiplas",Típico-Com Cat,4556,Com Cat Registrada
+2009-01-01,"Cabeça, Partes Múltiplas",Doença do Trabalho-Com Cat,70,Com Cat Registrada
+2009-01-01,"Cabeça, Partes Múltiplas",Trajeto-Com Cat,1959,Com Cat Registrada
+2009-01-01,"Cabeça, não Informado",Típico-Com Cat,12193,Com Cat Registrada
+2009-01-01,"Cabeça, não Informado",Doença do Trabalho-Com Cat,283,Com Cat Registrada
+2009-01-01,"Cabeça, não Informado",Trajeto-Com Cat,2382,Com Cat Registrada
+2009-01-01,Braço (Entre o Punho e o Ombro),Típico-Com Cat,13618,Com Cat Registrada
+2009-01-01,Braço (Entre o Punho e o Ombro),Doença do Trabalho-Com Cat,1322,Com Cat Registrada
+2009-01-01,Braço (Entre o Punho e o Ombro),Trajeto-Com Cat,4455,Com Cat Registrada
+2009-01-01,Braço (Acima do Cotovelo),Típico-Com Cat,4138,Com Cat Registrada
+2009-01-01,Braço (Acima do Cotovelo),Doença do Trabalho-Com Cat,196,Com Cat Registrada
+2009-01-01,Braço (Acima do Cotovelo),Trajeto-Com Cat,1344,Com Cat Registrada
+2009-01-01,Pescoço,Típico-Com Cat,1603,Com Cat Registrada
+2009-01-01,Pescoço,Doença do Trabalho-Com Cat,48,Com Cat Registrada
+2009-01-01,Pescoço,Trajeto-Com Cat,544,Com Cat Registrada
+2009-01-01,Cotovelo,Típico-Com Cat,3724,Com Cat Registrada
+2009-01-01,Cotovelo,Doença do Trabalho-Com Cat,479,Com Cat Registrada
+2009-01-01,Cotovelo,Trajeto-Com Cat,1315,Com Cat Registrada
+2009-01-01,Antebraço (Entre o Punho e o Cotovelo),Típico-Com Cat,15947,Com Cat Registrada
+2009-01-01,Antebraço (Entre o Punho e o Cotovelo),Doença do Trabalho-Com Cat,642,Com Cat Registrada
+2009-01-01,Antebraço (Entre o Punho e o Cotovelo),Trajeto-Com Cat,3637,Com Cat Registrada
+2009-01-01,Punho,Típico-Com Cat,9248,Com Cat Registrada
+2009-01-01,Punho,Doença do Trabalho-Com Cat,1351,Com Cat Registrada
+2009-01-01,Punho,Trajeto-Com Cat,2159,Com Cat Registrada
+2009-01-01,Mão (Exceto Punho ou Dedos),Típico-Com Cat,36999,Com Cat Registrada
+2009-01-01,Mão (Exceto Punho ou Dedos),Doença do Trabalho-Com Cat,429,Com Cat Registrada
+2009-01-01,Mão (Exceto Punho ou Dedos),Trajeto-Com Cat,3248,Com Cat Registrada
+2009-01-01,Dedo,Típico-Com Cat,129041,Com Cat Registrada
+2009-01-01,Dedo,Doença do Trabalho-Com Cat,397,Com Cat Registrada
+2009-01-01,Dedo,Trajeto-Com Cat,4651,Com Cat Registrada
+2009-01-01,"Membros Superiores, Partes Múltiplas",Típico-Com Cat,3096,Com Cat Registrada
+2009-01-01,"Membros Superiores, Partes Múltiplas",Doença do Trabalho-Com Cat,785,Com Cat Registrada
+2009-01-01,"Membros Superiores, Partes Múltiplas",Trajeto-Com Cat,1594,Com Cat Registrada
+2009-01-01,"Membros Superiores, não Informado",Típico-Com Cat,3999,Com Cat Registrada
+2009-01-01,"Membros Superiores, não Informado",Doença do Trabalho-Com Cat,1812,Com Cat Registrada
+2009-01-01,"Membros Superiores, não Informado",Trajeto-Com Cat,1379,Com Cat Registrada
+2009-01-01,Ombro,Típico-Com Cat,9390,Com Cat Registrada
+2009-01-01,Ombro,Doença do Trabalho-Com Cat,3720,Com Cat Registrada
+2009-01-01,Ombro,Trajeto-Com Cat,4528,Com Cat Registrada
+2009-01-01,Tórax (Inclusive Órgãos Internos),Típico-Com Cat,3515,Com Cat Registrada
+2009-01-01,Tórax (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,96,Com Cat Registrada
+2009-01-01,Tórax (Inclusive Órgãos Internos),Trajeto-Com Cat,1126,Com Cat Registrada
+2009-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Típico-Com Cat,17088,Com Cat Registrada
+2009-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Doença do Trabalho-Com Cat,2456,Com Cat Registrada
+2009-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Trajeto-Com Cat,2440,Com Cat Registrada
+2009-01-01,Abdome (Inclusive Órgãos Internos),Típico-Com Cat,2627,Com Cat Registrada
+2009-01-01,Abdome (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,301,Com Cat Registrada
+2009-01-01,Abdome (Inclusive Órgãos Internos),Trajeto-Com Cat,883,Com Cat Registrada
+2009-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Típico-Com Cat,2744,Com Cat Registrada
+2009-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Doença do Trabalho-Com Cat,92,Com Cat Registrada
+2009-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Trajeto-Com Cat,939,Com Cat Registrada
+2009-01-01,"Tronco, Parte Múltiplas",Típico-Com Cat,2174,Com Cat Registrada
+2009-01-01,"Tronco, Parte Múltiplas",Doença do Trabalho-Com Cat,79,Com Cat Registrada
+2009-01-01,"Tronco, Parte Múltiplas",Trajeto-Com Cat,902,Com Cat Registrada
+2009-01-01,"Tronco, não Informado",Típico-Com Cat,2411,Com Cat Registrada
+2009-01-01,"Tronco, não Informado",Doença do Trabalho-Com Cat,95,Com Cat Registrada
+2009-01-01,"Tronco, não Informado",Trajeto-Com Cat,499,Com Cat Registrada
+2009-01-01,Perna (Entre O Tornozelo e a Pélvis),Típico-Com Cat,12172,Com Cat Registrada
+2009-01-01,Perna (Entre O Tornozelo e a Pélvis),Doença do Trabalho-Com Cat,82,Com Cat Registrada
+2009-01-01,Perna (Entre O Tornozelo e a Pélvis),Trajeto-Com Cat,5038,Com Cat Registrada
+2009-01-01,Coxa,Típico-Com Cat,2901,Com Cat Registrada
+2009-01-01,Coxa,Doença do Trabalho-Com Cat,25,Com Cat Registrada
+2009-01-01,Coxa,Trajeto-Com Cat,602,Com Cat Registrada
+2009-01-01,Joelho,Típico-Com Cat,19838,Com Cat Registrada
+2009-01-01,Joelho,Doença do Trabalho-Com Cat,349,Com Cat Registrada
+2009-01-01,Joelho,Trajeto-Com Cat,7834,Com Cat Registrada
+2009-01-01,Perna (Entre o Tornozelo e o Joelho),Típico-Com Cat,12674,Com Cat Registrada
+2009-01-01,Perna (Entre o Tornozelo e o Joelho),Doença do Trabalho-Com Cat,96,Com Cat Registrada
+2009-01-01,Perna (Entre o Tornozelo e o Joelho),Trajeto-Com Cat,5876,Com Cat Registrada
+2009-01-01,Articulação do Tornozelo,Típico-Com Cat,12883,Com Cat Registrada
+2009-01-01,Articulação do Tornozelo,Doença do Trabalho-Com Cat,88,Com Cat Registrada
+2009-01-01,Articulação do Tornozelo,Trajeto-Com Cat,5653,Com Cat Registrada
+2009-01-01,Pé (Exceto Artelhos),Típico-Com Cat,31438,Com Cat Registrada
+2009-01-01,Pé (Exceto Artelhos),Doença do Trabalho-Com Cat,144,Com Cat Registrada
+2009-01-01,Pé (Exceto Artelhos),Trajeto-Com Cat,7796,Com Cat Registrada
+2009-01-01,Artelho,Típico-Com Cat,1779,Com Cat Registrada
+2009-01-01,Artelho,Doença do Trabalho-Com Cat,11,Com Cat Registrada
+2009-01-01,Artelho,Trajeto-Com Cat,256,Com Cat Registrada
+2009-01-01,"Membros Inferiores, Partes Múltiplas",Típico-Com Cat,1880,Com Cat Registrada
+2009-01-01,"Membros Inferiores, Partes Múltiplas",Doença do Trabalho-Com Cat,56,Com Cat Registrada
+2009-01-01,"Membros Inferiores, Partes Múltiplas",Trajeto-Com Cat,1578,Com Cat Registrada
+2009-01-01,"Membros Inferiores, não Informado",Típico-Com Cat,3788,Com Cat Registrada
+2009-01-01,"Membros Inferiores, não Informado",Doença do Trabalho-Com Cat,98,Com Cat Registrada
+2009-01-01,"Membros Inferiores, não Informado",Trajeto-Com Cat,1794,Com Cat Registrada
+2009-01-01,Partes Múltiplas,Típico-Com Cat,9484,Com Cat Registrada
+2009-01-01,Partes Múltiplas,Doença do Trabalho-Com Cat,279,Com Cat Registrada
+2009-01-01,Partes Múltiplas,Trajeto-Com Cat,9936,Com Cat Registrada
+2009-01-01,Sistemas e Aparelhos,Típico-Com Cat,648,Com Cat Registrada
+2009-01-01,Sistemas e Aparelhos,Doença do Trabalho-Com Cat,177,Com Cat Registrada
+2009-01-01,Sistemas e Aparelhos,Trajeto-Com Cat,145,Com Cat Registrada
+2009-01-01,Aparelho Circulatório,Típico-Com Cat,42,Com Cat Registrada
+2009-01-01,Aparelho Circulatório,Doença do Trabalho-Com Cat,74,Com Cat Registrada
+2009-01-01,Aparelho Circulatório,Trajeto-Com Cat,7,Com Cat Registrada
+2009-01-01,Aparelho Respiratório,Típico-Com Cat,910,Com Cat Registrada
+2009-01-01,Aparelho Respiratório,Doença do Trabalho-Com Cat,271,Com Cat Registrada
+2009-01-01,Aparelho Respiratório,Trajeto-Com Cat,49,Com Cat Registrada
+2009-01-01,Sistema Nervoso,Típico-Com Cat,3243,Com Cat Registrada
+2009-01-01,Sistema Nervoso,Doença do Trabalho-Com Cat,603,Com Cat Registrada
+2009-01-01,Sistema Nervoso,Trajeto-Com Cat,211,Com Cat Registrada
+2009-01-01,Aparelho Digestivo,Típico-Com Cat,220,Com Cat Registrada
+2009-01-01,Aparelho Digestivo,Doença do Trabalho-Com Cat,86,Com Cat Registrada
+2009-01-01,Aparelho Digestivo,Trajeto-Com Cat,15,Com Cat Registrada
+2009-01-01,Aparelho Gênito-Urinário,Típico-Com Cat,269,Com Cat Registrada
+2009-01-01,Aparelho Gênito-Urinário,Doença do Trabalho-Com Cat,55,Com Cat Registrada
+2009-01-01,Aparelho Gênito-Urinário,Trajeto-Com Cat,87,Com Cat Registrada
+2009-01-01,Sistema Músculo-Esquelético,Típico-Com Cat,366,Com Cat Registrada
+2009-01-01,Sistema Músculo-Esquelético,Doença do Trabalho-Com Cat,85,Com Cat Registrada
+2009-01-01,Sistema Músculo-Esquelético,Trajeto-Com Cat,84,Com Cat Registrada
+2009-01-01,"Sistemas e Aparelhos, não Informado",Típico-Com Cat,163,Com Cat Registrada
+2009-01-01,"Sistemas e Aparelhos, não Informado",Doença do Trabalho-Com Cat,75,Com Cat Registrada
+2009-01-01,"Sistemas e Aparelhos, não Informado",Trajeto-Com Cat,34,Com Cat Registrada
+2009-01-01,Ignorada,Sem Cat,197282,Sem Cat Registrada
+2009-01-01,Ignorada,Sem Cat,1671,Sem Cat Registrada
+2009-01-01,Ignorada,Sem Cat,23,Sem Cat Registrada
+2009-01-01,Ignorada,Sem Cat,141,Sem Cat Registrada
+2010-01-01,Crânio (Inclusive Encéfalo),Típico-Com Cat,796,Com Cat Registrada
+2010-01-01,Crânio (Inclusive Encéfalo),Doença do Trabalho-Com Cat,19,Com Cat Registrada
+2010-01-01,Crânio (Inclusive Encéfalo),Trajeto-Com Cat,487,Com Cat Registrada
+2010-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Típico-Com Cat,780,Com Cat Registrada
+2010-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Doença do Trabalho-Com Cat,1420,Com Cat Registrada
+2010-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Trajeto-Com Cat,41,Com Cat Registrada
+2010-01-01,Olho (Inclusive Nervo Ótico e Visão),Típico-Com Cat,16928,Com Cat Registrada
+2010-01-01,Olho (Inclusive Nervo Ótico e Visão),Doença do Trabalho-Com Cat,85,Com Cat Registrada
+2010-01-01,Olho (Inclusive Nervo Ótico e Visão),Trajeto-Com Cat,350,Com Cat Registrada
+2010-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Típico-Com Cat,1648,Com Cat Registrada
+2010-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Doença do Trabalho-Com Cat,16,Com Cat Registrada
+2010-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Trajeto-Com Cat,303,Com Cat Registrada
+2010-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Típico-Com Cat,2117,Com Cat Registrada
+2010-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Doença do Trabalho-Com Cat,76,Com Cat Registrada
+2010-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Trajeto-Com Cat,392,Com Cat Registrada
+2010-01-01,Mandíbula (Inclusive Queixo),Típico-Com Cat,695,Com Cat Registrada
+2010-01-01,Mandíbula (Inclusive Queixo),Doença do Trabalho-Com Cat,2,Com Cat Registrada
+2010-01-01,Mandíbula (Inclusive Queixo),Trajeto-Com Cat,230,Com Cat Registrada
+2010-01-01,"Face, Partes Múltiplas",Típico-Com Cat,7180,Com Cat Registrada
+2010-01-01,"Face, Partes Múltiplas",Doença do Trabalho-Com Cat,35,Com Cat Registrada
+2010-01-01,"Face, Partes Múltiplas",Trajeto-Com Cat,1411,Com Cat Registrada
+2010-01-01,"Cabeça, Partes Múltiplas",Típico-Com Cat,4427,Com Cat Registrada
+2010-01-01,"Cabeça, Partes Múltiplas",Doença do Trabalho-Com Cat,77,Com Cat Registrada
+2010-01-01,"Cabeça, Partes Múltiplas",Trajeto-Com Cat,1974,Com Cat Registrada
+2010-01-01,"Cabeça, não Informado",Típico-Com Cat,11694,Com Cat Registrada
+2010-01-01,"Cabeça, não Informado",Doença do Trabalho-Com Cat,283,Com Cat Registrada
+2010-01-01,"Cabeça, não Informado",Trajeto-Com Cat,2297,Com Cat Registrada
+2010-01-01,Braço (Entre o Punho e o Ombro),Típico-Com Cat,13199,Com Cat Registrada
+2010-01-01,Braço (Entre o Punho e o Ombro),Doença do Trabalho-Com Cat,1088,Com Cat Registrada
+2010-01-01,Braço (Entre o Punho e o Ombro),Trajeto-Com Cat,4550,Com Cat Registrada
+2010-01-01,Braço (Acima do Cotovelo),Típico-Com Cat,3990,Com Cat Registrada
+2010-01-01,Braço (Acima do Cotovelo),Doença do Trabalho-Com Cat,148,Com Cat Registrada
+2010-01-01,Braço (Acima do Cotovelo),Trajeto-Com Cat,1415,Com Cat Registrada
+2010-01-01,Pescoço,Típico-Com Cat,1453,Com Cat Registrada
+2010-01-01,Pescoço,Doença do Trabalho-Com Cat,43,Com Cat Registrada
+2010-01-01,Pescoço,Trajeto-Com Cat,557,Com Cat Registrada
+2010-01-01,Cotovelo,Típico-Com Cat,3578,Com Cat Registrada
+2010-01-01,Cotovelo,Doença do Trabalho-Com Cat,413,Com Cat Registrada
+2010-01-01,Cotovelo,Trajeto-Com Cat,1397,Com Cat Registrada
+2010-01-01,Antebraço (Entre o Punho e o Cotovelo),Típico-Com Cat,15434,Com Cat Registrada
+2010-01-01,Antebraço (Entre o Punho e o Cotovelo),Doença do Trabalho-Com Cat,578,Com Cat Registrada
+2010-01-01,Antebraço (Entre o Punho e o Cotovelo),Trajeto-Com Cat,3749,Com Cat Registrada
+2010-01-01,Punho,Típico-Com Cat,9214,Com Cat Registrada
+2010-01-01,Punho,Doença do Trabalho-Com Cat,1128,Com Cat Registrada
+2010-01-01,Punho,Trajeto-Com Cat,2263,Com Cat Registrada
+2010-01-01,Mão (Exceto Punho ou Dedos),Típico-Com Cat,36523,Com Cat Registrada
+2010-01-01,Mão (Exceto Punho ou Dedos),Doença do Trabalho-Com Cat,488,Com Cat Registrada
+2010-01-01,Mão (Exceto Punho ou Dedos),Trajeto-Com Cat,3415,Com Cat Registrada
+2010-01-01,Dedo,Típico-Com Cat,129066,Com Cat Registrada
+2010-01-01,Dedo,Doença do Trabalho-Com Cat,407,Com Cat Registrada
+2010-01-01,Dedo,Trajeto-Com Cat,4838,Com Cat Registrada
+2010-01-01,"Membros Superiores, Partes Múltiplas",Típico-Com Cat,3088,Com Cat Registrada
+2010-01-01,"Membros Superiores, Partes Múltiplas",Doença do Trabalho-Com Cat,762,Com Cat Registrada
+2010-01-01,"Membros Superiores, Partes Múltiplas",Trajeto-Com Cat,1710,Com Cat Registrada
+2010-01-01,"Membros Superiores, não Informado",Típico-Com Cat,4403,Com Cat Registrada
+2010-01-01,"Membros Superiores, não Informado",Doença do Trabalho-Com Cat,1558,Com Cat Registrada
+2010-01-01,"Membros Superiores, não Informado",Trajeto-Com Cat,1579,Com Cat Registrada
+2010-01-01,Ombro,Típico-Com Cat,9608,Com Cat Registrada
+2010-01-01,Ombro,Doença do Trabalho-Com Cat,3238,Com Cat Registrada
+2010-01-01,Ombro,Trajeto-Com Cat,4890,Com Cat Registrada
+2010-01-01,Tórax (Inclusive Órgãos Internos),Típico-Com Cat,3205,Com Cat Registrada
+2010-01-01,Tórax (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,81,Com Cat Registrada
+2010-01-01,Tórax (Inclusive Órgãos Internos),Trajeto-Com Cat,1211,Com Cat Registrada
+2010-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Típico-Com Cat,15957,Com Cat Registrada
+2010-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Doença do Trabalho-Com Cat,2198,Com Cat Registrada
+2010-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Trajeto-Com Cat,2484,Com Cat Registrada
+2010-01-01,Abdome (Inclusive Órgãos Internos),Típico-Com Cat,2680,Com Cat Registrada
+2010-01-01,Abdome (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,311,Com Cat Registrada
+2010-01-01,Abdome (Inclusive Órgãos Internos),Trajeto-Com Cat,951,Com Cat Registrada
+2010-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Típico-Com Cat,2685,Com Cat Registrada
+2010-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Doença do Trabalho-Com Cat,97,Com Cat Registrada
+2010-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Trajeto-Com Cat,992,Com Cat Registrada
+2010-01-01,"Tronco, Parte Múltiplas",Típico-Com Cat,2111,Com Cat Registrada
+2010-01-01,"Tronco, Parte Múltiplas",Doença do Trabalho-Com Cat,76,Com Cat Registrada
+2010-01-01,"Tronco, Parte Múltiplas",Trajeto-Com Cat,1001,Com Cat Registrada
+2010-01-01,"Tronco, não Informado",Típico-Com Cat,2271,Com Cat Registrada
+2010-01-01,"Tronco, não Informado",Doença do Trabalho-Com Cat,107,Com Cat Registrada
+2010-01-01,"Tronco, não Informado",Trajeto-Com Cat,522,Com Cat Registrada
+2010-01-01,Perna (Entre O Tornozelo e a Pélvis),Típico-Com Cat,12010,Com Cat Registrada
+2010-01-01,Perna (Entre O Tornozelo e a Pélvis),Doença do Trabalho-Com Cat,92,Com Cat Registrada
+2010-01-01,Perna (Entre O Tornozelo e a Pélvis),Trajeto-Com Cat,5567,Com Cat Registrada
+2010-01-01,Coxa,Típico-Com Cat,2672,Com Cat Registrada
+2010-01-01,Coxa,Doença do Trabalho-Com Cat,15,Com Cat Registrada
+2010-01-01,Coxa,Trajeto-Com Cat,645,Com Cat Registrada
+2010-01-01,Joelho,Típico-Com Cat,18602,Com Cat Registrada
+2010-01-01,Joelho,Doença do Trabalho-Com Cat,338,Com Cat Registrada
+2010-01-01,Joelho,Trajeto-Com Cat,8077,Com Cat Registrada
+2010-01-01,Perna (Entre o Tornozelo e o Joelho),Típico-Com Cat,12322,Com Cat Registrada
+2010-01-01,Perna (Entre o Tornozelo e o Joelho),Doença do Trabalho-Com Cat,99,Com Cat Registrada
+2010-01-01,Perna (Entre o Tornozelo e o Joelho),Trajeto-Com Cat,6296,Com Cat Registrada
+2010-01-01,Articulação do Tornozelo,Típico-Com Cat,12781,Com Cat Registrada
+2010-01-01,Articulação do Tornozelo,Doença do Trabalho-Com Cat,79,Com Cat Registrada
+2010-01-01,Articulação do Tornozelo,Trajeto-Com Cat,5741,Com Cat Registrada
+2010-01-01,Pé (Exceto Artelhos),Típico-Com Cat,31288,Com Cat Registrada
+2010-01-01,Pé (Exceto Artelhos),Doença do Trabalho-Com Cat,161,Com Cat Registrada
+2010-01-01,Pé (Exceto Artelhos),Trajeto-Com Cat,8076,Com Cat Registrada
+2010-01-01,Artelho,Típico-Com Cat,1842,Com Cat Registrada
+2010-01-01,Artelho,Doença do Trabalho-Com Cat,8,Com Cat Registrada
+2010-01-01,Artelho,Trajeto-Com Cat,318,Com Cat Registrada
+2010-01-01,"Membros Inferiores, Partes Múltiplas",Típico-Com Cat,1814,Com Cat Registrada
+2010-01-01,"Membros Inferiores, Partes Múltiplas",Doença do Trabalho-Com Cat,55,Com Cat Registrada
+2010-01-01,"Membros Inferiores, Partes Múltiplas",Trajeto-Com Cat,1706,Com Cat Registrada
+2010-01-01,"Membros Inferiores, não Informado",Típico-Com Cat,4241,Com Cat Registrada
+2010-01-01,"Membros Inferiores, não Informado",Doença do Trabalho-Com Cat,79,Com Cat Registrada
+2010-01-01,"Membros Inferiores, não Informado",Trajeto-Com Cat,2180,Com Cat Registrada
+2010-01-01,Partes Múltiplas,Típico-Com Cat,9407,Com Cat Registrada
+2010-01-01,Partes Múltiplas,Doença do Trabalho-Com Cat,243,Com Cat Registrada
+2010-01-01,Partes Múltiplas,Trajeto-Com Cat,11015,Com Cat Registrada
+2010-01-01,Sistemas e Aparelhos,Típico-Com Cat,500,Com Cat Registrada
+2010-01-01,Sistemas e Aparelhos,Doença do Trabalho-Com Cat,127,Com Cat Registrada
+2010-01-01,Sistemas e Aparelhos,Trajeto-Com Cat,155,Com Cat Registrada
+2010-01-01,Aparelho Circulatório,Típico-Com Cat,45,Com Cat Registrada
+2010-01-01,Aparelho Circulatório,Doença do Trabalho-Com Cat,61,Com Cat Registrada
+2010-01-01,Aparelho Circulatório,Trajeto-Com Cat,7,Com Cat Registrada
+2010-01-01,Aparelho Respiratório,Típico-Com Cat,743,Com Cat Registrada
+2010-01-01,Aparelho Respiratório,Doença do Trabalho-Com Cat,182,Com Cat Registrada
+2010-01-01,Aparelho Respiratório,Trajeto-Com Cat,54,Com Cat Registrada
+2010-01-01,Sistema Nervoso,Típico-Com Cat,3352,Com Cat Registrada
+2010-01-01,Sistema Nervoso,Doença do Trabalho-Com Cat,630,Com Cat Registrada
+2010-01-01,Sistema Nervoso,Trajeto-Com Cat,188,Com Cat Registrada
+2010-01-01,Aparelho Digestivo,Típico-Com Cat,137,Com Cat Registrada
+2010-01-01,Aparelho Digestivo,Doença do Trabalho-Com Cat,86,Com Cat Registrada
+2010-01-01,Aparelho Digestivo,Trajeto-Com Cat,9,Com Cat Registrada
+2010-01-01,Aparelho Gênito-Urinário,Típico-Com Cat,256,Com Cat Registrada
+2010-01-01,Aparelho Gênito-Urinário,Doença do Trabalho-Com Cat,51,Com Cat Registrada
+2010-01-01,Aparelho Gênito-Urinário,Trajeto-Com Cat,91,Com Cat Registrada
+2010-01-01,Sistema Músculo-Esquelético,Típico-Com Cat,419,Com Cat Registrada
+2010-01-01,Sistema Músculo-Esquelético,Doença do Trabalho-Com Cat,72,Com Cat Registrada
+2010-01-01,Sistema Músculo-Esquelético,Trajeto-Com Cat,134,Com Cat Registrada
+2010-01-01,"Sistemas e Aparelhos, não Informado",Típico-Com Cat,134,Com Cat Registrada
+2010-01-01,"Sistemas e Aparelhos, não Informado",Doença do Trabalho-Com Cat,65,Com Cat Registrada
+2010-01-01,"Sistemas e Aparelhos, não Informado",Trajeto-Com Cat,53,Com Cat Registrada
+2010-01-01,Ignorada,Sem Cat,178425,Sem Cat Registrada
+2010-01-01,Ignorada,Sem Cat,1144,Sem Cat Registrada
+2010-01-01,Ignorada,Sem Cat,14,Sem Cat Registrada
+2010-01-01,Ignorada,Sem Cat,98,Sem Cat Registrada
+2011-01-01,Crânio (Inclusive Encéfalo),Típico-Com Cat,867,Com Cat Registrada
+2011-01-01,Crânio (Inclusive Encéfalo),Doença do Trabalho-Com Cat,22,Com Cat Registrada
+2011-01-01,Crânio (Inclusive Encéfalo),Trajeto-Com Cat,550,Com Cat Registrada
+2011-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Típico-Com Cat,720,Com Cat Registrada
+2011-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Doença do Trabalho-Com Cat,1250,Com Cat Registrada
+2011-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Trajeto-Com Cat,32,Com Cat Registrada
+2011-01-01,Olho (Inclusive Nervo Ótico e Visão),Típico-Com Cat,16548,Com Cat Registrada
+2011-01-01,Olho (Inclusive Nervo Ótico e Visão),Doença do Trabalho-Com Cat,94,Com Cat Registrada
+2011-01-01,Olho (Inclusive Nervo Ótico e Visão),Trajeto-Com Cat,336,Com Cat Registrada
+2011-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Típico-Com Cat,1760,Com Cat Registrada
+2011-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Doença do Trabalho-Com Cat,9,Com Cat Registrada
+2011-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Trajeto-Com Cat,352,Com Cat Registrada
+2011-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Típico-Com Cat,2269,Com Cat Registrada
+2011-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Doença do Trabalho-Com Cat,78,Com Cat Registrada
+2011-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Trajeto-Com Cat,396,Com Cat Registrada
+2011-01-01,Mandíbula (Inclusive Queixo),Típico-Com Cat,657,Com Cat Registrada
+2011-01-01,Mandíbula (Inclusive Queixo),Doença do Trabalho-Com Cat,6,Com Cat Registrada
+2011-01-01,Mandíbula (Inclusive Queixo),Trajeto-Com Cat,230,Com Cat Registrada
+2011-01-01,"Face, Partes Múltiplas",Típico-Com Cat,7593,Com Cat Registrada
+2011-01-01,"Face, Partes Múltiplas",Doença do Trabalho-Com Cat,37,Com Cat Registrada
+2011-01-01,"Face, Partes Múltiplas",Trajeto-Com Cat,1396,Com Cat Registrada
+2011-01-01,"Cabeça, Partes Múltiplas",Típico-Com Cat,4528,Com Cat Registrada
+2011-01-01,"Cabeça, Partes Múltiplas",Doença do Trabalho-Com Cat,74,Com Cat Registrada
+2011-01-01,"Cabeça, Partes Múltiplas",Trajeto-Com Cat,1961,Com Cat Registrada
+2011-01-01,"Cabeça, não Informado",Típico-Com Cat,12513,Com Cat Registrada
+2011-01-01,"Cabeça, não Informado",Doença do Trabalho-Com Cat,386,Com Cat Registrada
+2011-01-01,"Cabeça, não Informado",Trajeto-Com Cat,2509,Com Cat Registrada
+2011-01-01,Braço (Entre o Punho e o Ombro),Típico-Com Cat,13136,Com Cat Registrada
+2011-01-01,Braço (Entre o Punho e o Ombro),Doença do Trabalho-Com Cat,951,Com Cat Registrada
+2011-01-01,Braço (Entre o Punho e o Ombro),Trajeto-Com Cat,4779,Com Cat Registrada
+2011-01-01,Braço (Acima do Cotovelo),Típico-Com Cat,4074,Com Cat Registrada
+2011-01-01,Braço (Acima do Cotovelo),Doença do Trabalho-Com Cat,128,Com Cat Registrada
+2011-01-01,Braço (Acima do Cotovelo),Trajeto-Com Cat,1490,Com Cat Registrada
+2011-01-01,Pescoço,Típico-Com Cat,1518,Com Cat Registrada
+2011-01-01,Pescoço,Doença do Trabalho-Com Cat,48,Com Cat Registrada
+2011-01-01,Pescoço,Trajeto-Com Cat,632,Com Cat Registrada
+2011-01-01,Cotovelo,Típico-Com Cat,3626,Com Cat Registrada
+2011-01-01,Cotovelo,Doença do Trabalho-Com Cat,403,Com Cat Registrada
+2011-01-01,Cotovelo,Trajeto-Com Cat,1436,Com Cat Registrada
+2011-01-01,Antebraço (Entre o Punho e o Cotovelo),Típico-Com Cat,15220,Com Cat Registrada
+2011-01-01,Antebraço (Entre o Punho e o Cotovelo),Doença do Trabalho-Com Cat,442,Com Cat Registrada
+2011-01-01,Antebraço (Entre o Punho e o Cotovelo),Trajeto-Com Cat,3794,Com Cat Registrada
+2011-01-01,Punho,Típico-Com Cat,9384,Com Cat Registrada
+2011-01-01,Punho,Doença do Trabalho-Com Cat,1040,Com Cat Registrada
+2011-01-01,Punho,Trajeto-Com Cat,2376,Com Cat Registrada
+2011-01-01,Mão (Exceto Punho ou Dedos),Típico-Com Cat,37249,Com Cat Registrada
+2011-01-01,Mão (Exceto Punho ou Dedos),Doença do Trabalho-Com Cat,367,Com Cat Registrada
+2011-01-01,Mão (Exceto Punho ou Dedos),Trajeto-Com Cat,3520,Com Cat Registrada
+2011-01-01,Dedo,Típico-Com Cat,129733,Com Cat Registrada
+2011-01-01,Dedo,Doença do Trabalho-Com Cat,351,Com Cat Registrada
+2011-01-01,Dedo,Trajeto-Com Cat,5120,Com Cat Registrada
+2011-01-01,"Membros Superiores, Partes Múltiplas",Típico-Com Cat,3246,Com Cat Registrada
+2011-01-01,"Membros Superiores, Partes Múltiplas",Doença do Trabalho-Com Cat,808,Com Cat Registrada
+2011-01-01,"Membros Superiores, Partes Múltiplas",Trajeto-Com Cat,1789,Com Cat Registrada
+2011-01-01,"Membros Superiores, não Informado",Típico-Com Cat,4645,Com Cat Registrada
+2011-01-01,"Membros Superiores, não Informado",Doença do Trabalho-Com Cat,1579,Com Cat Registrada
+2011-01-01,"Membros Superiores, não Informado",Trajeto-Com Cat,1714,Com Cat Registrada
+2011-01-01,Ombro,Típico-Com Cat,9998,Com Cat Registrada
+2011-01-01,Ombro,Doença do Trabalho-Com Cat,3110,Com Cat Registrada
+2011-01-01,Ombro,Trajeto-Com Cat,5382,Com Cat Registrada
+2011-01-01,Tórax (Inclusive Órgãos Internos),Típico-Com Cat,3311,Com Cat Registrada
+2011-01-01,Tórax (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,59,Com Cat Registrada
+2011-01-01,Tórax (Inclusive Órgãos Internos),Trajeto-Com Cat,1349,Com Cat Registrada
+2011-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Típico-Com Cat,15224,Com Cat Registrada
+2011-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Doença do Trabalho-Com Cat,2326,Com Cat Registrada
+2011-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Trajeto-Com Cat,2670,Com Cat Registrada
+2011-01-01,Abdome (Inclusive Órgãos Internos),Típico-Com Cat,2540,Com Cat Registrada
+2011-01-01,Abdome (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,300,Com Cat Registrada
+2011-01-01,Abdome (Inclusive Órgãos Internos),Trajeto-Com Cat,998,Com Cat Registrada
+2011-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Típico-Com Cat,2853,Com Cat Registrada
+2011-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Doença do Trabalho-Com Cat,71,Com Cat Registrada
+2011-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Trajeto-Com Cat,1009,Com Cat Registrada
+2011-01-01,"Tronco, Parte Múltiplas",Típico-Com Cat,2000,Com Cat Registrada
+2011-01-01,"Tronco, Parte Múltiplas",Doença do Trabalho-Com Cat,92,Com Cat Registrada
+2011-01-01,"Tronco, Parte Múltiplas",Trajeto-Com Cat,1053,Com Cat Registrada
+2011-01-01,"Tronco, não Informado",Típico-Com Cat,2486,Com Cat Registrada
+2011-01-01,"Tronco, não Informado",Doença do Trabalho-Com Cat,123,Com Cat Registrada
+2011-01-01,"Tronco, não Informado",Trajeto-Com Cat,632,Com Cat Registrada
+2011-01-01,Perna (Entre O Tornozelo e a Pélvis),Típico-Com Cat,12324,Com Cat Registrada
+2011-01-01,Perna (Entre O Tornozelo e a Pélvis),Doença do Trabalho-Com Cat,75,Com Cat Registrada
+2011-01-01,Perna (Entre O Tornozelo e a Pélvis),Trajeto-Com Cat,5895,Com Cat Registrada
+2011-01-01,Coxa,Típico-Com Cat,2824,Com Cat Registrada
+2011-01-01,Coxa,Doença do Trabalho-Com Cat,18,Com Cat Registrada
+2011-01-01,Coxa,Trajeto-Com Cat,643,Com Cat Registrada
+2011-01-01,Joelho,Típico-Com Cat,18986,Com Cat Registrada
+2011-01-01,Joelho,Doença do Trabalho-Com Cat,308,Com Cat Registrada
+2011-01-01,Joelho,Trajeto-Com Cat,8749,Com Cat Registrada
+2011-01-01,Perna (Entre o Tornozelo e o Joelho),Típico-Com Cat,12781,Com Cat Registrada
+2011-01-01,Perna (Entre o Tornozelo e o Joelho),Doença do Trabalho-Com Cat,81,Com Cat Registrada
+2011-01-01,Perna (Entre o Tornozelo e o Joelho),Trajeto-Com Cat,6532,Com Cat Registrada
+2011-01-01,Articulação do Tornozelo,Típico-Com Cat,13424,Com Cat Registrada
+2011-01-01,Articulação do Tornozelo,Doença do Trabalho-Com Cat,62,Com Cat Registrada
+2011-01-01,Articulação do Tornozelo,Trajeto-Com Cat,5961,Com Cat Registrada
+2011-01-01,Pé (Exceto Artelhos),Típico-Com Cat,32533,Com Cat Registrada
+2011-01-01,Pé (Exceto Artelhos),Doença do Trabalho-Com Cat,167,Com Cat Registrada
+2011-01-01,Pé (Exceto Artelhos),Trajeto-Com Cat,8637,Com Cat Registrada
+2011-01-01,Artelho,Típico-Com Cat,1766,Com Cat Registrada
+2011-01-01,Artelho,Doença do Trabalho-Com Cat,15,Com Cat Registrada
+2011-01-01,Artelho,Trajeto-Com Cat,365,Com Cat Registrada
+2011-01-01,"Membros Inferiores, Partes Múltiplas",Típico-Com Cat,1958,Com Cat Registrada
+2011-01-01,"Membros Inferiores, Partes Múltiplas",Doença do Trabalho-Com Cat,42,Com Cat Registrada
+2011-01-01,"Membros Inferiores, Partes Múltiplas",Trajeto-Com Cat,1840,Com Cat Registrada
+2011-01-01,"Membros Inferiores, não Informado",Típico-Com Cat,4631,Com Cat Registrada
+2011-01-01,"Membros Inferiores, não Informado",Doença do Trabalho-Com Cat,88,Com Cat Registrada
+2011-01-01,"Membros Inferiores, não Informado",Trajeto-Com Cat,2369,Com Cat Registrada
+2011-01-01,Partes Múltiplas,Típico-Com Cat,9790,Com Cat Registrada
+2011-01-01,Partes Múltiplas,Doença do Trabalho-Com Cat,260,Com Cat Registrada
+2011-01-01,Partes Múltiplas,Trajeto-Com Cat,11729,Com Cat Registrada
+2011-01-01,Sistemas e Aparelhos,Típico-Com Cat,398,Com Cat Registrada
+2011-01-01,Sistemas e Aparelhos,Doença do Trabalho-Com Cat,140,Com Cat Registrada
+2011-01-01,Sistemas e Aparelhos,Trajeto-Com Cat,159,Com Cat Registrada
+2011-01-01,Aparelho Circulatório,Típico-Com Cat,51,Com Cat Registrada
+2011-01-01,Aparelho Circulatório,Doença do Trabalho-Com Cat,76,Com Cat Registrada
+2011-01-01,Aparelho Circulatório,Trajeto-Com Cat,9,Com Cat Registrada
+2011-01-01,Aparelho Respiratório,Típico-Com Cat,857,Com Cat Registrada
+2011-01-01,Aparelho Respiratório,Doença do Trabalho-Com Cat,196,Com Cat Registrada
+2011-01-01,Aparelho Respiratório,Trajeto-Com Cat,44,Com Cat Registrada
+2011-01-01,Sistema Nervoso,Típico-Com Cat,4895,Com Cat Registrada
+2011-01-01,Sistema Nervoso,Doença do Trabalho-Com Cat,697,Com Cat Registrada
+2011-01-01,Sistema Nervoso,Trajeto-Com Cat,206,Com Cat Registrada
+2011-01-01,Aparelho Digestivo,Típico-Com Cat,405,Com Cat Registrada
+2011-01-01,Aparelho Digestivo,Doença do Trabalho-Com Cat,280,Com Cat Registrada
+2011-01-01,Aparelho Digestivo,Trajeto-Com Cat,24,Com Cat Registrada
+2011-01-01,Aparelho Gênito-Urinário,Típico-Com Cat,235,Com Cat Registrada
+2011-01-01,Aparelho Gênito-Urinário,Doença do Trabalho-Com Cat,39,Com Cat Registrada
+2011-01-01,Aparelho Gênito-Urinário,Trajeto-Com Cat,83,Com Cat Registrada
+2011-01-01,Sistema Músculo-Esquelético,Típico-Com Cat,405,Com Cat Registrada
+2011-01-01,Sistema Músculo-Esquelético,Doença do Trabalho-Com Cat,79,Com Cat Registrada
+2011-01-01,Sistema Músculo-Esquelético,Trajeto-Com Cat,109,Com Cat Registrada
+2011-01-01,"Sistemas e Aparelhos, não Informado",Típico-Com Cat,192,Com Cat Registrada
+2011-01-01,"Sistemas e Aparelhos, não Informado",Doença do Trabalho-Com Cat,62,Com Cat Registrada
+2011-01-01,"Sistemas e Aparelhos, não Informado",Trajeto-Com Cat,38,Com Cat Registrada
+2011-01-01,Ignorada,Sem Cat,175712,Sem Cat Registrada
+2011-01-01,Ignorada,Sem Cat,946,Sem Cat Registrada
+2011-01-01,Ignorada,Sem Cat,23,Sem Cat Registrada
+2011-01-01,Ignorada,Sem Cat,59,Sem Cat Registrada
+2012-01-01,Abdome (Inclusive Órgãos Internos),Típico-Com Cat,2604,Com Cat Registrada
+2012-01-01,Abdome (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,286,Com Cat Registrada
+2012-01-01,Abdome (Inclusive Órgãos Internos),Trajeto-Com Cat,1035,Com Cat Registrada
+2012-01-01,Antebraço (Entre o Punho e o Cotovelo),Típico-Com Cat,15562,Com Cat Registrada
+2012-01-01,Antebraço (Entre o Punho e o Cotovelo),Doença do Trabalho-Com Cat,426,Com Cat Registrada
+2012-01-01,Antebraço (Entre o Punho e o Cotovelo),Trajeto-Com Cat,3837,Com Cat Registrada
+2012-01-01,Aparelho Circulatório,Típico-Com Cat,52,Com Cat Registrada
+2012-01-01,Aparelho Circulatório,Doença do Trabalho-Com Cat,51,Com Cat Registrada
+2012-01-01,Aparelho Circulatório,Trajeto-Com Cat,14,Com Cat Registrada
+2012-01-01,Aparelho Digestivo,Típico-Com Cat,790,Com Cat Registrada
+2012-01-01,Aparelho Digestivo,Doença do Trabalho-Com Cat,137,Com Cat Registrada
+2012-01-01,Aparelho Digestivo,Trajeto-Com Cat,19,Com Cat Registrada
+2012-01-01,Aparelho Gênito-Urinário,Típico-Com Cat,210,Com Cat Registrada
+2012-01-01,Aparelho Gênito-Urinário,Doença do Trabalho-Com Cat,44,Com Cat Registrada
+2012-01-01,Aparelho Gênito-Urinário,Trajeto-Com Cat,84,Com Cat Registrada
+2012-01-01,Aparelho Respiratório,Típico-Com Cat,823,Com Cat Registrada
+2012-01-01,Aparelho Respiratório,Doença do Trabalho-Com Cat,188,Com Cat Registrada
+2012-01-01,Aparelho Respiratório,Trajeto-Com Cat,50,Com Cat Registrada
+2012-01-01,Artelho,Típico-Com Cat,1673,Com Cat Registrada
+2012-01-01,Artelho,Doença do Trabalho-Com Cat,8,Com Cat Registrada
+2012-01-01,Artelho,Trajeto-Com Cat,288,Com Cat Registrada
+2012-01-01,Articulação do Tornozelo,Típico-Com Cat,13635,Com Cat Registrada
+2012-01-01,Articulação do Tornozelo,Doença do Trabalho-Com Cat,54,Com Cat Registrada
+2012-01-01,Articulação do Tornozelo,Trajeto-Com Cat,6381,Com Cat Registrada
+2012-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Típico-Com Cat,2421,Com Cat Registrada
+2012-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Doença do Trabalho-Com Cat,82,Com Cat Registrada
+2012-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Trajeto-Com Cat,392,Com Cat Registrada
+2012-01-01,Braço (Acima do Cotovelo),Típico-Com Cat,4079,Com Cat Registrada
+2012-01-01,Braço (Acima do Cotovelo),Doença do Trabalho-Com Cat,130,Com Cat Registrada
+2012-01-01,Braço (Acima do Cotovelo),Trajeto-Com Cat,1508,Com Cat Registrada
+2012-01-01,Braço (Entre o Punho e o Ombro),Típico-Com Cat,13302,Com Cat Registrada
+2012-01-01,Braço (Entre o Punho e o Ombro),Doença do Trabalho-Com Cat,870,Com Cat Registrada
+2012-01-01,Braço (Entre o Punho e o Ombro),Trajeto-Com Cat,4921,Com Cat Registrada
+2012-01-01,"Cabeça, não Informado",Típico-Com Cat,12485,Com Cat Registrada
+2012-01-01,"Cabeça, não Informado",Doença do Trabalho-Com Cat,448,Com Cat Registrada
+2012-01-01,"Cabeça, não Informado",Trajeto-Com Cat,2541,Com Cat Registrada
+2012-01-01,"Cabeça, Partes Múltiplas",Típico-Com Cat,4522,Com Cat Registrada
+2012-01-01,"Cabeça, Partes Múltiplas",Doença do Trabalho-Com Cat,69,Com Cat Registrada
+2012-01-01,"Cabeça, Partes Múltiplas",Trajeto-Com Cat,1955,Com Cat Registrada
+2012-01-01,Cotovelo,Típico-Com Cat,3526,Com Cat Registrada
+2012-01-01,Cotovelo,Doença do Trabalho-Com Cat,367,Com Cat Registrada
+2012-01-01,Cotovelo,Trajeto-Com Cat,1412,Com Cat Registrada
+2012-01-01,Coxa,Típico-Com Cat,2948,Com Cat Registrada
+2012-01-01,Coxa,Doença do Trabalho-Com Cat,17,Com Cat Registrada
+2012-01-01,Coxa,Trajeto-Com Cat,696,Com Cat Registrada
+2012-01-01,Crânio (Inclusive Encéfalo),Típico-Com Cat,842,Com Cat Registrada
+2012-01-01,Crânio (Inclusive Encéfalo),Doença do Trabalho-Com Cat,19,Com Cat Registrada
+2012-01-01,Crânio (Inclusive Encéfalo),Trajeto-Com Cat,478,Com Cat Registrada
+2012-01-01,Dedo,Típico-Com Cat,127874,Com Cat Registrada
+2012-01-01,Dedo,Doença do Trabalho-Com Cat,305,Com Cat Registrada
+2012-01-01,Dedo,Trajeto-Com Cat,5082,Com Cat Registrada
+2012-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Típico-Com Cat,14167,Com Cat Registrada
+2012-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Doença do Trabalho-Com Cat,2161,Com Cat Registrada
+2012-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Trajeto-Com Cat,2664,Com Cat Registrada
+2012-01-01,"Face, Partes Múltiplas",Típico-Com Cat,7809,Com Cat Registrada
+2012-01-01,"Face, Partes Múltiplas",Doença do Trabalho-Com Cat,25,Com Cat Registrada
+2012-01-01,"Face, Partes Múltiplas",Trajeto-Com Cat,1367,Com Cat Registrada
+2012-01-01,Joelho,Típico-Com Cat,18781,Com Cat Registrada
+2012-01-01,Joelho,Doença do Trabalho-Com Cat,336,Com Cat Registrada
+2012-01-01,Joelho,Trajeto-Com Cat,8825,Com Cat Registrada
+2012-01-01,Mandíbula (Inclusive Queixo),Típico-Com Cat,654,Com Cat Registrada
+2012-01-01,Mandíbula (Inclusive Queixo),Doença do Trabalho-Com Cat,8,Com Cat Registrada
+2012-01-01,Mandíbula (Inclusive Queixo),Trajeto-Com Cat,206,Com Cat Registrada
+2012-01-01,Mão (Exceto Punho ou Dedos),Típico-Com Cat,36677,Com Cat Registrada
+2012-01-01,Mão (Exceto Punho ou Dedos),Doença do Trabalho-Com Cat,379,Com Cat Registrada
+2012-01-01,Mão (Exceto Punho ou Dedos),Trajeto-Com Cat,3547,Com Cat Registrada
+2012-01-01,"Membros Inferiores, não Informado",Típico-Com Cat,4671,Com Cat Registrada
+2012-01-01,"Membros Inferiores, não Informado",Doença do Trabalho-Com Cat,108,Com Cat Registrada
+2012-01-01,"Membros Inferiores, não Informado",Trajeto-Com Cat,2592,Com Cat Registrada
+2012-01-01,"Membros Inferiores, Partes Múltiplas",Típico-Com Cat,1849,Com Cat Registrada
+2012-01-01,"Membros Inferiores, Partes Múltiplas",Doença do Trabalho-Com Cat,59,Com Cat Registrada
+2012-01-01,"Membros Inferiores, Partes Múltiplas",Trajeto-Com Cat,1892,Com Cat Registrada
+2012-01-01,"Membros Superiores, não Informado",Típico-Com Cat,4596,Com Cat Registrada
+2012-01-01,"Membros Superiores, não Informado",Doença do Trabalho-Com Cat,1749,Com Cat Registrada
+2012-01-01,"Membros Superiores, não Informado",Trajeto-Com Cat,1900,Com Cat Registrada
+2012-01-01,"Membros Superiores, Partes Múltiplas",Típico-Com Cat,3226,Com Cat Registrada
+2012-01-01,"Membros Superiores, Partes Múltiplas",Doença do Trabalho-Com Cat,911,Com Cat Registrada
+2012-01-01,"Membros Superiores, Partes Múltiplas",Trajeto-Com Cat,1801,Com Cat Registrada
+2012-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Típico-Com Cat,1681,Com Cat Registrada
+2012-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Doença do Trabalho-Com Cat,9,Com Cat Registrada
+2012-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Trajeto-Com Cat,322,Com Cat Registrada
+2012-01-01,Olho (Inclusive Nervo Ótico e Visão),Típico-Com Cat,17368,Com Cat Registrada
+2012-01-01,Olho (Inclusive Nervo Ótico e Visão),Doença do Trabalho-Com Cat,80,Com Cat Registrada
+2012-01-01,Olho (Inclusive Nervo Ótico e Visão),Trajeto-Com Cat,362,Com Cat Registrada
+2012-01-01,Ombro,Típico-Com Cat,9791,Com Cat Registrada
+2012-01-01,Ombro,Doença do Trabalho-Com Cat,3272,Com Cat Registrada
+2012-01-01,Ombro,Trajeto-Com Cat,5583,Com Cat Registrada
+2012-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Típico-Com Cat,710,Com Cat Registrada
+2012-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Doença do Trabalho-Com Cat,1315,Com Cat Registrada
+2012-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Trajeto-Com Cat,43,Com Cat Registrada
+2012-01-01,Partes Múltiplas,Típico-Com Cat,9702,Com Cat Registrada
+2012-01-01,Partes Múltiplas,Doença do Trabalho-Com Cat,250,Com Cat Registrada
+2012-01-01,Partes Múltiplas,Trajeto-Com Cat,11804,Com Cat Registrada
+2012-01-01,Pé (Exceto Artelhos),Típico-Com Cat,32702,Com Cat Registrada
+2012-01-01,Pé (Exceto Artelhos),Doença do Trabalho-Com Cat,150,Com Cat Registrada
+2012-01-01,Pé (Exceto Artelhos),Trajeto-Com Cat,8785,Com Cat Registrada
+2012-01-01,Perna (Entre o Tornozelo e o Joelho),Típico-Com Cat,12582,Com Cat Registrada
+2012-01-01,Perna (Entre o Tornozelo e o Joelho),Doença do Trabalho-Com Cat,97,Com Cat Registrada
+2012-01-01,Perna (Entre o Tornozelo e o Joelho),Trajeto-Com Cat,6806,Com Cat Registrada
+2012-01-01,Perna (Entre O Tornozelo e a Pélvis),Típico-Com Cat,12340,Com Cat Registrada
+2012-01-01,Perna (Entre O Tornozelo e a Pélvis),Doença do Trabalho-Com Cat,82,Com Cat Registrada
+2012-01-01,Perna (Entre O Tornozelo e a Pélvis),Trajeto-Com Cat,5979,Com Cat Registrada
+2012-01-01,Pescoço,Típico-Com Cat,1627,Com Cat Registrada
+2012-01-01,Pescoço,Doença do Trabalho-Com Cat,49,Com Cat Registrada
+2012-01-01,Pescoço,Trajeto-Com Cat,643,Com Cat Registrada
+2012-01-01,Punho,Típico-Com Cat,9247,Com Cat Registrada
+2012-01-01,Punho,Doença do Trabalho-Com Cat,822,Com Cat Registrada
+2012-01-01,Punho,Trajeto-Com Cat,2461,Com Cat Registrada
+2012-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Típico-Com Cat,2820,Com Cat Registrada
+2012-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Doença do Trabalho-Com Cat,75,Com Cat Registrada
+2012-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Trajeto-Com Cat,1080,Com Cat Registrada
+2012-01-01,Sistema Músculo-Esquelético,Típico-Com Cat,386,Com Cat Registrada
+2012-01-01,Sistema Músculo-Esquelético,Doença do Trabalho-Com Cat,65,Com Cat Registrada
+2012-01-01,Sistema Músculo-Esquelético,Trajeto-Com Cat,131,Com Cat Registrada
+2012-01-01,Sistema Nervoso,Típico-Com Cat,7188,Com Cat Registrada
+2012-01-01,Sistema Nervoso,Doença do Trabalho-Com Cat,921,Com Cat Registrada
+2012-01-01,Sistema Nervoso,Trajeto-Com Cat,259,Com Cat Registrada
+2012-01-01,Sistemas e Aparelhos,Típico-Com Cat,443,Com Cat Registrada
+2012-01-01,Sistemas e Aparelhos,Doença do Trabalho-Com Cat,155,Com Cat Registrada
+2012-01-01,Sistemas e Aparelhos,Trajeto-Com Cat,157,Com Cat Registrada
+2012-01-01,"Sistemas e Aparelhos, não Informado",Típico-Com Cat,177,Com Cat Registrada
+2012-01-01,"Sistemas e Aparelhos, não Informado",Doença do Trabalho-Com Cat,81,Com Cat Registrada
+2012-01-01,"Sistemas e Aparelhos, não Informado",Trajeto-Com Cat,33,Com Cat Registrada
+2012-01-01,Tórax (Inclusive Órgãos Internos),Típico-Com Cat,3177,Com Cat Registrada
+2012-01-01,Tórax (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,72,Com Cat Registrada
+2012-01-01,Tórax (Inclusive Órgãos Internos),Trajeto-Com Cat,1290,Com Cat Registrada
+2012-01-01,"Tronco, não Informado",Típico-Com Cat,2477,Com Cat Registrada
+2012-01-01,"Tronco, não Informado",Doença do Trabalho-Com Cat,103,Com Cat Registrada
+2012-01-01,"Tronco, não Informado",Trajeto-Com Cat,663,Com Cat Registrada
+2012-01-01,"Tronco, Parte Múltiplas",Típico-Com Cat,2088,Com Cat Registrada
+2012-01-01,"Tronco, Parte Múltiplas",Doença do Trabalho-Com Cat,63,Com Cat Registrada
+2012-01-01,"Tronco, Parte Múltiplas",Trajeto-Com Cat,1152,Com Cat Registrada
+2012-01-01,Ignorada,Sem Cat,166806,Sem Cat Registrada
+2012-01-01,Ignorada,Sem Cat,890,Sem Cat Registrada
+2012-01-01,Ignorada,Sem Cat,33,Sem Cat Registrada
+2012-01-01,Ignorada,Sem Cat,33,Sem Cat Registrada
+2013-01-01,Abdome (Inclusive Órgãos Internos),Típico-Com Cat,2563,Com Cat Registrada
+2013-01-01,Abdome (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,256,Com Cat Registrada
+2013-01-01,Abdome (Inclusive Órgãos Internos),Trajeto-Com Cat,1063,Com Cat Registrada
+2013-01-01,Antebraço (Entre o Punho e o Cotovelo),Típico-Com Cat,15274,Com Cat Registrada
+2013-01-01,Antebraço (Entre o Punho e o Cotovelo),Doença do Trabalho-Com Cat,388,Com Cat Registrada
+2013-01-01,Antebraço (Entre o Punho e o Cotovelo),Trajeto-Com Cat,4134,Com Cat Registrada
+2013-01-01,Aparelho Circulatório,Típico-Com Cat,51,Com Cat Registrada
+2013-01-01,Aparelho Circulatório,Doença do Trabalho-Com Cat,58,Com Cat Registrada
+2013-01-01,Aparelho Circulatório,Trajeto-Com Cat,12,Com Cat Registrada
+2013-01-01,Aparelho Digestivo,Típico-Com Cat,420,Com Cat Registrada
+2013-01-01,Aparelho Digestivo,Doença do Trabalho-Com Cat,145,Com Cat Registrada
+2013-01-01,Aparelho Digestivo,Trajeto-Com Cat,13,Com Cat Registrada
+2013-01-01,Aparelho Gênito-Urinário,Típico-Com Cat,221,Com Cat Registrada
+2013-01-01,Aparelho Gênito-Urinário,Doença do Trabalho-Com Cat,50,Com Cat Registrada
+2013-01-01,Aparelho Gênito-Urinário,Trajeto-Com Cat,65,Com Cat Registrada
+2013-01-01,Aparelho Respiratório,Típico-Com Cat,1709,Com Cat Registrada
+2013-01-01,Aparelho Respiratório,Doença do Trabalho-Com Cat,215,Com Cat Registrada
+2013-01-01,Aparelho Respiratório,Trajeto-Com Cat,49,Com Cat Registrada
+2013-01-01,Artelho,Típico-Com Cat,1818,Com Cat Registrada
+2013-01-01,Artelho,Doença do Trabalho-Com Cat,9,Com Cat Registrada
+2013-01-01,Artelho,Trajeto-Com Cat,326,Com Cat Registrada
+2013-01-01,Articulação do Tornozelo,Típico-Com Cat,14171,Com Cat Registrada
+2013-01-01,Articulação do Tornozelo,Doença do Trabalho-Com Cat,94,Com Cat Registrada
+2013-01-01,Articulação do Tornozelo,Trajeto-Com Cat,6994,Com Cat Registrada
+2013-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Típico-Com Cat,2488,Com Cat Registrada
+2013-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Doença do Trabalho-Com Cat,57,Com Cat Registrada
+2013-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Trajeto-Com Cat,436,Com Cat Registrada
+2013-01-01,Braço (Acima do Cotovelo),Típico-Com Cat,4073,Com Cat Registrada
+2013-01-01,Braço (Acima do Cotovelo),Doença do Trabalho-Com Cat,116,Com Cat Registrada
+2013-01-01,Braço (Acima do Cotovelo),Trajeto-Com Cat,1581,Com Cat Registrada
+2013-01-01,Braço (Entre o Punho e o Ombro),Típico-Com Cat,13249,Com Cat Registrada
+2013-01-01,Braço (Entre o Punho e o Ombro),Doença do Trabalho-Com Cat,899,Com Cat Registrada
+2013-01-01,Braço (Entre o Punho e o Ombro),Trajeto-Com Cat,5150,Com Cat Registrada
+2013-01-01,"Cabeça, não Informado",Típico-Com Cat,13182,Com Cat Registrada
+2013-01-01,"Cabeça, não Informado",Doença do Trabalho-Com Cat,502,Com Cat Registrada
+2013-01-01,"Cabeça, não Informado",Trajeto-Com Cat,2643,Com Cat Registrada
+2013-01-01,"Cabeça, Partes Múltiplas",Típico-Com Cat,4576,Com Cat Registrada
+2013-01-01,"Cabeça, Partes Múltiplas",Doença do Trabalho-Com Cat,93,Com Cat Registrada
+2013-01-01,"Cabeça, Partes Múltiplas",Trajeto-Com Cat,2198,Com Cat Registrada
+2013-01-01,Cotovelo,Típico-Com Cat,3473,Com Cat Registrada
+2013-01-01,Cotovelo,Doença do Trabalho-Com Cat,361,Com Cat Registrada
+2013-01-01,Cotovelo,Trajeto-Com Cat,1598,Com Cat Registrada
+2013-01-01,Coxa,Típico-Com Cat,2800,Com Cat Registrada
+2013-01-01,Coxa,Doença do Trabalho-Com Cat,18,Com Cat Registrada
+2013-01-01,Coxa,Trajeto-Com Cat,695,Com Cat Registrada
+2013-01-01,Crânio (Inclusive Encéfalo),Típico-Com Cat,813,Com Cat Registrada
+2013-01-01,Crânio (Inclusive Encéfalo),Doença do Trabalho-Com Cat,29,Com Cat Registrada
+2013-01-01,Crânio (Inclusive Encéfalo),Trajeto-Com Cat,525,Com Cat Registrada
+2013-01-01,Dedo,Típico-Com Cat,129821,Com Cat Registrada
+2013-01-01,Dedo,Doença do Trabalho-Com Cat,334,Com Cat Registrada
+2013-01-01,Dedo,Trajeto-Com Cat,5549,Com Cat Registrada
+2013-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Típico-Com Cat,14166,Com Cat Registrada
+2013-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Doença do Trabalho-Com Cat,2148,Com Cat Registrada
+2013-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Trajeto-Com Cat,2882,Com Cat Registrada
+2013-01-01,"Face, Partes Múltiplas",Típico-Com Cat,7950,Com Cat Registrada
+2013-01-01,"Face, Partes Múltiplas",Doença do Trabalho-Com Cat,44,Com Cat Registrada
+2013-01-01,"Face, Partes Múltiplas",Trajeto-Com Cat,1363,Com Cat Registrada
+2013-01-01,Joelho,Típico-Com Cat,18701,Com Cat Registrada
+2013-01-01,Joelho,Doença do Trabalho-Com Cat,388,Com Cat Registrada
+2013-01-01,Joelho,Trajeto-Com Cat,9733,Com Cat Registrada
+2013-01-01,Mandíbula (Inclusive Queixo),Típico-Com Cat,704,Com Cat Registrada
+2013-01-01,Mandíbula (Inclusive Queixo),Doença do Trabalho-Com Cat,3,Com Cat Registrada
+2013-01-01,Mandíbula (Inclusive Queixo),Trajeto-Com Cat,238,Com Cat Registrada
+2013-01-01,Mão (Exceto Punho ou Dedos),Típico-Com Cat,37316,Com Cat Registrada
+2013-01-01,Mão (Exceto Punho ou Dedos),Doença do Trabalho-Com Cat,336,Com Cat Registrada
+2013-01-01,Mão (Exceto Punho ou Dedos),Trajeto-Com Cat,3937,Com Cat Registrada
+2013-01-01,"Membros Inferiores, não Informado",Típico-Com Cat,4631,Com Cat Registrada
+2013-01-01,"Membros Inferiores, não Informado",Doença do Trabalho-Com Cat,121,Com Cat Registrada
+2013-01-01,"Membros Inferiores, não Informado",Trajeto-Com Cat,2880,Com Cat Registrada
+2013-01-01,"Membros Inferiores, Partes Múltiplas",Típico-Com Cat,2043,Com Cat Registrada
+2013-01-01,"Membros Inferiores, Partes Múltiplas",Doença do Trabalho-Com Cat,45,Com Cat Registrada
+2013-01-01,"Membros Inferiores, Partes Múltiplas",Trajeto-Com Cat,2068,Com Cat Registrada
+2013-01-01,"Membros Superiores, não Informado",Típico-Com Cat,4790,Com Cat Registrada
+2013-01-01,"Membros Superiores, não Informado",Doença do Trabalho-Com Cat,1423,Com Cat Registrada
+2013-01-01,"Membros Superiores, não Informado",Trajeto-Com Cat,2015,Com Cat Registrada
+2013-01-01,"Membros Superiores, Partes Múltiplas",Típico-Com Cat,3430,Com Cat Registrada
+2013-01-01,"Membros Superiores, Partes Múltiplas",Doença do Trabalho-Com Cat,880,Com Cat Registrada
+2013-01-01,"Membros Superiores, Partes Múltiplas",Trajeto-Com Cat,2041,Com Cat Registrada
+2013-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Típico-Com Cat,1879,Com Cat Registrada
+2013-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Doença do Trabalho-Com Cat,7,Com Cat Registrada
+2013-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Trajeto-Com Cat,372,Com Cat Registrada
+2013-01-01,Olho (Inclusive Nervo Ótico e Visão),Típico-Com Cat,17865,Com Cat Registrada
+2013-01-01,Olho (Inclusive Nervo Ótico e Visão),Doença do Trabalho-Com Cat,83,Com Cat Registrada
+2013-01-01,Olho (Inclusive Nervo Ótico e Visão),Trajeto-Com Cat,348,Com Cat Registrada
+2013-01-01,Ombro,Típico-Com Cat,10089,Com Cat Registrada
+2013-01-01,Ombro,Doença do Trabalho-Com Cat,3660,Com Cat Registrada
+2013-01-01,Ombro,Trajeto-Com Cat,6141,Com Cat Registrada
+2013-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Típico-Com Cat,710,Com Cat Registrada
+2013-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Doença do Trabalho-Com Cat,1061,Com Cat Registrada
+2013-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Trajeto-Com Cat,31,Com Cat Registrada
+2013-01-01,Partes Múltiplas,Típico-Com Cat,10092,Com Cat Registrada
+2013-01-01,Partes Múltiplas,Doença do Trabalho-Com Cat,240,Com Cat Registrada
+2013-01-01,Partes Múltiplas,Trajeto-Com Cat,12654,Com Cat Registrada
+2013-01-01,Pé (Exceto Artelhos),Típico-Com Cat,33280,Com Cat Registrada
+2013-01-01,Pé (Exceto Artelhos),Doença do Trabalho-Com Cat,185,Com Cat Registrada
+2013-01-01,Pé (Exceto Artelhos),Trajeto-Com Cat,9648,Com Cat Registrada
+2013-01-01,Perna (Entre o Tornozelo e o Joelho),Típico-Com Cat,12637,Com Cat Registrada
+2013-01-01,Perna (Entre o Tornozelo e o Joelho),Doença do Trabalho-Com Cat,75,Com Cat Registrada
+2013-01-01,Perna (Entre o Tornozelo e o Joelho),Trajeto-Com Cat,7347,Com Cat Registrada
+2013-01-01,Perna (Entre O Tornozelo e a Pélvis),Típico-Com Cat,12232,Com Cat Registrada
+2013-01-01,Perna (Entre O Tornozelo e a Pélvis),Doença do Trabalho-Com Cat,103,Com Cat Registrada
+2013-01-01,Perna (Entre O Tornozelo e a Pélvis),Trajeto-Com Cat,6525,Com Cat Registrada
+2013-01-01,Pescoço,Típico-Com Cat,1576,Com Cat Registrada
+2013-01-01,Pescoço,Doença do Trabalho-Com Cat,50,Com Cat Registrada
+2013-01-01,Pescoço,Trajeto-Com Cat,755,Com Cat Registrada
+2013-01-01,Punho,Típico-Com Cat,9476,Com Cat Registrada
+2013-01-01,Punho,Doença do Trabalho-Com Cat,938,Com Cat Registrada
+2013-01-01,Punho,Trajeto-Com Cat,2716,Com Cat Registrada
+2013-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Típico-Com Cat,3017,Com Cat Registrada
+2013-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Doença do Trabalho-Com Cat,102,Com Cat Registrada
+2013-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Trajeto-Com Cat,1235,Com Cat Registrada
+2013-01-01,Sistema Músculo-Esquelético,Típico-Com Cat,368,Com Cat Registrada
+2013-01-01,Sistema Músculo-Esquelético,Doença do Trabalho-Com Cat,98,Com Cat Registrada
+2013-01-01,Sistema Músculo-Esquelético,Trajeto-Com Cat,112,Com Cat Registrada
+2013-01-01,Sistema Nervoso,Típico-Com Cat,7897,Com Cat Registrada
+2013-01-01,Sistema Nervoso,Doença do Trabalho-Com Cat,1122,Com Cat Registrada
+2013-01-01,Sistema Nervoso,Trajeto-Com Cat,423,Com Cat Registrada
+2013-01-01,Sistemas e Aparelhos,Típico-Com Cat,469,Com Cat Registrada
+2013-01-01,Sistemas e Aparelhos,Doença do Trabalho-Com Cat,151,Com Cat Registrada
+2013-01-01,Sistemas e Aparelhos,Trajeto-Com Cat,169,Com Cat Registrada
+2013-01-01,"Sistemas e Aparelhos, não Informado",Típico-Com Cat,266,Com Cat Registrada
+2013-01-01,"Sistemas e Aparelhos, não Informado",Doença do Trabalho-Com Cat,84,Com Cat Registrada
+2013-01-01,"Sistemas e Aparelhos, não Informado",Trajeto-Com Cat,77,Com Cat Registrada
+2013-01-01,Tórax (Inclusive Órgãos Internos),Típico-Com Cat,3369,Com Cat Registrada
+2013-01-01,Tórax (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,72,Com Cat Registrada
+2013-01-01,Tórax (Inclusive Órgãos Internos),Trajeto-Com Cat,1554,Com Cat Registrada
+2013-01-01,"Tronco, não Informado",Típico-Com Cat,2517,Com Cat Registrada
+2013-01-01,"Tronco, não Informado",Doença do Trabalho-Com Cat,74,Com Cat Registrada
+2013-01-01,"Tronco, não Informado",Trajeto-Com Cat,741,Com Cat Registrada
+2013-01-01,"Tronco, Parte Múltiplas",Típico-Com Cat,2167,Com Cat Registrada
+2013-01-01,"Tronco, Parte Múltiplas",Doença do Trabalho-Com Cat,65,Com Cat Registrada
+2013-01-01,"Tronco, Parte Múltiplas",Trajeto-Com Cat,1147,Com Cat Registrada
+2013-01-01,Ignorada,Sem Cat,161051,Sem Cat Registrada
+2013-01-01,Ignorada,Sem Cat,842,Sem Cat Registrada
+2013-01-01,Ignorada,Sem Cat,27,Sem Cat Registrada
+2013-01-01,Ignorada,Sem Cat,40,Sem Cat Registrada
+2014-01-01,Abdome (Inclusive Órgãos Internos),Típico-Com Cat,2571,Com Cat Registrada
+2014-01-01,Abdome (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,276,Com Cat Registrada
+2014-01-01,Abdome (Inclusive Órgãos Internos),Trajeto-Com Cat,1118,Com Cat Registrada
+2014-01-01,Antebraço (Entre o Punho e o Cotovelo),Típico-Com Cat,15323,Com Cat Registrada
+2014-01-01,Antebraço (Entre o Punho e o Cotovelo),Doença do Trabalho-Com Cat,347,Com Cat Registrada
+2014-01-01,Antebraço (Entre o Punho e o Cotovelo),Trajeto-Com Cat,4204,Com Cat Registrada
+2014-01-01,Aparelho Circulatório,Típico-Com Cat,58,Com Cat Registrada
+2014-01-01,Aparelho Circulatório,Doença do Trabalho-Com Cat,53,Com Cat Registrada
+2014-01-01,Aparelho Circulatório,Trajeto-Com Cat,11,Com Cat Registrada
+2014-01-01,Aparelho Digestivo,Típico-Com Cat,525,Com Cat Registrada
+2014-01-01,Aparelho Digestivo,Doença do Trabalho-Com Cat,376,Com Cat Registrada
+2014-01-01,Aparelho Digestivo,Trajeto-Com Cat,19,Com Cat Registrada
+2014-01-01,Aparelho Gênito-Urinário,Típico-Com Cat,223,Com Cat Registrada
+2014-01-01,Aparelho Gênito-Urinário,Doença do Trabalho-Com Cat,44,Com Cat Registrada
+2014-01-01,Aparelho Gênito-Urinário,Trajeto-Com Cat,76,Com Cat Registrada
+2014-01-01,Aparelho Respiratório,Típico-Com Cat,1376,Com Cat Registrada
+2014-01-01,Aparelho Respiratório,Doença do Trabalho-Com Cat,183,Com Cat Registrada
+2014-01-01,Aparelho Respiratório,Trajeto-Com Cat,57,Com Cat Registrada
+2014-01-01,Artelho,Típico-Com Cat,1714,Com Cat Registrada
+2014-01-01,Artelho,Doença do Trabalho-Com Cat,5,Com Cat Registrada
+2014-01-01,Artelho,Trajeto-Com Cat,383,Com Cat Registrada
+2014-01-01,Articulação do Tornozelo,Típico-Com Cat,14011,Com Cat Registrada
+2014-01-01,Articulação do Tornozelo,Doença do Trabalho-Com Cat,80,Com Cat Registrada
+2014-01-01,Articulação do Tornozelo,Trajeto-Com Cat,7113,Com Cat Registrada
+2014-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Típico-Com Cat,2385,Com Cat Registrada
+2014-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Doença do Trabalho-Com Cat,64,Com Cat Registrada
+2014-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Trajeto-Com Cat,404,Com Cat Registrada
+2014-01-01,Braço (Acima do Cotovelo),Típico-Com Cat,3982,Com Cat Registrada
+2014-01-01,Braço (Acima do Cotovelo),Doença do Trabalho-Com Cat,124,Com Cat Registrada
+2014-01-01,Braço (Acima do Cotovelo),Trajeto-Com Cat,1698,Com Cat Registrada
+2014-01-01,Braço (Entre o Punho e o Ombro),Típico-Com Cat,13161,Com Cat Registrada
+2014-01-01,Braço (Entre o Punho e o Ombro),Doença do Trabalho-Com Cat,890,Com Cat Registrada
+2014-01-01,Braço (Entre o Punho e o Ombro),Trajeto-Com Cat,5445,Com Cat Registrada
+2014-01-01,"Cabeça, não Informado",Típico-Com Cat,12912,Com Cat Registrada
+2014-01-01,"Cabeça, não Informado",Doença do Trabalho-Com Cat,520,Com Cat Registrada
+2014-01-01,"Cabeça, não Informado",Trajeto-Com Cat,2637,Com Cat Registrada
+2014-01-01,"Cabeça, Partes Múltiplas",Típico-Com Cat,4615,Com Cat Registrada
+2014-01-01,"Cabeça, Partes Múltiplas",Doença do Trabalho-Com Cat,76,Com Cat Registrada
+2014-01-01,"Cabeça, Partes Múltiplas",Trajeto-Com Cat,2069,Com Cat Registrada
+2014-01-01,Cotovelo,Típico-Com Cat,3388,Com Cat Registrada
+2014-01-01,Cotovelo,Doença do Trabalho-Com Cat,308,Com Cat Registrada
+2014-01-01,Cotovelo,Trajeto-Com Cat,1559,Com Cat Registrada
+2014-01-01,Coxa,Típico-Com Cat,2757,Com Cat Registrada
+2014-01-01,Coxa,Doença do Trabalho-Com Cat,10,Com Cat Registrada
+2014-01-01,Coxa,Trajeto-Com Cat,696,Com Cat Registrada
+2014-01-01,Crânio (Inclusive Encéfalo),Típico-Com Cat,868,Com Cat Registrada
+2014-01-01,Crânio (Inclusive Encéfalo),Doença do Trabalho-Com Cat,23,Com Cat Registrada
+2014-01-01,Crânio (Inclusive Encéfalo),Trajeto-Com Cat,528,Com Cat Registrada
+2014-01-01,Dedo,Típico-Com Cat,128055,Com Cat Registrada
+2014-01-01,Dedo,Doença do Trabalho-Com Cat,427,Com Cat Registrada
+2014-01-01,Dedo,Trajeto-Com Cat,5721,Com Cat Registrada
+2014-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Típico-Com Cat,14167,Com Cat Registrada
+2014-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Doença do Trabalho-Com Cat,2218,Com Cat Registrada
+2014-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Trajeto-Com Cat,2982,Com Cat Registrada
+2014-01-01,"Face, Partes Múltiplas",Típico-Com Cat,7836,Com Cat Registrada
+2014-01-01,"Face, Partes Múltiplas",Doença do Trabalho-Com Cat,53,Com Cat Registrada
+2014-01-01,"Face, Partes Múltiplas",Trajeto-Com Cat,1351,Com Cat Registrada
+2014-01-01,Joelho,Típico-Com Cat,18420,Com Cat Registrada
+2014-01-01,Joelho,Doença do Trabalho-Com Cat,417,Com Cat Registrada
+2014-01-01,Joelho,Trajeto-Com Cat,9868,Com Cat Registrada
+2014-01-01,Mandíbula (Inclusive Queixo),Típico-Com Cat,729,Com Cat Registrada
+2014-01-01,Mandíbula (Inclusive Queixo),Doença do Trabalho-Com Cat,4,Com Cat Registrada
+2014-01-01,Mandíbula (Inclusive Queixo),Trajeto-Com Cat,210,Com Cat Registrada
+2014-01-01,Mão (Exceto Punho ou Dedos),Típico-Com Cat,36614,Com Cat Registrada
+2014-01-01,Mão (Exceto Punho ou Dedos),Doença do Trabalho-Com Cat,368,Com Cat Registrada
+2014-01-01,Mão (Exceto Punho ou Dedos),Trajeto-Com Cat,3863,Com Cat Registrada
+2014-01-01,"Membros Inferiores, não Informado",Típico-Com Cat,4724,Com Cat Registrada
+2014-01-01,"Membros Inferiores, não Informado",Doença do Trabalho-Com Cat,101,Com Cat Registrada
+2014-01-01,"Membros Inferiores, não Informado",Trajeto-Com Cat,2997,Com Cat Registrada
+2014-01-01,"Membros Inferiores, Partes Múltiplas",Típico-Com Cat,2025,Com Cat Registrada
+2014-01-01,"Membros Inferiores, Partes Múltiplas",Doença do Trabalho-Com Cat,59,Com Cat Registrada
+2014-01-01,"Membros Inferiores, Partes Múltiplas",Trajeto-Com Cat,2100,Com Cat Registrada
+2014-01-01,"Membros Superiores, não Informado",Típico-Com Cat,4740,Com Cat Registrada
+2014-01-01,"Membros Superiores, não Informado",Doença do Trabalho-Com Cat,1419,Com Cat Registrada
+2014-01-01,"Membros Superiores, não Informado",Trajeto-Com Cat,2151,Com Cat Registrada
+2014-01-01,"Membros Superiores, Partes Múltiplas",Típico-Com Cat,3378,Com Cat Registrada
+2014-01-01,"Membros Superiores, Partes Múltiplas",Doença do Trabalho-Com Cat,831,Com Cat Registrada
+2014-01-01,"Membros Superiores, Partes Múltiplas",Trajeto-Com Cat,2314,Com Cat Registrada
+2014-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Típico-Com Cat,1767,Com Cat Registrada
+2014-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Doença do Trabalho-Com Cat,17,Com Cat Registrada
+2014-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Trajeto-Com Cat,323,Com Cat Registrada
+2014-01-01,Olho (Inclusive Nervo Ótico e Visão),Típico-Com Cat,17520,Com Cat Registrada
+2014-01-01,Olho (Inclusive Nervo Ótico e Visão),Doença do Trabalho-Com Cat,110,Com Cat Registrada
+2014-01-01,Olho (Inclusive Nervo Ótico e Visão),Trajeto-Com Cat,327,Com Cat Registrada
+2014-01-01,Ombro,Típico-Com Cat,9937,Com Cat Registrada
+2014-01-01,Ombro,Doença do Trabalho-Com Cat,3831,Com Cat Registrada
+2014-01-01,Ombro,Trajeto-Com Cat,6351,Com Cat Registrada
+2014-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Típico-Com Cat,746,Com Cat Registrada
+2014-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Doença do Trabalho-Com Cat,856,Com Cat Registrada
+2014-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Trajeto-Com Cat,27,Com Cat Registrada
+2014-01-01,Partes Múltiplas,Típico-Com Cat,9849,Com Cat Registrada
+2014-01-01,Partes Múltiplas,Doença do Trabalho-Com Cat,249,Com Cat Registrada
+2014-01-01,Partes Múltiplas,Trajeto-Com Cat,13664,Com Cat Registrada
+2014-01-01,Pé (Exceto Artelhos),Típico-Com Cat,33778,Com Cat Registrada
+2014-01-01,Pé (Exceto Artelhos),Doença do Trabalho-Com Cat,206,Com Cat Registrada
+2014-01-01,Pé (Exceto Artelhos),Trajeto-Com Cat,10096,Com Cat Registrada
+2014-01-01,Perna (Entre o Tornozelo e o Joelho),Típico-Com Cat,12527,Com Cat Registrada
+2014-01-01,Perna (Entre o Tornozelo e o Joelho),Doença do Trabalho-Com Cat,87,Com Cat Registrada
+2014-01-01,Perna (Entre o Tornozelo e o Joelho),Trajeto-Com Cat,7612,Com Cat Registrada
+2014-01-01,Perna (Entre O Tornozelo e a Pélvis),Típico-Com Cat,12185,Com Cat Registrada
+2014-01-01,Perna (Entre O Tornozelo e a Pélvis),Doença do Trabalho-Com Cat,87,Com Cat Registrada
+2014-01-01,Perna (Entre O Tornozelo e a Pélvis),Trajeto-Com Cat,6843,Com Cat Registrada
+2014-01-01,Pescoço,Típico-Com Cat,1413,Com Cat Registrada
+2014-01-01,Pescoço,Doença do Trabalho-Com Cat,57,Com Cat Registrada
+2014-01-01,Pescoço,Trajeto-Com Cat,823,Com Cat Registrada
+2014-01-01,Punho,Típico-Com Cat,9350,Com Cat Registrada
+2014-01-01,Punho,Doença do Trabalho-Com Cat,998,Com Cat Registrada
+2014-01-01,Punho,Trajeto-Com Cat,2884,Com Cat Registrada
+2014-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Típico-Com Cat,3125,Com Cat Registrada
+2014-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Doença do Trabalho-Com Cat,109,Com Cat Registrada
+2014-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Trajeto-Com Cat,1251,Com Cat Registrada
+2014-01-01,Sistema Músculo-Esquelético,Típico-Com Cat,416,Com Cat Registrada
+2014-01-01,Sistema Músculo-Esquelético,Doença do Trabalho-Com Cat,48,Com Cat Registrada
+2014-01-01,Sistema Músculo-Esquelético,Trajeto-Com Cat,139,Com Cat Registrada
+2014-01-01,Sistema Nervoso,Típico-Com Cat,8699,Com Cat Registrada
+2014-01-01,Sistema Nervoso,Doença do Trabalho-Com Cat,1191,Com Cat Registrada
+2014-01-01,Sistema Nervoso,Trajeto-Com Cat,458,Com Cat Registrada
+2014-01-01,Sistemas e Aparelhos,Típico-Com Cat,477,Com Cat Registrada
+2014-01-01,Sistemas e Aparelhos,Doença do Trabalho-Com Cat,164,Com Cat Registrada
+2014-01-01,Sistemas e Aparelhos,Trajeto-Com Cat,160,Com Cat Registrada
+2014-01-01,"Sistemas e Aparelhos, não Informado",Típico-Com Cat,182,Com Cat Registrada
+2014-01-01,"Sistemas e Aparelhos, não Informado",Doença do Trabalho-Com Cat,106,Com Cat Registrada
+2014-01-01,"Sistemas e Aparelhos, não Informado",Trajeto-Com Cat,75,Com Cat Registrada
+2014-01-01,Tórax (Inclusive Órgãos Internos),Típico-Com Cat,3094,Com Cat Registrada
+2014-01-01,Tórax (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,71,Com Cat Registrada
+2014-01-01,Tórax (Inclusive Órgãos Internos),Trajeto-Com Cat,1567,Com Cat Registrada
+2014-01-01,"Tronco, não Informado",Típico-Com Cat,2593,Com Cat Registrada
+2014-01-01,"Tronco, não Informado",Doença do Trabalho-Com Cat,67,Com Cat Registrada
+2014-01-01,"Tronco, não Informado",Trajeto-Com Cat,754,Com Cat Registrada
+2014-01-01,"Tronco, Parte Múltiplas",Típico-Com Cat,2239,Com Cat Registrada
+2014-01-01,"Tronco, Parte Múltiplas",Doença do Trabalho-Com Cat,69,Com Cat Registrada
+2014-01-01,"Tronco, Parte Múltiplas",Trajeto-Com Cat,1302,Com Cat Registrada
+2014-01-01,Ignorada,Sem Cat,147186,Sem Cat Registrada
+2014-01-01,Ignorada,Sem Cat,784,Sem Cat Registrada
+2014-01-01,Ignorada,Sem Cat,22,Sem Cat Registrada
+2014-01-01,Ignorada,Sem Cat,27,Sem Cat Registrada
+2015-01-01,Abdome (Inclusive Órgãos Internos),Típico-Com Cat,2222,Com Cat Registrada
+2015-01-01,Abdome (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,215,Com Cat Registrada
+2015-01-01,Abdome (Inclusive Órgãos Internos),Trajeto-Com Cat,1003,Com Cat Registrada
+2015-01-01,Antebraço (Entre o Punho e o Cotovelo),Típico-Com Cat,13820,Com Cat Registrada
+2015-01-01,Antebraço (Entre o Punho e o Cotovelo),Doença do Trabalho-Com Cat,257,Com Cat Registrada
+2015-01-01,Antebraço (Entre o Punho e o Cotovelo),Trajeto-Com Cat,3976,Com Cat Registrada
+2015-01-01,Aparelho Circulatório,Típico-Com Cat,57,Com Cat Registrada
+2015-01-01,Aparelho Circulatório,Doença do Trabalho-Com Cat,42,Com Cat Registrada
+2015-01-01,Aparelho Circulatório,Trajeto-Com Cat,12,Com Cat Registrada
+2015-01-01,Aparelho Digestivo,Típico-Com Cat,347,Com Cat Registrada
+2015-01-01,Aparelho Digestivo,Doença do Trabalho-Com Cat,40,Com Cat Registrada
+2015-01-01,Aparelho Digestivo,Trajeto-Com Cat,6,Com Cat Registrada
+2015-01-01,Aparelho Gênito-Urinário,Típico-Com Cat,178,Com Cat Registrada
+2015-01-01,Aparelho Gênito-Urinário,Doença do Trabalho-Com Cat,29,Com Cat Registrada
+2015-01-01,Aparelho Gênito-Urinário,Trajeto-Com Cat,80,Com Cat Registrada
+2015-01-01,Aparelho Respiratório,Típico-Com Cat,1244,Com Cat Registrada
+2015-01-01,Aparelho Respiratório,Doença do Trabalho-Com Cat,133,Com Cat Registrada
+2015-01-01,Aparelho Respiratório,Trajeto-Com Cat,34,Com Cat Registrada
+2015-01-01,Artelho,Típico-Com Cat,1450,Com Cat Registrada
+2015-01-01,Artelho,Doença do Trabalho-Com Cat,8,Com Cat Registrada
+2015-01-01,Artelho,Trajeto-Com Cat,330,Com Cat Registrada
+2015-01-01,Articulação do Tornozelo,Típico-Com Cat,12821,Com Cat Registrada
+2015-01-01,Articulação do Tornozelo,Doença do Trabalho-Com Cat,64,Com Cat Registrada
+2015-01-01,Articulação do Tornozelo,Trajeto-Com Cat,6640,Com Cat Registrada
+2015-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Típico-Com Cat,2136,Com Cat Registrada
+2015-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Doença do Trabalho-Com Cat,43,Com Cat Registrada
+2015-01-01,"Boca (Inclusive Lábios, Dentes, Língua, Garga",Trajeto-Com Cat,323,Com Cat Registrada
+2015-01-01,Braço (Acima do Cotovelo),Típico-Com Cat,3433,Com Cat Registrada
+2015-01-01,Braço (Acima do Cotovelo),Doença do Trabalho-Com Cat,76,Com Cat Registrada
+2015-01-01,Braço (Acima do Cotovelo),Trajeto-Com Cat,1435,Com Cat Registrada
+2015-01-01,Braço (Entre o Punho e o Ombro),Típico-Com Cat,11405,Com Cat Registrada
+2015-01-01,Braço (Entre o Punho e o Ombro),Doença do Trabalho-Com Cat,611,Com Cat Registrada
+2015-01-01,Braço (Entre o Punho e o Ombro),Trajeto-Com Cat,4890,Com Cat Registrada
+2015-01-01,"Cabeça, não Informado",Típico-Com Cat,11740,Com Cat Registrada
+2015-01-01,"Cabeça, não Informado",Doença do Trabalho-Com Cat,443,Com Cat Registrada
+2015-01-01,"Cabeça, não Informado",Trajeto-Com Cat,2328,Com Cat Registrada
+2015-01-01,"Cabeça, Partes Múltiplas",Típico-Com Cat,4163,Com Cat Registrada
+2015-01-01,"Cabeça, Partes Múltiplas",Doença do Trabalho-Com Cat,55,Com Cat Registrada
+2015-01-01,"Cabeça, Partes Múltiplas",Trajeto-Com Cat,1869,Com Cat Registrada
+2015-01-01,Cotovelo,Típico-Com Cat,3000,Com Cat Registrada
+2015-01-01,Cotovelo,Doença do Trabalho-Com Cat,259,Com Cat Registrada
+2015-01-01,Cotovelo,Trajeto-Com Cat,1457,Com Cat Registrada
+2015-01-01,Coxa,Típico-Com Cat,2561,Com Cat Registrada
+2015-01-01,Coxa,Doença do Trabalho-Com Cat,16,Com Cat Registrada
+2015-01-01,Coxa,Trajeto-Com Cat,692,Com Cat Registrada
+2015-01-01,Crânio (Inclusive Encéfalo),Típico-Com Cat,699,Com Cat Registrada
+2015-01-01,Crânio (Inclusive Encéfalo),Doença do Trabalho-Com Cat,16,Com Cat Registrada
+2015-01-01,Crânio (Inclusive Encéfalo),Trajeto-Com Cat,429,Com Cat Registrada
+2015-01-01,Dedo,Típico-Com Cat,112573,Com Cat Registrada
+2015-01-01,Dedo,Doença do Trabalho-Com Cat,405,Com Cat Registrada
+2015-01-01,Dedo,Trajeto-Com Cat,4930,Com Cat Registrada
+2015-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Típico-Com Cat,12066,Com Cat Registrada
+2015-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Doença do Trabalho-Com Cat,1727,Com Cat Registrada
+2015-01-01,"Dorso (Incl. Músculos Dorsais, Coluna e Medula)",Trajeto-Com Cat,2741,Com Cat Registrada
+2015-01-01,"Face, Partes Múltiplas",Típico-Com Cat,7148,Com Cat Registrada
+2015-01-01,"Face, Partes Múltiplas",Doença do Trabalho-Com Cat,35,Com Cat Registrada
+2015-01-01,"Face, Partes Múltiplas",Trajeto-Com Cat,1244,Com Cat Registrada
+2015-01-01,Joelho,Típico-Com Cat,16429,Com Cat Registrada
+2015-01-01,Joelho,Doença do Trabalho-Com Cat,316,Com Cat Registrada
+2015-01-01,Joelho,Trajeto-Com Cat,9101,Com Cat Registrada
+2015-01-01,Mandíbula (Inclusive Queixo),Típico-Com Cat,587,Com Cat Registrada
+2015-01-01,Mandíbula (Inclusive Queixo),Doença do Trabalho-Com Cat,2,Com Cat Registrada
+2015-01-01,Mandíbula (Inclusive Queixo),Trajeto-Com Cat,183,Com Cat Registrada
+2015-01-01,Mão (Exceto Punho ou Dedos),Típico-Com Cat,32546,Com Cat Registrada
+2015-01-01,Mão (Exceto Punho ou Dedos),Doença do Trabalho-Com Cat,250,Com Cat Registrada
+2015-01-01,Mão (Exceto Punho ou Dedos),Trajeto-Com Cat,3540,Com Cat Registrada
+2015-01-01,"Membros Inferiores, não Informado",Típico-Com Cat,4293,Com Cat Registrada
+2015-01-01,"Membros Inferiores, não Informado",Doença do Trabalho-Com Cat,83,Com Cat Registrada
+2015-01-01,"Membros Inferiores, não Informado",Trajeto-Com Cat,2764,Com Cat Registrada
+2015-01-01,"Membros Inferiores, Partes Múltiplas",Típico-Com Cat,1748,Com Cat Registrada
+2015-01-01,"Membros Inferiores, Partes Múltiplas",Doença do Trabalho-Com Cat,29,Com Cat Registrada
+2015-01-01,"Membros Inferiores, Partes Múltiplas",Trajeto-Com Cat,2107,Com Cat Registrada
+2015-01-01,"Membros Superiores, não Informado",Típico-Com Cat,4203,Com Cat Registrada
+2015-01-01,"Membros Superiores, não Informado",Doença do Trabalho-Com Cat,1241,Com Cat Registrada
+2015-01-01,"Membros Superiores, não Informado",Trajeto-Com Cat,2059,Com Cat Registrada
+2015-01-01,"Membros Superiores, Partes Múltiplas",Típico-Com Cat,3132,Com Cat Registrada
+2015-01-01,"Membros Superiores, Partes Múltiplas",Doença do Trabalho-Com Cat,598,Com Cat Registrada
+2015-01-01,"Membros Superiores, Partes Múltiplas",Trajeto-Com Cat,2109,Com Cat Registrada
+2015-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Típico-Com Cat,1562,Com Cat Registrada
+2015-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Doença do Trabalho-Com Cat,12,Com Cat Registrada
+2015-01-01,"Nariz (Inclusive Fossas Nasais, Seios da Face",Trajeto-Com Cat,260,Com Cat Registrada
+2015-01-01,Olho (Inclusive Nervo Ótico e Visão),Típico-Com Cat,15443,Com Cat Registrada
+2015-01-01,Olho (Inclusive Nervo Ótico e Visão),Doença do Trabalho-Com Cat,75,Com Cat Registrada
+2015-01-01,Olho (Inclusive Nervo Ótico e Visão),Trajeto-Com Cat,273,Com Cat Registrada
+2015-01-01,Ombro,Típico-Com Cat,8537,Com Cat Registrada
+2015-01-01,Ombro,Doença do Trabalho-Com Cat,2639,Com Cat Registrada
+2015-01-01,Ombro,Trajeto-Com Cat,5850,Com Cat Registrada
+2015-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Típico-Com Cat,687,Com Cat Registrada
+2015-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Doença do Trabalho-Com Cat,700,Com Cat Registrada
+2015-01-01,"Ouvido (Externo, Médio, Interno, Audição e Eq",Trajeto-Com Cat,28,Com Cat Registrada
+2015-01-01,Partes Múltiplas,Típico-Com Cat,8905,Com Cat Registrada
+2015-01-01,Partes Múltiplas,Doença do Trabalho-Com Cat,222,Com Cat Registrada
+2015-01-01,Partes Múltiplas,Trajeto-Com Cat,12758,Com Cat Registrada
+2015-01-01,Pé (Exceto Artelhos),Típico-Com Cat,29903,Com Cat Registrada
+2015-01-01,Pé (Exceto Artelhos),Doença do Trabalho-Com Cat,143,Com Cat Registrada
+2015-01-01,Pé (Exceto Artelhos),Trajeto-Com Cat,9166,Com Cat Registrada
+2015-01-01,Perna (Entre o Tornozelo e o Joelho),Típico-Com Cat,10975,Com Cat Registrada
+2015-01-01,Perna (Entre o Tornozelo e o Joelho),Doença do Trabalho-Com Cat,59,Com Cat Registrada
+2015-01-01,Perna (Entre o Tornozelo e o Joelho),Trajeto-Com Cat,6874,Com Cat Registrada
+2015-01-01,Perna (Entre O Tornozelo e a Pélvis),Típico-Com Cat,10766,Com Cat Registrada
+2015-01-01,Perna (Entre O Tornozelo e a Pélvis),Doença do Trabalho-Com Cat,65,Com Cat Registrada
+2015-01-01,Perna (Entre O Tornozelo e a Pélvis),Trajeto-Com Cat,6018,Com Cat Registrada
+2015-01-01,Pescoço,Típico-Com Cat,1349,Com Cat Registrada
+2015-01-01,Pescoço,Doença do Trabalho-Com Cat,34,Com Cat Registrada
+2015-01-01,Pescoço,Trajeto-Com Cat,718,Com Cat Registrada
+2015-01-01,Punho,Típico-Com Cat,8271,Com Cat Registrada
+2015-01-01,Punho,Doença do Trabalho-Com Cat,742,Com Cat Registrada
+2015-01-01,Punho,Trajeto-Com Cat,2700,Com Cat Registrada
+2015-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Típico-Com Cat,2776,Com Cat Registrada
+2015-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Doença do Trabalho-Com Cat,83,Com Cat Registrada
+2015-01-01,"Quadris (Inclusive Pélvis, Órgãos Pélvicos e",Trajeto-Com Cat,1161,Com Cat Registrada
+2015-01-01,Sistema Músculo-Esquelético,Típico-Com Cat,332,Com Cat Registrada
+2015-01-01,Sistema Músculo-Esquelético,Doença do Trabalho-Com Cat,42,Com Cat Registrada
+2015-01-01,Sistema Músculo-Esquelético,Trajeto-Com Cat,111,Com Cat Registrada
+2015-01-01,Sistema Nervoso,Típico-Com Cat,10355,Com Cat Registrada
+2015-01-01,Sistema Nervoso,Doença do Trabalho-Com Cat,1072,Com Cat Registrada
+2015-01-01,Sistema Nervoso,Trajeto-Com Cat,481,Com Cat Registrada
+2015-01-01,Sistemas e Aparelhos,Típico-Com Cat,452,Com Cat Registrada
+2015-01-01,Sistemas e Aparelhos,Doença do Trabalho-Com Cat,102,Com Cat Registrada
+2015-01-01,Sistemas e Aparelhos,Trajeto-Com Cat,172,Com Cat Registrada
+2015-01-01,"Sistemas e Aparelhos, não Informado",Típico-Com Cat,200,Com Cat Registrada
+2015-01-01,"Sistemas e Aparelhos, não Informado",Doença do Trabalho-Com Cat,88,Com Cat Registrada
+2015-01-01,"Sistemas e Aparelhos, não Informado",Trajeto-Com Cat,38,Com Cat Registrada
+2015-01-01,Tórax (Inclusive Órgãos Internos),Típico-Com Cat,2793,Com Cat Registrada
+2015-01-01,Tórax (Inclusive Órgãos Internos),Doença do Trabalho-Com Cat,63,Com Cat Registrada
+2015-01-01,Tórax (Inclusive Órgãos Internos),Trajeto-Com Cat,1368,Com Cat Registrada
+2015-01-01,"Tronco, não Informado",Típico-Com Cat,2365,Com Cat Registrada
+2015-01-01,"Tronco, não Informado",Doença do Trabalho-Com Cat,49,Com Cat Registrada
+2015-01-01,"Tronco, não Informado",Trajeto-Com Cat,702,Com Cat Registrada
+2015-01-01,"Tronco, Parte Múltiplas",Típico-Com Cat,1991,Com Cat Registrada
+2015-01-01,"Tronco, Parte Múltiplas",Doença do Trabalho-Com Cat,57,Com Cat Registrada
+2015-01-01,"Tronco, Parte Múltiplas",Trajeto-Com Cat,1079,Com Cat Registrada
+2015-01-01,Ignorada,Sem Cat,109453,Sem Cat Registrada
+2015-01-01,Ignorada,Sem Cat,222,Sem Cat Registrada
+2015-01-01,Ignorada,Sem Cat,7,Sem Cat Registrada
+2015-01-01,Ignorada,Sem Cat,8,Sem Cat Registrada
