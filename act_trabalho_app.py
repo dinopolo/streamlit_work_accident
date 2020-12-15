@@ -8,29 +8,29 @@ import plotly.express as px
 
 @st.cache(persist=True)
 def load_complete_data():
-    df0 = pd.read_csv("./Datasets/df_mes_clean.csv")
-    df1 = pd.read_csv("./Datasets/df_idade_clean.csv")
-    df2 = pd.read_csv("./Datasets/df_parte_corpo_clean.csv")
-    df3 = pd.read_csv("./Datasets/df_cnae20_clean.csv")
+    df0 = pd.read_csv("https://raw.githubusercontent.com/dinopolo/streamlit_work_accident/main/Datasets/df_mes_clean.csv")
+    df1 = pd.read_csv("https://raw.githubusercontent.com/dinopolo/streamlit_work_accident/main/Datasets/df_idade_clean.csv")
+    df2 = pd.read_csv("https://raw.githubusercontent.com/dinopolo/streamlit_work_accident/main/Datasets/df_parte_corpo_clean.csv")
+    df3 = pd.read_csv("https://raw.githubusercontent.com/dinopolo/streamlit_work_accident/main/Datasets/df_cnae20_clean.csv")
     return [df0, df1, df2, df3]
 
 @st.cache(persist=True)
 def load_mm():
     # url_mes = PEGAR LINK NO GITHUB
-    df_mes = pd.read_csv("./Datasets/df_mes_clean.csv")
+    df_mes = pd.read_csv("https://raw.githubusercontent.com/dinopolo/streamlit_work_accident/main/Datasets/df_mes_clean.csv")
     df_mm = pd.DataFrame(df_mes.groupby(by='mes')['qte_acidentes'].mean())
     return df_mm
 
 @st.cache(persist=True)
 def load_ea():
-    df_mes = pd.read_csv("./Datasets/df_mes_clean.csv")
+    df_mes = pd.read_csv("https://raw.githubusercontent.com/dinopolo/streamlit_work_accident/main/Datasets/df_mes_clean.csv")
     df_ea = pd.DataFrame(df_mes.groupby(by='ano')['qte_acidentes'].sum())
     return df_ea
 
 @st.cache(persist=True)
 def load_fe():
     # url_idade = PEGAR LINK NO GITHUB
-    df_idade = pd.read_csv("./Datasets/df_idade_clean.csv")
+    df_idade = pd.read_csv("https://raw.githubusercontent.com/dinopolo/streamlit_work_accident/main/Datasets/df_idade_clean.csv")
     df_fe = df_idade.groupby(by=['idade', 'sexo'])['qte_acidentes'].sum().reset_index()
     df_fe = df_fe.set_index('idade')
     return df_fe
@@ -38,7 +38,7 @@ def load_fe():
 @st.cache(persist=True)
 def load_pa():
     # url_partecorpo = PEGAR LINK NO GITHUB
-    df_partecorpo = pd.read_csv("./Datasets/df_parte_corpo_clean.csv")
+    df_partecorpo = pd.read_csv("https://raw.githubusercontent.com/dinopolo/streamlit_work_accident/main/Datasets/df_parte_corpo_clean.csv")
     df_pa = pd.DataFrame(df_partecorpo.groupby(by='parte_atingida')['qte_acidentes'].sum()).sort_values(by=['qte_acidentes'])
     df_pa = df_pa[df_pa.index != 'Ignorada']
     df_pa = df_pa.tail(10)
@@ -47,7 +47,7 @@ def load_pa():
 @st.cache(persist=True)
 def load_c2():
     # url_cnae = PEGAR LINK NO GITHUB
-    df_cnae = pd.read_csv("./Datasets/df_cnae20_clean.csv")
+    df_cnae = pd.read_csv("https://raw.githubusercontent.com/dinopolo/streamlit_work_accident/main/Datasets/df_cnae20_clean.csv")
     df_c2 = pd.DataFrame(df_cnae.groupby(by='cnae')['qte_acidentes'].sum()).sort_values(by=['qte_acidentes'], ascending=False)
     df_c2 = df_c2[df_c2.index != '9999:Ignorado']
     df_c2 = df_c2.head(10)
@@ -64,7 +64,7 @@ df_c2 = load_c2()
 
 # Descrição
 st.sidebar.markdown("**Sobre o *web app*:**")
-st.sidebar.markdown("Com esse *web app* você pode analisar os acidentes de trabalho no Brasil até 2018 por diferentes categorias. Além disso, pode verificar tendências e quantidades dos acidentes de trabalho, e, com isso, tirar *insights* para prevenção em seu trabalho ou empresa.")
+st.sidebar.markdown("Com esse *web app* você pode analisar os acidentes de trabalho no Brasil até 2015 por diferentes categorias. Além disso, pode verificar tendências e quantidades dos acidentes de trabalho, e, com isso, tirar *insights* para prevenção em seu trabalho ou empresa.")
 
 st.sidebar.markdown("**Como funciona o *web app*:**")
 st.sidebar.markdown("Para utilizar o *web app*, basta selecionar a categoria que deseja visualizar e então o visualização será exibida. Além disso, todos os gráficos são interativos, assim, é possível baixar a imagem dos gráficos, aumentar o zoom em determinadas áreas e  basta passar o ponteiro do mouse no canto superior direito do gráfico que a barra com as opções de controle aparece. Ainda, ao marcar a caixa 'Mostrar dataset completo' é possível visualizar a partir de qual dataset as visualizações foram geradas.")
