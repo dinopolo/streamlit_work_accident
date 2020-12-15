@@ -238,8 +238,6 @@ streamlit==0.60.0
 suod==0.0.2
 tabulate==0.8.7
 tensorboard==1.14.0
-tensorflow @ file:///D:/bld/tensorflow_1594833538462/work/tensorflow-1.14.0-cp37-cp37m-win_amd64.whl
-tensorflow-estimator==1.14.0
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
