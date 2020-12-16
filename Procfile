@@ -1,1 +1,1 @@
-web: gunicorn app:act_trabalho_app
+web: python act_trabalho_app.py
