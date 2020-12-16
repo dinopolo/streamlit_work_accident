@@ -25,4 +25,4 @@ Thw web app was developed in Python and the following libraries was needed:
 
 **The web app can be used in the following link: https://acidentesdetrabalho.herokuapp.com/**
 
-All datasets was obtained in the [Brazilian Open Data Site](https://dados.gov.br/).
+All datasets was obtained in the [Brazilian Open Data Portal](https://dados.gov.br/).
