@@ -1,1 +1,0 @@
-web: python act_trabalho_app.py
