@@ -1,6 +1,6 @@
 # **Acidentes de Trabalho no Brasil até 2015**
 
-Neste projeto desenvolvi um *web app* para analisar os acidentes de trabalho no Brasil até o ano de 2015. Para a análise seleciona-se uma (entre cinco) categoria desejada e, então, é gerado uma visualização. Além disso, se a pessoa que está utilizando o *web app* desejar, pode visualizar o *dataset* completo que foi utilizado para gerar o gráfico da categoria selecionada.
+Neste projeto desenvolvi um *web app* para analisar os acidentes de trabalho no Brasil até o ano de 2015. Para a análise seleciona-se uma categoria desejada (entre cinco) e, então, é gerado uma visualização. Além disso, se a pessoa que está utilizando o *web app* desejar, pode visualizar o *dataset* completo que foi utilizado para gerar o gráfico da categoria selecionada.
 
 O *web app* foi desenvolvido em Python e foram necessárias as seguintes bibliotecas:
 - Streamlit;
@@ -15,7 +15,7 @@ Todos os *datasets* utilizados foram obtidos no [Portal Brasileiro de Dados Aber
 ---
 # **Work Accidents in Brazil until 2015**
 
-In this project I developed a web app to analyze the work accidents in Brazil until 2015. For the analysis, you have to select one (between five) category and, then, it is built a visualization. Besides, you can visualize the complete dataset used to built the graph of the selected category.
+In this project I developed a web app to analyze the work accidents in Brazil until 2015. For the analysis, you have to select one category (between five) and, then, it is built a visualization. Besides, you can visualize the complete dataset used to built the graph of the selected category.
 
 Thw web app was developed in Python and the following libraries was needed:
 - Streamlit;
